@@ -20,7 +20,6 @@
 18,194,Charly Leundeu Keunang,2015-03-01,shot and Tasered,unarmed,43.0,M,B,Los Angeles,CA,True,attack,Not fleeing,True,-118.245,34.043,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
 19,249,Carl Lao,2015-03-04,shot,gun,28.0,M,A,Stockton,CA,False,attack,Not fleeing,False,-121.286,37.948,True,CA,44797,74.9,25.3,37,12.2,1.1,21.5,40.3
 20,201,Sergio Alexander Navas,2015-03-05,shot,unarmed,36.0,M,H,Burbank,CA,False,other,Car,False,-118.345,34.150999999999996,True,CA,66076,88.7,11,72.7,2.5,0.5,11.6,24.5
-21,201,Sergio Alexander Navas,2015-03-05,shot,unarmed,36.0,M,H,Burbank,CA,False,other,Car,False,-118.345,34.150999999999996,True,CA,65472,85,12.1,60.8,2.7,1.3,7.7,50.9
 22,204,Monique Jenee Deckard,2015-03-08,shot,knife,43.0,F,B,Anaheim,CA,True,other,Not fleeing,True,-117.94,33.819,True,CA,60752,75.8,16.5,52.7,2.8,0.8,14.8,52.8
 23,883,Edixon  Franco,2015-03-10,shot,sword,37.0,M,H,Ontario,CA,True,other,Car,False,-117.655,34.05,True,CA,54114,70.6,18.1,51,6.4,1,5.2,69
 24,279,Benito Osorio,2015-03-11,shot,gun,39.0,M,H,Santa Ana,CA,False,attack,Not fleeing,False,-117.868,33.743,True,CA,52253,54.8,22.1,45.9,1.5,1,10.5,78.2
@@ -415,7 +414,6 @@
 413,2693,Santino Trevino,2017-06-23,shot,gun,20.0,M,H,Hollywood Hills,CA,False,attack,Not fleeing,False,-118.346,34.105,True,,,,,,,,,
 414,2716,,2017-06-28,shot,gun,,M,,Los Angeles,CA,True,attack,Not fleeing,True,-118.26299999999999,34.059,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
 415,2720,Marco Cardoza,2017-06-29,shot,toy weapon,41.0,M,H,Burbank,CA,False,attack,Not fleeing,False,-118.322,34.19,True,CA,66076,88.7,11,72.7,2.5,0.5,11.6,24.5
-416,2720,Marco Cardoza,2017-06-29,shot,toy weapon,41.0,M,H,Burbank,CA,False,attack,Not fleeing,False,-118.322,34.19,True,CA,65472,85,12.1,60.8,2.7,1.3,7.7,50.9
 417,2927,Zepp Crouchet,2017-07-04,shot,gun,42.0,M,B,Antioch,CA,False,other,Car,False,-121.788,38.009,True,CA,64329,86.9,15.4,48.9,17.3,0.9,10.5,31.7
 418,2748,Jonathan Coronel,2017-07-05,shot,unarmed,24.0,M,H,Vista,CA,False,undetermined,Foot,False,-117.25299999999999,33.2,True,CA,50601,76.9,17.8,63.5,3.3,1.2,4.2,48.4
 419,2773,Keith Alan Eustace,2017-07-12,shot,blunt object,58.0,M,W,Grover Beach,CA,False,other,Not fleeing,False,-120.619,35.124,True,CA,54228,85.9,13.8,75.7,1.1,1.4,4.1,29.2
@@ -591,7 +589,6 @@
 589,4178,Marty West,2018-11-12,shot and Tasered,knife,63.0,M,W,Fresno,CA,True,attack,Not fleeing,True,-119.78,36.861999999999995,True,CA,41531,75.2,29.8,49.6,8.3,1.7,12.6,46.9
 590,4187,Agustin Gonsalez,2018-11-15,shot,straight edge razor,29.0,M,H,Hayward,CA,True,other,Not fleeing,False,-122.07799999999999,37.663000000000004,True,CA,65096,80.1,13.4,34.2,11.9,1,22,40.7
 591,4190,GD Hendrix,2018-11-15,shot,metal pipe,48.0,M,W,Paradise,CA,True,other,Car,False,-121.56,39.65,True,CA,44923,91.2,16,92,0.4,1.1,1.3,7
-592,4190,GD Hendrix,2018-11-15,shot,metal pipe,48.0,M,W,Paradise,CA,True,other,Car,False,-121.56,39.65,True,CA,49861,99.3,6.5,85,0,1.3,3.9,9.2
 593,4184,,2018-11-18,shot,gun,,M,,Los Angeles,CA,False,attack,Not fleeing,False,-118.245,33.951,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
 594,4214,Martin Lopez,2018-11-21,shot,knife,24.0,M,H,Bell Gardens,CA,False,attack,Not fleeing,False,-118.16,33.974000000000004,True,CA,37882,44.3,28.1,49.5,0.9,1.1,0.6,95.7
 595,4270,David Alejandro Molina,2018-12-05,shot,gun,27.0,M,H,Napa,CA,True,attack,Foot,False,-122.285,38.31,True,CA,68038,80.9,9.5,75.1,0.6,0.8,2.3,37.6
@@ -695,7 +692,6 @@
 693,4982,,2019-08-21,shot,undetermined,50.0,M,H,Stanton,CA,False,undetermined,,False,-117.99,33.81,True,CA,46801,68,21.8,44.5,2.2,1.1,23.1,50.8
 694,4973,,2019-08-22,shot,undetermined,,M,,Westminster,CA,False,other,Car,False,-117.955,33.745,True,CA,53455,76.4,17.8,35.7,0.9,0.4,47.5,23.6
 695,4977,Dennis Carolino,2019-08-24,shot,shovel,52.0,M,H,El Cerrito,CA,True,attack,Not fleeing,True,-117.073,32.758,True,CA,88737,93.8,9,53.3,7.7,0.5,27.3,11.1
-696,4977,Dennis Carolino,2019-08-24,shot,shovel,52.0,M,H,El Cerrito,CA,True,attack,Not fleeing,True,-117.073,32.758,True,CA,60625,76.6,6.6,69.5,1.8,1.1,1.9,52.1
 697,4987,Bobby Ray Moore,2019-08-27,shot,gun,67.0,M,,Stockton,CA,False,attack,Not fleeing,False,-121.26100000000001,37.98,True,CA,44797,74.9,25.3,37,12.2,1.1,21.5,40.3
 698,5010,Kenneth Lawson,2019-09-04,shot,knife,62.0,M,,Victorville,CA,True,other,Not fleeing,False,-117.32700000000001,34.538000000000004,True,CA,45894,78.3,26,48.5,16.8,1.4,4,47.8
 699,5018,Vondarrow Dewayne Fisher,2019-09-06,shot,gun,42.0,M,B,Glendora,CA,False,other,Foot,False,-117.87700000000001,34.129,True,CA,75148,90.2,9.4,75.1,1.9,0.7,8,30.7
