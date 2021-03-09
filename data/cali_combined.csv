@@ -1,0 +1,905 @@
+,id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_illness,threat_level,flee,body_camera,longitude,latitude,is_geocoding_exact,Geographic Area,Median Income,percent_completed_hs,poverty_rate,share_white,share_black,share_native_american,share_asian,share_hispanic
+0,8,Matthew Hoffman,2015-01-04,shot,toy weapon,32.0,M,W,San Francisco,CA,True,attack,Not fleeing,False,-122.42200000000001,37.763000000000005,True,CA,81294,87,13.2,48.5,6.1,0.5,33.3,15.1
+1,19,Patrick Wetter,2015-01-06,shot and Tasered,knife,25.0,M,W,Stockton,CA,False,attack,Not fleeing,False,-121.29899999999999,37.93,True,CA,44797,74.9,25.3,37,12.2,1.1,21.5,40.3
+2,43,Brian  Barbosa,2015-01-11,shot,gun,23.0,M,H,South Gate,CA,False,attack,Not fleeing,False,-118.18299999999999,33.951,True,CA,43552,52.4,20,50.5,0.9,0.9,0.8,94.8
+3,63,Jose Ceja,2015-01-15,shot,knife,36.0,M,H,Fairfield,CA,True,other,Not fleeing,False,-121.99700000000001,38.266,True,CA,67364,85.6,13.2,46,15.7,0.8,14.9,27.3
+4,68,Zaki Shinwary,2015-01-16,shot and Tasered,knife,48.0,M,O,Fremont,CA,False,other,Not fleeing,False,-122.06,37.588,True,CA,105355,92.3,6.1,32.8,3.3,0.5,50.6,14.8
+5,75,Pablo Meza,2015-01-17,shot,gun,24.0,M,H,Los Angeles,CA,False,attack,Not fleeing,False,-118.23299999999999,34.038000000000004,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+6,86,Todd Allen Hodge,2015-01-21,shot,gun,36.0,M,W,Hemet,CA,False,attack,Not fleeing,False,-116.958,33.742,True,CA,33989,79.5,26,67.7,6.4,1.6,3,35.8
+7,353,David Garcia,2015-01-26,shot,knife,34.0,M,H,Wasco,CA,True,other,Not fleeing,False,-119.335,35.589,True,CA,39580,51.1,32.7,49.2,7.6,1.1,0.7,76.7
+8,346,Matautu Nuu,2015-01-28,shot and Tasered,hammer,35.0,M,A,Stockton,CA,True,attack,Not fleeing,False,-121.316,38.029,True,CA,44797,74.9,25.3,37,12.2,1.1,21.5,40.3
+9,115,Francis Murphy Rose III,2015-02-02,shot,gun,42.0,M,W,Apple Valley,CA,True,attack,Not fleeing,False,-117.177,34.417,True,CA,47938,86,20.6,69.1,9.1,1.1,2.9,29.2
+10,118,Yuvette Henderson,2015-02-03,shot,gun,38.0,F,B,Emeryville,CA,False,attack,Car,False,-122.28399999999999,37.827,True,CA,77806,96.9,11.9,44.5,17.5,0.4,27.5,9.2
+11,119,Dewayne Deshawn Ward,2015-02-03,shot,knife,29.0,M,B,Antioch,CA,True,other,Not fleeing,False,-121.818,37.999,True,CA,64329,86.9,15.4,48.9,17.3,0.9,10.5,31.7
+12,128,Paul Alfred Eugene Johnson,2015-02-05,shot,toy weapon,59.0,M,W,Chino,CA,False,other,Car,False,-117.65,33.953,True,CA,72872,77.7,11.6,56.4,6.2,1,10.5,53.8
+13,532,John  Sawyer,2015-02-07,shot,toy weapon,26.0,M,W,Calimesa,CA,False,attack,Not fleeing,False,-117.057,33.994,True,CA,46025,88.3,14.8,86,1.1,1.3,1.3,22.4
+14,141,Phillip Watkins,2015-02-11,shot,knife,23.0,M,B,San Jose,CA,True,other,Not fleeing,False,-121.876,37.316,True,CA,84647,82.7,11.3,42.8,3.2,0.9,32,33.2
+15,145,Jonathan Larry Harden,2015-02-13,shot,,23.0,M,W,San Bernardino,CA,False,attack,Car,False,-117.333,34.165,True,CA,37047,68.2,33.4,45.6,15,1.3,4,60
+16,182,Amilcar Perez-Lopez,2015-02-26,shot,knife,21.0,M,H,San Francisco,CA,False,other,Not fleeing,False,-122.414,37.751,True,CA,81294,87,13.2,48.5,6.1,0.5,33.3,15.1
+17,185,Ernesto Javiar Canepa Diaz,2015-02-27,shot,unarmed,27.0,M,H,Santa Ana,CA,False,undetermined,Not fleeing,False,-117.87899999999999,33.747,True,CA,52253,54.8,22.1,45.9,1.5,1,10.5,78.2
+18,194,Charly Leundeu Keunang,2015-03-01,shot and Tasered,unarmed,43.0,M,B,Los Angeles,CA,True,attack,Not fleeing,True,-118.245,34.043,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+19,249,Carl Lao,2015-03-04,shot,gun,28.0,M,A,Stockton,CA,False,attack,Not fleeing,False,-121.286,37.948,True,CA,44797,74.9,25.3,37,12.2,1.1,21.5,40.3
+20,201,Sergio Alexander Navas,2015-03-05,shot,unarmed,36.0,M,H,Burbank,CA,False,other,Car,False,-118.345,34.150999999999996,True,CA,66076,88.7,11,72.7,2.5,0.5,11.6,24.5
+21,201,Sergio Alexander Navas,2015-03-05,shot,unarmed,36.0,M,H,Burbank,CA,False,other,Car,False,-118.345,34.150999999999996,True,CA,65472,85,12.1,60.8,2.7,1.3,7.7,50.9
+22,204,Monique Jenee Deckard,2015-03-08,shot,knife,43.0,F,B,Anaheim,CA,True,other,Not fleeing,True,-117.94,33.819,True,CA,60752,75.8,16.5,52.7,2.8,0.8,14.8,52.8
+23,883,Edixon  Franco,2015-03-10,shot,sword,37.0,M,H,Ontario,CA,True,other,Car,False,-117.655,34.05,True,CA,54114,70.6,18.1,51,6.4,1,5.2,69
+24,279,Benito Osorio,2015-03-11,shot,gun,39.0,M,H,Santa Ana,CA,False,attack,Not fleeing,False,-117.868,33.743,True,CA,52253,54.8,22.1,45.9,1.5,1,10.5,78.2
+25,796,Aaron Valdez,2015-03-11,shot,,25.0,M,H,Los Angeles,CA,False,other,Not fleeing,False,-118.22,33.939,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+26,207,James Richard Jimenez,2015-03-13,shot,gun,41.0,M,H,Napa,CA,False,other,Other,False,-122.274,38.306,True,CA,68038,80.9,9.5,75.1,0.6,0.8,2.3,37.6
+27,289,Andrew Driver,2015-03-13,shot,knife,36.0,M,W,Fontana,CA,False,attack,Not fleeing,False,-117.43,34.078,True,CA,64824,72.5,16.1,47.4,10,1,6.6,66.8
+28,351,Antonio Perez,2015-03-13,shot,unarmed,32.0,M,H,Walnut Creek,CA,False,other,Foot,False,-118.229,33.971,True,CA,82120,97.3,5.9,78.7,1.6,0.2,12.5,8.6
+29,221,Alice Brown,2015-03-17,shot,vehicle,24.0,F,W,San Francisco,CA,True,other,Not fleeing,False,-122.42200000000001,37.789,True,CA,81294,87,13.2,48.5,6.1,0.5,33.3,15.1
+30,292,Roberto Leon,2015-03-17,shot,unarmed,22.0,M,H,Sacramento,CA,False,undetermined,Car,False,-121.50399999999999,38.681999999999995,True,CA,50739,83.4,22,45,14.6,1.1,18.3,26.9
+31,294,Jeff Alexander,2015-03-18,shot,knife,47.0,M,W,Bakersfield,CA,False,other,Not fleeing,False,-119.015,35.376,True,CA,57095,79.6,19.8,56.8,8.2,1.5,6.2,45.5
+32,306,Robert Burdge,2015-03-19,shot,gun,36.0,M,W,Bakersfield,CA,False,attack,Not fleeing,False,-119.336,35.355,True,CA,57095,79.6,19.8,56.8,8.2,1.5,6.2,45.5
+33,231,Phillip Conley,2015-03-22,shot,knife,37.0,M,W,Vallejo,CA,True,other,Not fleeing,False,-122.22200000000001,38.133,True,CA,57028,87.4,18.3,32.8,22.1,0.7,24.9,22.6
+34,237,Devin Gates,2015-03-23,shot,gun,24.0,M,B,Santa Clara,CA,False,attack,Not fleeing,False,-121.959,37.361,True,CA,98914,91.9,8.4,45,2.7,0.5,37.7,19.4
+35,247,Scott Dunham,2015-03-24,shot,gun,57.0,M,W,San Jose,CA,True,attack,Not fleeing,False,-121.84100000000001,37.302,True,CA,84647,82.7,11.3,42.8,3.2,0.9,32,33.2
+36,241,Victor Terrazas,2015-03-25,shot,gun,28.0,M,H,South Los Angeles,CA,False,attack,Foot,False,-118.292,33.94,True,,,,,,,,,
+37,250,Adrian Solis,2015-03-26,shot,knife,35.0,M,H,Wilmington,CA,True,other,Not fleeing,False,-118.271,33.793,True,,,,,,,,,
+38,245,Meagan Hockaday,2015-03-27,shot,knife,26.0,F,B,Oxnard,CA,False,other,Not fleeing,False,-119.18299999999999,34.228,True,CA,60621,65.6,16.6,48.2,2.9,1.5,7.4,73.5
+39,256,Gary Kendrick,2015-03-27,shot,gun,56.0,M,W,Encinitas,CA,True,attack,Not fleeing,False,-117.242,33.05,True,CA,95149,94.4,8.1,85.8,0.6,0.5,3.9,13.7
+40,258,Adrian Hernandez,2015-03-27,shot,toy weapon,23.0,M,H,Bakersfield,CA,False,attack,Car,False,-119.00299999999999,35.396,True,CA,57095,79.6,19.8,56.8,8.2,1.5,6.2,45.5
+41,267,Robert Washington,2015-04-01,shot,gun,37.0,M,B,Hawthorne,CA,False,attack,Not fleeing,False,-118.337,33.902,True,CA,44504,73.8,20.1,32.8,27.7,0.7,6.7,52.9
+42,300,Paul Anderson,2015-04-04,shot,gun,31.0,M,B,Orange,CA,False,attack,Not fleeing,True,-117.852,33.836,True,CA,78513,84.2,13.2,67.1,1.6,0.7,11.3,38.1
+43,304,Richard Hanna,2015-04-05,shot,gun,56.0,M,W,Tehachapi,CA,False,attack,Not fleeing,False,-118.414,35.126999999999995,True,CA,41705,75.6,22,65.4,9,1.4,1.7,37.9
+44,331,Roberto Rodriguez,2015-04-08,shot,gun,39.0,M,H,Los Angeles,CA,False,attack,Foot,False,-118.212,34.041,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+45,359,Joseph Jeremy Weber,2015-04-08,shot,knife,28.0,M,A,Sunnyvale,CA,True,other,Not fleeing,False,-121.995,37.404,True,CA,105401,91.4,7.5,43,2,0.5,40.9,18.9
+46,335,Angel Cresencio Corona,2015-04-10,shot,knife,21.0,M,H,Corning,CA,False,attack,Not fleeing,False,-122.20200000000001,39.935,True,CA,31667,75.3,29.6,71.9,0.6,2.6,1.1,42.7
+47,374,Ernesto Flores,2015-04-15,shot,toy weapon,52.0,M,H,Montclair,CA,True,attack,Not fleeing,False,-117.721,34.051,True,CA,49366,70.1,16.9,52.7,5.2,1.2,9.3,70.2
+48,373,Rodolfo Velazquez,2015-04-16,shot,knife,47.0,M,H,Shafter,CA,False,other,Not fleeing,False,-119.281,35.5,True,CA,40881,57.9,21.7,48,1.3,1.2,0.7,80.3
+49,381,Elias Cavazos,2015-04-17,shot,gun,29.0,M,H,Hemet,CA,False,attack,Not fleeing,False,-116.954,33.744,True,CA,33989,79.5,26,67.7,6.4,1.6,3,35.8
+50,495,Luis Martinez,2015-04-21,shot,knife,35.0,M,H,Los Angeles,CA,True,other,Not fleeing,False,-118.205,34.071999999999996,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+51,392,Andrew Valadez,2015-04-23,shot,toy weapon,26.0,M,W,Sylmar,CA,True,attack,Not fleeing,False,-118.43799999999999,34.323,True,,,,,,,,,
+52,409,Hector Morejon,2015-04-23,shot,unarmed,19.0,M,H,Long Beach,CA,False,other,Not fleeing,False,-118.17399999999999,33.781,True,CA,52783,79.4,20.6,46.1,13.5,0.7,12.9,40.8
+53,401,Karen Janks,2015-04-24,shot,,46.0,F,W,Windsor,CA,False,attack,Car,False,-122.792,38.375,True,CA,85291,86.8,4.1,73.9,0.8,2.2,3,31.8
+54,406,Albert Hanson,2015-04-26,shot,gun,76.0,M,W,Kings County,CA,False,attack,Not fleeing,False,-119.601,36.211,True,,,,,,,,,
+55,407,Dean Genova,2015-04-26,shot,gun,45.0,M,W,Fountain Valley,CA,False,attack,Not fleeing,False,-117.956,33.696,True,CA,82367,90.2,8.1,56.5,0.9,0.4,33.3,13.1
+56,419,Luis Chavez-Diaz,2015-04-29,shot,gun,27.0,M,H,Elk Grove,CA,False,attack,Not fleeing,False,-121.492,38.37,True,CA,79487,90.5,10.4,46.1,11.2,0.6,26.3,18
+57,418,Fridoon Zalbeg Nehad,2015-04-30,shot,unarmed,42.0,M,O,San Diego,CA,True,other,Not fleeing,True,-117.206,32.754,True,CA,66116,87.3,15.4,58.9,6.7,0.6,15.9,28.8
+58,429,Brendon Glenn,2015-05-05,shot,unarmed,29.0,M,B,Venice,CA,False,attack,Not fleeing,True,-118.47200000000001,33.988,True,,,,,,,,,
+59,430,Thong Kien Ma,2015-05-05,shot,knife,32.0,M,A,South El Monte,CA,False,attack,Not fleeing,False,-118.044,34.054,True,CA,40938,49.9,20.5,50.4,0.5,1.2,11,84.9
+60,436,Nephi Arriguin,2015-05-07,shot,,21.0,M,B,Cerritos,CA,False,attack,Car,False,-118.05,33.874,True,CA,90321,91.7,4.8,23.1,6.9,0.3,61.9,12
+61,450,Alec Ouzounian,2015-05-12,shot,knife,40.0,M,W,Rancho Santa Margarita,CA,True,other,Not fleeing,False,-117.613,33.655,True,CA,105328,95.2,4,78.2,1.9,0.4,9.1,18.6
+62,462,Matt Coates,2015-05-15,shot,toy weapon,42.0,M,W,Sacramento,CA,True,attack,Not fleeing,False,-121.434,38.552,True,CA,50739,83.4,22,45,14.6,1.1,18.3,26.9
+63,458,Dennis  Fiel,2015-05-17,shot,gun,34.0,M,W,San Diego,CA,True,attack,Foot,True,-117.154,32.802,True,CA,66116,87.3,15.4,58.9,6.7,0.6,15.9,28.8
+64,491,Feras Morad,2015-05-27,shot and Tasered,unarmed,20.0,M,O,Long Beach,CA,False,other,Not fleeing,False,-118.139,33.785,True,CA,52783,79.4,20.6,46.1,13.5,0.7,12.9,40.8
+65,492,Simon Hubble,2015-05-27,shot and Tasered,screwdriver,33.0,M,W,Alpine,CA,True,other,Not fleeing,False,-116.699,32.751,True,CA,77883,90.3,8.8,87.3,1.2,1.6,2.2,14.6
+66,512,Lorenzo Garza,2015-06-03,shot,gun,46.0,M,H,Delano,CA,False,attack,Car,False,-119.223,35.787,True,CA,35933,55,30.3,36.4,7.9,0.9,12.7,71.5
+67,520,Jesus Quezada Gomez,2015-06-05,shot,gun,50.0,M,H,Santa Maria,CA,False,attack,Not fleeing,False,-120.439,34.97,True,CA,50433,58.7,21.2,56.2,1.7,1.8,5.1,70.4
+68,518,Alejandro Campos Fernandez,2015-06-06,shot,gun,45.0,M,H,Watsonsville,CA,False,attack,Foot,False,-121.751,36.905,True,,,,,,,,,
+69,515,Demouria Hogg,2015-06-06,shot and Tasered,gun,30.0,M,B,Oakland,CA,False,attack,Not fleeing,True,-122.243,37.809,True,CA,54618,80.4,20.4,34.5,28,0.8,16.8,25.4
+70,524,Rene Garcia,2015-06-08,shot,knife,30.0,M,H,Anaheim,CA,True,other,Not fleeing,True,-117.92200000000001,33.847,True,CA,60752,75.8,16.5,52.7,2.8,0.8,14.8,52.8
+71,547,Kenneth Garcia,2015-06-14,shot,,28.0,M,H,Stockton,CA,False,attack,Car,False,-121.34299999999999,37.977,True,CA,44797,74.9,25.3,37,12.2,1.1,21.5,40.3
+72,550,Kris Jackson,2015-06-15,shot,unarmed,22.0,M,B,South Lake Tahoe,CA,False,other,Foot,False,-119.95100000000001,38.951,True,CA,39793,84.6,18.5,73.5,0.9,1.1,5.5,31.1
+73,559,Christopher DeLeon,2015-06-16,shot,gun,28.0,M,H,Visalia,CA,False,attack,Not fleeing,False,-119.31299999999999,36.305,True,CA,52157,82.7,21.3,64.5,2.1,1.4,5.4,46
+74,555,Adrian Simental,2015-06-21,shot,unarmed,24.0,M,H,Azusa,CA,True,other,Not fleeing,False,-117.9,34.129,True,CA,53135,77.7,17.6,57.6,3.2,1.2,8.7,67.6
+75,570,Eduardo Reyes,2015-06-22,shot,gun,35.0,M,H,Citrus Heights,CA,False,attack,Not fleeing,False,-121.29,38.677,True,CA,50047,89.9,15.4,80.3,3.3,0.9,3.3,16.5
+76,568,Gilbert Jake Vanderburgh,2015-06-25,shot,gun,61.0,M,W,Fresno,CA,False,attack,Not fleeing,False,-119.65899999999999,37.08,True,CA,41531,75.2,29.8,49.6,8.3,1.7,12.6,46.9
+77,601,Ton Nguyen,2015-07-02,shot,knife,60.0,M,A,San Diego,CA,False,other,Not fleeing,False,-117.164,32.99,True,CA,66116,87.3,15.4,58.9,6.7,0.6,15.9,28.8
+78,598,Arturo Lopez,2015-07-03,shot,gun,46.0,M,H,Lancaster,CA,False,attack,Not fleeing,False,-118.18700000000001,34.671,True,CA,47225,81.4,23.5,49.6,20.5,1,4.3,38
+79,597,Cesar A. Limon Juarez,2015-07-03,shot and Tasered,knife,27.0,M,H,West Covina,CA,False,attack,Not fleeing,False,-117.89399999999999,34.024,True,CA,69189,83.1,10.3,42.8,4.5,1,25.8,53.2
+80,592,John Deming,2015-07-05,shot,unarmed,19.0,M,W,Pleasanton,CA,False,attack,Foot,False,-121.87200000000001,37.662,True,CA,124759,95.2,4.4,67,1.7,0.3,23.2,10.3
+81,605,Johnny Ray Anderson,2015-07-05,shot,unarmed,43.0,M,W,Hawaiian Gardens,CA,False,other,Not fleeing,False,-118.071,33.833,True,CA,37571,58.8,30.7,45.4,3.8,1.2,10.6,77.2
+82,619,Jason Hendley,2015-07-06,shot,knife,29.0,M,B,Los Angeles,CA,False,attack,Not fleeing,False,-118.406,34.321999999999996,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+83,607,David Oliva Sarabia,2015-07-06,shot and Tasered,knife,42.0,M,H,Atwater,CA,False,attack,Car,False,-120.579,37.339,True,CA,41414,72.5,26.2,65.4,4.3,1.3,5,52.6
+84,610,John Leonard Berry,2015-07-06,shot and Tasered,,31.0,M,W,Lakewood,CA,True,attack,Other,False,-118.124,33.857,True,CA,79193,87.9,7.9,56,8.7,0.7,16.4,30.1
+85,614,Daniel Hernandez,2015-07-07,shot,gun,47.0,M,H,Bakersfield,CA,False,attack,Not fleeing,False,-119.01299999999999,35.306999999999995,True,CA,57095,79.6,19.8,56.8,8.2,1.5,6.2,45.5
+86,625,Cyrus Hurtado,2015-07-09,shot,gun,17.0,M,W,Boulder Creek,CA,True,attack,Not fleeing,False,-122.12700000000001,37.15,True,CA,79964,93.5,10.9,90,1.1,0.6,1.6,7.4
+87,627,Neil White,2015-07-09,shot and Tasered,Taser,38.0,M,W,Los Angeles,CA,False,attack,Other,False,-118.344,34.059,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+88,637,Billy Maine,2015-07-11,shot,gun,31.0,M,W,Olivehurst,CA,False,attack,Not fleeing,False,-121.55799999999999,39.092,True,CA,44065,69.6,18.8,62.5,2.4,2.9,5.7,36.6
+89,635,Matthew Ryan Graham,2015-07-13,shot,gun,24.0,M,W,Dunsmuir,CA,False,attack,Car,False,-122.275,41.2,True,CA,24770,88.3,24.5,87.5,1.9,1,0.9,10.1
+90,645,Jason Davis,2015-07-13,shot and Tasered,box cutter,41.0,M,W,Los Angeles,CA,False,other,Not fleeing,False,-118.47200000000001,33.999,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+91,642,Anthonie Smith,2015-07-16,shot and Tasered,metal hand tool,25.0,M,B,Moreno Valley,CA,True,other,Not fleeing,False,-117.228,33.939,True,CA,54590,75.2,19.3,41.9,18,0.9,6.1,54.4
+92,655,Jackie Brand,2015-07-17,shot,gun,50.0,M,W,Needles,CA,True,attack,Not fleeing,False,-114.64,34.884,True,CA,30443,82.1,27.7,75.7,2,8.2,0.7,22.4
+93,759,Troy Francis,2015-07-20,shot,knife,54.0,M,W,Fremont,CA,False,other,Not fleeing,False,-122.027,37.556,True,CA,105355,92.3,6.1,32.8,3.3,0.5,50.6,14.8
+94,673,Tamala Satre,2015-07-23,shot,gun,44.0,F,W,Meadow Vista,CA,True,attack,Not fleeing,False,-121.01799999999999,38.975,True,CA,77228,94.1,5.4,93.8,0,0.7,1.1,5.3
+95,674,Seth Raines,2015-07-24,shot,toy weapon,44.0,M,W,Studio City,CA,False,attack,Not fleeing,False,-118.398,34.143,True,,,,,,,,,
+96,689,Ryan Daniel Vrenon,2015-07-30,shot,gun,25.0,M,W,Dunsmuir,CA,False,attack,Car,False,-122.27,41.236000000000004,True,CA,24770,88.3,24.5,87.5,1.9,1,0.9,10.1
+97,691,Oscar Lotari Romero,2015-07-30,shot and Tasered,metal stick,47.0,M,H,Whittier,CA,False,attack,Not fleeing,False,-118.055,33.972,True,CA,66457,83.3,12.5,64.6,1.3,1.3,3.8,65.7
+98,697,Antonio Clements,2015-08-03,shot,gun,49.0,M,B,Oakland,CA,False,attack,Not fleeing,False,-122.26899999999999,37.827,True,CA,54618,80.4,20.4,34.5,28,0.8,16.8,25.4
+99,701,Daniel Robert Avila,2015-08-04,shot,undetermined,55.0,M,H,San Diego County,CA,True,other,Not fleeing,False,-117.465,33.299,True,,,,,,,,,
+100,713,Aaron Marchese,2015-08-07,shot,toy weapon,30.0,M,W,Fresno,CA,True,attack,Not fleeing,False,-119.898,36.808,True,CA,41531,75.2,29.8,49.6,8.3,1.7,12.6,46.9
+101,721,Derrick Lee Hunt,2015-08-07,shot,knife,28.0,M,B,Long Beach,CA,False,attack,Not fleeing,False,-118.156,33.875,True,CA,52783,79.4,20.6,46.1,13.5,0.7,12.9,40.8
+102,727,Edrian Rivera,2015-08-09,shot,meat cleaver,22.0,M,H,San Jose,CA,False,attack,Foot,False,-121.84299999999999,37.355,True,CA,84647,82.7,11.3,42.8,3.2,0.9,32,33.2
+103,731,Nathaniel Wilks,2015-08-12,shot,gun,27.0,M,B,Oakland,CA,False,attack,Car,True,-122.271,37.804,True,CA,54618,80.4,20.4,34.5,28,0.8,16.8,25.4
+104,733,Anthony Lorenzo Vallejo,2015-08-12,shot,gun,27.0,M,H,Hemet,CA,False,attack,Car,False,-117.015,33.745,True,CA,33989,79.5,26,67.7,6.4,1.6,3,35.8
+105,732,Redel Jones,2015-08-12,shot and Tasered,knife,30.0,F,B,Los Angeles,CA,False,other,Not fleeing,False,-118.34299999999999,34.009,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+106,742,Allen Matthew Baker,2015-08-15,shot,gun,23.0,M,B,Sunnyvale,CA,False,attack,Not fleeing,False,-122.027,37.395,True,CA,105401,91.4,7.5,43,2,0.5,40.9,18.9
+107,743,Benjamin Peter Ashley,2015-08-15,shot,gun,34.0,M,B,Inyokern,CA,True,attack,Not fleeing,False,-117.87,35.702,True,CA,67994,94.5,1.9,84.6,1.3,2.2,2.3,10.6
+108,745,Matthew Castillo,2015-08-16,shot,gun,29.0,M,H,San Jose,CA,False,other,Not fleeing,False,-121.834,37.295,True,CA,84647,82.7,11.3,42.8,3.2,0.9,32,33.2
+109,749,Richard Jacquez,2015-08-17,shot,unarmed,40.0,M,H,San Jose,CA,False,other,Foot,False,-121.82799999999999,37.273,True,CA,84647,82.7,11.3,42.8,3.2,0.9,32,33.2
+110,756,Raul Herrera,2015-08-20,shot,gun,17.0,M,H,Ontario,CA,True,attack,Not fleeing,False,-117.59299999999999,34.019,True,CA,54114,70.6,18.1,51,6.4,1,5.2,69
+111,764,Jason Lee Alderman,2015-08-22,shot,carjack,29.0,M,W,Bakersfield,CA,False,undetermined,Not fleeing,False,-119.04700000000001,35.411,True,CA,57095,79.6,19.8,56.8,8.2,1.5,6.2,45.5
+112,782,Yonas Alehegne,2015-08-27,shot,chain,30.0,M,B,Oakland,CA,False,attack,Not fleeing,True,-122.251,37.812,True,CA,54618,80.4,20.4,34.5,28,0.8,16.8,25.4
+113,783,Robert Hober,2015-08-27,shot,box cutter,54.0,M,W,San Diego,CA,False,other,Not fleeing,True,-117.1,32.792,True,CA,66116,87.3,15.4,58.9,6.7,0.6,15.9,28.8
+114,784,Manuel Soriano,2015-08-27,shot,contractor's level,29.0,M,H,Los Angeles,CA,False,attack,Not fleeing,False,-118.45100000000001,34.205,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+115,1409,Freddy Centeno,2015-09-03,shot,unarmed,40.0,M,H,Fresno,CA,True,attack,Not fleeing,True,-119.764,36.735,True,CA,41531,75.2,29.8,49.6,8.3,1.7,12.6,46.9
+116,802,Richard Keith Kelley,2015-09-04,shot,gun,27.0,M,W,Weitchpec,CA,False,attack,Car,False,-123.704,41.187,True,,,,,,,,,
+117,806,Luis Wenceslao,2015-09-05,shot,metal pipe,32.0,M,H,Ontario,CA,True,other,Not fleeing,True,-117.647,34.034,True,CA,54114,70.6,18.1,51,6.4,1,5.2,69
+118,813,Casimero Carlos Casillas,2015-09-07,shot,metal pipe,45.0,M,H,Fresno,CA,False,other,Foot,True,-119.70100000000001,36.789,True,CA,41531,75.2,29.8,49.6,8.3,1.7,12.6,46.9
+119,879,William Chau,2015-09-09,shot,knife,59.0,M,A,El Monte,CA,False,attack,Not fleeing,False,-118.029,34.079,True,CA,38085,57.8,24.9,38.8,0.8,1,25.1,69
+120,818,Bruce Santino,2015-09-10,shot,knife,35.0,M,,Fontana,CA,True,other,Not fleeing,False,-117.44,34.07,True,CA,64824,72.5,16.1,47.4,10,1,6.6,66.8
+121,820, Austin Wilburly  Reid,2015-09-10,shot,gun,32.0,M,W,Lodi,CA,False,attack,Foot,False,-121.272,38.134,True,CA,49316,80.4,17.4,68.7,0.8,0.9,6.9,36.4
+122,823,Eddie Tapia,2015-09-10,shot,gun,41.0,M,H,Downey,CA,False,attack,Car,False,-118.11399999999999,33.955,True,CA,62897,76.1,11.4,56.6,3.9,0.7,7,70.7
+123,829,David Todd Powell,2015-09-14,shot,unarmed,28.0,M,W,Barstow,CA,True,attack,Not fleeing,False,-117.01899999999999,34.884,True,CA,39632,79.8,33.7,52.3,14.6,2.1,3.2,42.8
+124,832,Florencio Chaidez,2015-09-15,shot,gun,32.0,M,H,Panorama City,CA,False,attack,Not fleeing,True,-118.43799999999999,34.23,True,,,,,,,,,
+125,834,Carlos Wilhelm,2015-09-15,shot,gun,39.0,M,H,Los Angeles,CA,False,attack,Not fleeing,False,-118.26700000000001,34.132,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+126,843,Nicholas Alan Johnson,2015-09-18,shot,,32.0,M,W,San Bernardino,CA,False,undetermined,Car,False,-117.365,34.211,True,CA,37047,68.2,33.4,45.6,15,1.3,4,60
+127,848,William Spaits,2015-09-21,shot,gun,27.0,M,W,Sand City,CA,False,attack,Not fleeing,False,-121.844,36.622,True,CA,40625,79.6,30.8,66.8,3.9,0.9,4.8,36.8
+128,849,Tina Money,2015-09-21,shot,gun,23.0,F,W,Sand City,CA,False,attack,Not fleeing,False,-121.844,36.622,True,CA,40625,79.6,30.8,66.8,3.9,0.9,4.8,36.8
+129,853,Dante Osborne,2015-09-22,shot,gun,32.0,M,B,Oakland,CA,False,attack,Car,False,-119.20700000000001,36.295,True,CA,54618,80.4,20.4,34.5,28,0.8,16.8,25.4
+130,855,Tim Kyle Torngren,2015-09-22,shot,gun,55.0,M,W,Happy Valley,CA,True,attack,Not fleeing,False,-122.389,40.481,True,,,,,,,,,
+131,871,Norma Angelica Guzman,2015-09-27,shot,knife,37.0,F,H,Los Angeles,CA,True,other,Not fleeing,True,-118.259,34.025,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+132,873,Alberto Hernandez,2015-09-28,shot,toy weapon,59.0,M,H,San Ysidro,CA,False,attack,Not fleeing,True,-117.066,32.562,True,,,,,,,,,
+133,889,Christian Pena,2015-10-02,shot and Tasered,knife,26.0,M,H,Rialto,CA,False,attack,Not fleeing,False,-117.40299999999999,34.097,True,CA,50971,67.4,19.7,44,16.4,1.1,2.3,67.6
+134,886,James Joseph Byrd,2015-10-04,shot,beer bottle,45.0,M,W,Van Nuys,CA,False,undetermined,Not fleeing,False,-118.46600000000001,34.187,True,,,,,,,,,
+135,896,Donald Miller II,2015-10-06,shot,toy weapon,39.0,M,W,Monterey,CA,True,attack,Not fleeing,False,-121.89399999999999,36.603,True,CA,66166,94.3,9.1,78.3,2.8,0.5,7.9,13.7
+136,910,Margaret Wagner,2015-10-09,shot,gun,62.0,F,W,Aguanga,CA,False,attack,Not fleeing,False,-116.819,33.477,True,CA,43505,81.1,7,82.4,1,1.8,2.1,24.3
+137,904,William Combs,2015-10-10,shot,,38.0,M,W,Pinion Hills,CA,True,other,Car,False,-117.603,34.400999999999996,True,,,,,,,,,
+138,899,Joe Pasquez Ortiz,2015-10-11,shot,undetermined,34.0,M,H,San Bernardino,CA,False,undetermined,Other,False,-117.285,34.108000000000004,True,CA,37047,68.2,33.4,45.6,15,1.3,4,60
+139,914,Samuel Villarreal,2015-10-14,shot,,18.0,M,H,Indio,CA,False,other,Car,False,-116.235,33.718,True,CA,50525,73.7,19.5,61.5,2.4,1,2.2,67.8
+140,915,Michael Donald Clark,2015-10-14,shot,gun,59.0,M,,Seaside,CA,False,attack,Not fleeing,False,-121.844,36.613,True,CA,51704,75.8,18.7,48.4,8.4,1.1,9.7,43.4
+141,922,Herbert Benitez,2015-10-15,shot,gun,27.0,M,H,San Francisco,CA,False,attack,Not fleeing,False,-122.415,37.779,True,CA,81294,87,13.2,48.5,6.1,0.5,33.3,15.1
+142,924,Johnny Angel Rangel,2015-10-16,shot,unarmed,27.0,M,H,Valinda,CA,False,attack,Not fleeing,False,-117.916,34.031,True,CA,65849,66.2,12.5,48.5,1.9,1.1,11.9,78.8
+143,929,Gino Paredes,2015-10-17,shot,toy weapon,22.0,M,H,Modesto,CA,False,attack,Not fleeing,False,-120.92,37.667,True,CA,48577,81.2,20.5,65,4.2,1.2,6.7,35.5
+144,932,Krikor Ekizian,2015-10-18,shot,knife,28.0,M,W,Fresno,CA,True,attack,Not fleeing,False,-119.76899999999999,36.803000000000004,True,CA,41531,75.2,29.8,49.6,8.3,1.7,12.6,46.9
+145,934,Dion Lamont Ramirez,2015-10-19,shot,,53.0,M,B,Los Angeles,CA,False,attack,Not fleeing,False,-118.281,33.935,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+146,936,Lamontez Jones,2015-10-20,shot,toy weapon,39.0,M,B,San Diego,CA,False,attack,Not fleeing,False,-117.15899999999999,32.714,True,CA,66116,87.3,15.4,58.9,6.7,0.6,15.9,28.8
+147,940,Miguel Angel Marin Galena,2015-10-21,shot,knife,35.0,M,H,Calexico,CA,False,other,Other,False,-115.49600000000001,32.665,True,CA,34742,56.6,27.4,60,0.3,0.5,1.3,96.8
+148,941,Ryan Christopher Rodriguez,2015-10-21,shot,unarmed,21.0,M,H,West Goshen,CA,True,attack,Not fleeing,False,-119.462,36.351,True,CA,20700,49.1,76.4,54,0.4,2,1.4,70.1
+149,945,Adriene Jamarr Ludd,2015-10-22,shot,gun,36.0,M,B,Carmichael,CA,False,attack,Car,False,-121.337,38.639,True,CA,54322,93.4,16.6,80.6,4.8,0.9,4.3,11.7
+150,947,Juan Ulloa,2015-10-24,shot,gun,34.0,M,H,Highgrove,CA,False,attack,Not fleeing,False,-117.34,34.019,True,CA,43021,69,31.9,52.8,4.1,1,2.8,65.3
+151,950,Dominic Hutchinson,2015-10-24,shot,binoculars,30.0,M,B,Cathedral City,CA,False,undetermined,Not fleeing,False,-116.464,33.809,True,CA,39872,75.3,23.1,63.5,2.6,1.1,5,58.8
+152,958,Anthony Ashford,2015-10-28,shot,unarmed,29.0,M,B,Point Loma,CA,False,attack,Not fleeing,False,-117.22399999999999,32.726,True,,,,,,,,,
+153,973,Killian O'Quinn,2015-11-01,shot,gun,20.0,M,W,Eureka,CA,False,attack,Not fleeing,False,-124.155,40.806,True,CA,37094,86.5,24.5,79.3,1.9,3.7,4.2,11.6
+154,979,Faisal Mohammad,2015-11-04,shot,knife,18.0,M,O,Merced,CA,False,attack,Foot,False,-120.425,37.365,True,CA,37627,74.5,31.9,52.2,6.3,1.5,11.8,49.6
+155,981,Timothy Gene Smith,2015-11-04,shot,unarmed,47.0,M,W,Pacific Beach,CA,False,other,Foot,True,-117.23899999999999,32.797,True,,,,,,,,,
+156,994,Leonel Acevedo,2015-11-09,shot,gun,45.0,M,H,San Jose,CA,False,attack,Not fleeing,False,-121.914,37.255,True,CA,84647,82.7,11.3,42.8,3.2,0.9,32,33.2
+157,1001,Miguel Cano,2015-11-09,shot and Tasered,bean-bag gun,35.0,M,H,Los Angeles,CA,False,other,Not fleeing,False,-118.512,34.211999999999996,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+158,995,Eddie Gabriel Sanchez,2015-11-10,shot,gun,34.0,M,H,Chico,CA,False,attack,Not fleeing,False,-121.848,39.717,True,CA,42342,92,24.9,80.8,2.1,1.4,4.2,15.4
+159,998,Javier Lopez Garcia,2015-11-11,shot,gun,25.0,M,H,San Francisco,CA,False,attack,Not fleeing,False,-122.421,37.748000000000005,True,CA,81294,87,13.2,48.5,6.1,0.5,33.3,15.1
+160,1002,Moises Nero,2015-11-12,shot,knife,42.0,M,B,Sunnyvale,CA,False,other,Not fleeing,False,-122.053,37.384,True,CA,105401,91.4,7.5,43,2,0.5,40.9,18.9
+161,1007,Ernesto Gamino,2015-11-13,shot,undetermined,25.0,M,H,Jurupa Valley,CA,False,undetermined,,False,-117.51100000000001,34.029,True,,,,,,,,,
+162,1006,Ramon Salazar,2015-11-14,shot,hammer,31.0,M,H,Jurupa Valley,CA,False,other,Not fleeing,False,-117.4,34.005,True,,,,,,,,,
+163,1003,Richard Perkins,2015-11-15,shot,toy weapon,39.0,M,B,Oakland,CA,False,attack,Not fleeing,False,-122.166,37.754,True,CA,54618,80.4,20.4,34.5,28,0.8,16.8,25.4
+164,1023,Nathaniel Harris Pickett,2015-11-20,shot,unarmed,29.0,M,B,Barstow,CA,True,attack,Not fleeing,False,-117.027,34.898,True,CA,39632,79.8,33.7,52.3,14.6,2.1,3.2,42.8
+165,2870,Martin Arturo Rivera,2015-11-20,shot,gun,50.0,M,,Fontana,CA,True,other,Not fleeing,False,-117.421,34.095,True,CA,64824,72.5,16.1,47.4,10,1,6.6,66.8
+166,1025,James Daniel Hall,2015-11-22,shot,knife,47.0,M,W,Fontana,CA,True,attack,Not fleeing,False,-117.436,34.063,True,CA,64824,72.5,16.1,47.4,10,1,6.6,66.8
+167,1104,Andrew Thomas,2015-11-26,shot,unarmed,26.0,M,W,Chico,CA,False,other,Car,True,-121.624,39.751999999999995,True,CA,42342,92,24.9,80.8,2.1,1.4,4.2,15.4
+168,1041,Hugo Fernando Celio,2015-11-29,shot,gun,23.0,M,H,Bakersfield,CA,False,attack,Foot,False,-119.021,35.375,True,CA,57095,79.6,19.8,56.8,8.2,1.5,6.2,45.5
+169,1047,John Anthony Gonzalez,2015-12-01,shot,gun,18.0,M,H,Norwalk,CA,False,attack,Not fleeing,False,-118.08200000000001,33.917,True,CA,59756,73.5,14.3,49.4,4.4,1.1,12,70.1
+170,1050,Tashfeen Malik,2015-12-02,shot,gun,27.0,F,O,San Bernardino,CA,False,attack,Car,False,-117.29,34.108000000000004,True,CA,37047,68.2,33.4,45.6,15,1.3,4,60
+171,1051,Syed Farook,2015-12-02,shot,gun,28.0,M,O,San Bernardino,CA,False,attack,Car,False,-117.24799999999999,34.077,True,CA,37047,68.2,33.4,45.6,15,1.3,4,60
+172,1052,Mario Woods,2015-12-02,shot,knife,26.0,M,B,San Francisco,CA,False,other,Not fleeing,False,-122.397,37.721,True,CA,81294,87,13.2,48.5,6.1,0.5,33.3,15.1
+173,1062,Juan Perez,2015-12-05,shot,gun,38.0,M,H,Indio,CA,False,attack,Not fleeing,False,-116.251,33.698,True,CA,50525,73.7,19.5,61.5,2.4,1,2.2,67.8
+174,1073,Thomas Arthur Gendreau,2015-12-10,shot,knife,54.0,M,W,Marina,CA,False,attack,Not fleeing,False,-121.791,36.674,True,CA,54193,83.1,15.3,45.2,7.5,0.7,19.9,27.2
+175,1074,,2015-12-10,shot,gun,,M,,Hemet,CA,False,attack,Not fleeing,False,-116.971,33.729,True,CA,33989,79.5,26,67.7,6.4,1.6,3,35.8
+176,1079,Nicholas Robertson,2015-12-12,shot,gun,28.0,M,B,Lynwood,CA,False,attack,Not fleeing,False,-118.209,33.917,True,CA,43109,52.8,25.3,39.3,10.3,0.7,0.7,86.6
+177,1083,Roy Carreon,2015-12-12,shot,knife,49.0,M,H,San Bernardino,CA,False,attack,,False,-117.322,34.108000000000004,True,CA,37047,68.2,33.4,45.6,15,1.3,4,60
+178,1092,Mharloun Verdejo  Saycon,2015-12-14,shot,knife,39.0,M,A,Long Beach,CA,False,other,Not fleeing,False,-118.189,33.803000000000004,True,CA,52783,79.4,20.6,46.1,13.5,0.7,12.9,40.8
+179,1093,Hector Alvarez,2015-12-14,shot,unarmed,19.0,M,H,Gilroy,CA,False,other,Not fleeing,True,-121.573,36.995,True,CA,83027,77,15.1,58.7,1.9,1.7,7.1,57.8
+180,1097,Bryant Neil Duncan,2015-12-16,shot,knife,,M,W,Camarillo,CA,True,attack,Not fleeing,False,-119.051,34.219,True,CA,88152,92.2,6.4,75.1,1.9,0.6,10.2,22.9
+181,1099,Christopher Fletcher,2015-12-17,shot,gun,24.0,M,W,Modesto,CA,False,attack,Other,False,-120.999,37.639,True,CA,48577,81.2,20.5,65,4.2,1.2,6.7,35.5
+182,1105,Ruben Jose Herrera,2015-12-19,shot,undetermined,26.0,M,H,Los Angeles,CA,True,attack,Not fleeing,False,-118.307,33.843,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+183,1106,Leroy Browning,2015-12-20,shot,gun,30.0,M,B,Palmdale,CA,False,attack,Not fleeing,False,-118.045,34.571999999999996,True,CA,52392,74.2,21.3,49,14.8,0.9,4.3,54.4
+184,1108,Guadalupe Quiroz,2015-12-21,shot,gun,34.0,M,H,Hemet,CA,False,attack,Not fleeing,False,-116.971,33.724000000000004,True,CA,33989,79.5,26,67.7,6.4,1.6,3,35.8
+185,1119,Brandon Barsnick,2015-12-21,shot,gun,30.0,M,W,Smartsville,CA,False,attack,Not fleeing,False,-121.29,39.189,True,CA,25063,100,3.7,88.7,0,2.8,0,10.2
+186,1127,Omar Ventura,2015-12-24,shot,knife,23.0,M,H,Porterville,CA,False,other,Not fleeing,False,-119.006,36.069,True,CA,38456,66.9,30.9,58.8,1.2,1.9,4.7,61.9
+187,1125,William David Raff,2015-12-25,shot,knife,31.0,M,W,Palo Alto,CA,True,attack,Not fleeing,False,-122.156,37.448,True,CA,136519,97.4,5.4,64.2,1.9,0.2,27.1,6.2
+188,1133,Siolosega Velega-Nuufolau,2015-12-29,shot,knife,50.0,F,,Santa Nella,CA,True,other,Not fleeing,False,-121.022,37.09,True,CA,28144,58.7,58.7,60.3,1.6,1.8,2.2,70.1
+189,1134,Tien Hua,2015-12-29,shot,unknown weapon,,M,A,Rosemead,CA,False,undetermined,Not fleeing,False,-118.056,34.073,True,CA,44906,66.2,19.3,21.1,0.5,0.7,60.7,33.8
+190,1135,Fred Perez,2015-12-30,shot,knife,55.0,M,H,Fresno,CA,False,attack,Not fleeing,True,-119.81200000000001,36.75,True,CA,41531,75.2,29.8,49.6,8.3,1.7,12.6,46.9
+191,1139,Joshua Sisson,2016-01-01,shot,knife,30.0,M,W,San Diego,CA,False,other,Not fleeing,True,-117.16,32.755,True,CA,66116,87.3,15.4,58.9,6.7,0.6,15.9,28.8
+192,1148,Stephen Bukwich,2016-01-05,shot,gun,52.0,M,W,Redding,CA,True,other,Not fleeing,False,-122.368,40.613,True,CA,43341,90.6,18.8,85.8,1.2,2.3,3.4,8.7
+193,1149,Albert Thompson,2016-01-05,shot,hand torch,28.0,M,H,Ceres,CA,False,other,Foot,False,-120.947,37.584,True,CA,47858,67.9,17.9,57.7,2.6,1.3,6.8,56
+194,1162,Alan Paul Bartley,2016-01-11,shot,,56.0,M,W,San Fernando,CA,False,attack,Car,False,-118.449,34.29,True,CA,55170,58.5,18.9,51,0.9,1.3,1,92.5
+195,1169,Miguel Hernandez,2016-01-14,shot,knife,39.0,M,H,Santa Clarita,CA,False,other,Not fleeing,False,-118.46,34.42,True,CA,83554,89,9.3,70.9,3.2,0.6,8.5,29.5
+196,1172,Alfred Longoria,2016-01-16,shot,toy weapon,34.0,M,H,Hollywood Hills,CA,False,other,Foot,False,-118.35799999999999,34.104,True,,,,,,,,,
+197,1177,Kelsey Rose Hauser,2016-01-16,shot,unarmed,25.0,F,W,El Cajon,CA,False,other,Car,False,-116.963,32.795,True,CA,45925,80.4,24.2,69.3,6.3,0.8,3.6,28.2
+198,1171,Efrain Herrera,2016-01-17,shot and Tasered,knife,24.0,M,H,North Hills,CA,False,other,Not fleeing,False,-118.46,34.23,True,,,,,,,,,
+199,1189,Vasilios Alexander Katsouras,2016-01-18,shot,garden tool,29.0,M,W,Union City,CA,True,other,Not fleeing,True,-122.079,37.592,True,CA,85521,87.8,8.1,23.9,6.3,0.5,50.9,22.9
+200,1229,Jeffry Graves,2016-01-31,shot,gun,62.0,M,,Newark,CA,True,attack,Not fleeing,False,-122.052,37.53,True,CA,86757,87.7,7.9,41.3,4.7,0.7,27.2,35.2
+201,1288,Joshua Shane Bispo,2016-01-31,shot,gun,42.0,M,W,Bakersfield,CA,False,attack,Car,False,-118.914,35.296,True,CA,57095,79.6,19.8,56.8,8.2,1.5,6.2,45.5
+202,1231,Justin Prescott,2016-02-02,shot and Tasered,knife,30.0,M,W,Rancho Cordova,CA,True,other,Not fleeing,False,-121.291,38.596,True,CA,52530,89.3,17.2,60.4,10.1,1,12.1,19.7
+203,1240,Jose Mendez,2016-02-06,shot,gun,16.0,M,H,Los Angeles,CA,False,attack,Car,True,-118.294,34.063,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+204,1251,Gustavo Najera,2016-02-09,shot,unarmed,22.0,M,H,Anaheim,CA,False,undetermined,Not fleeing,True,-117.934,33.843,True,CA,60752,75.8,16.5,52.7,2.8,0.8,14.8,52.8
+205,1261,Matthew Quinn,2016-02-11,shot,ax,45.0,M,W,Lancaster,CA,False,other,Not fleeing,False,-118.08,34.681999999999995,True,CA,47225,81.4,23.5,49.6,20.5,1,4.3,38
+206,1271,Eduardo Rodriguez,2016-02-14,shot,gun,29.0,M,H,Los Angeles,CA,False,other,Not fleeing,False,-118.163,34.022,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+207,1280,Rammy Jaradat,2016-02-14,shot,knife,26.0,M,W,Van Nuys,CA,False,other,Not fleeing,False,-118.45700000000001,34.196,True,,,,,,,,,
+208,1274,Brandon Lee Witt,2016-02-15,shot,undetermined,39.0,M,W,Yorba Linda,CA,False,undetermined,Not fleeing,False,-117.741,33.872,True,CA,117855,95.5,3.6,75.1,1.3,0.4,15.6,14.4
+209,1285,Jose Quintanilla,2016-02-18,shot,undetermined,30.0,M,H,Santa Ana,CA,False,undetermined,Not fleeing,False,-117.854,33.748000000000005,True,CA,52253,54.8,22.1,45.9,1.5,1,10.5,78.2
+210,1286,Oscar Reyes,2016-02-18,shot,undetermined,35.0,M,H,Santa Ana,CA,False,undetermined,Not fleeing,False,-117.85,33.748000000000005,True,CA,52253,54.8,22.1,45.9,1.5,1,10.5,78.2
+211,1291,Danny Rendon,2016-02-20,shot,gun,30.0,M,H,Anaheim,CA,False,attack,Car,True,-117.95200000000001,33.808,True,CA,60752,75.8,16.5,52.7,2.8,0.8,14.8,52.8
+212,1292,Kisha Michael,2016-02-21,shot,gun,31.0,F,B,Inglewood,CA,False,other,Not fleeing,False,-118.36200000000001,33.961999999999996,True,CA,42044,72.5,22.4,23.3,43.9,0.7,1.4,50.6
+213,1293,Marquintan Sandlin,2016-02-21,shot,undetermined,32.0,M,B,Inglewood,CA,False,other,Not fleeing,False,-118.36200000000001,33.961999999999996,True,CA,42044,72.5,22.4,23.3,43.9,0.7,1.4,50.6
+214,1302,Jamie Clark Long,2016-02-22,shot,knife,45.0,M,W,Bakersfield,CA,False,attack,Not fleeing,False,-119.008,35.372,True,CA,57095,79.6,19.8,56.8,8.2,1.5,6.2,45.5
+215,1309,Angel Alan Gleason,2016-02-23,shot,gun,36.0,M,H,Ripon,CA,False,other,Other,False,-121.14299999999999,37.775999999999996,True,CA,80734,90.6,9.8,79.7,1.5,0.9,4.2,22.2
+216,1316,Francisco Garcia,2016-02-24,shot,,26.0,M,H,Cerritos,CA,False,attack,Not fleeing,False,-118.1,33.887,True,CA,90321,91.7,4.8,23.1,6.9,0.3,61.9,12
+217,1340,Osvaldo Torres,2016-03-06,shot,gun,41.0,M,H,South Gate,CA,False,attack,Other,False,-118.176,33.941,True,CA,43552,52.4,20,50.5,0.9,0.9,0.8,94.8
+218,1343,Bryon Rosas,2016-03-07,shot,knife,45.0,M,W,San Jose,CA,False,other,Not fleeing,False,-121.87799999999999,37.324,True,CA,84647,82.7,11.3,42.8,3.2,0.9,32,33.2
+219,1352,Martin Hurtado,2016-03-10,shot,gun,21.0,M,H,Long Beach,CA,False,other,Foot,False,-118.20299999999999,33.878,True,CA,52783,79.4,20.6,46.1,13.5,0.7,12.9,40.8
+220,1515,Teodoro Valencia,2016-03-11,shot,gun,23.0,M,H,Newark,CA,False,attack,Foot,False,-122.02799999999999,37.54,True,CA,86757,87.7,7.9,41.3,4.7,0.7,27.2,35.2
+221,1356,Gevork Alachadzhyan,2016-03-13,shot,,45.0,M,W,Glendale,CA,True,attack,Car,False,-118.24700000000001,34.146,True,CA,52574,84.4,14.6,71.1,1.3,0.3,16.4,17.4
+222,1367,Cristian Rene Medina,2016-03-16,shot,unarmed,23.0,M,H,Florence,CA,True,other,Not fleeing,False,-118.241,33.981,True,,,,,,,,,
+223,1386,Michael Mallet,2016-03-18,shot,gun,49.0,M,,Byron,CA,True,attack,Not fleeing,False,-121.66,37.882,True,CA,74583,73,3.6,71.3,4.8,0.9,0.3,39.4
+224,1402,Raymond Gonzalez,2016-03-23,shot,gun,34.0,M,H,Fresno,CA,False,attack,Foot,True,-119.791,36.77,True,CA,41531,75.2,29.8,49.6,8.3,1.7,12.6,46.9
+225,1406,Andrew Mike,2016-03-24,shot,gun,29.0,M,W,Redlands,CA,False,attack,Not fleeing,False,-117.17399999999999,34.06,True,CA,65212,90.4,14.3,69,5.2,0.9,7.6,30.3
+226,1420,Joseph Louis Melvin,2016-03-29,shot and Tasered,flashlight,46.0,M,W,Clearlake Park,CA,False,attack,Not fleeing,True,-122.655,38.976,True,,,,,,,,,
+227,1423,Angel Montion,2016-03-30,shot,gun,33.0,M,W,Los Angeles,CA,False,attack,Foot,False,-118.139,34.015,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+228,1442,Cesar Frias,2016-04-06,shot and Tasered,knife,20.0,M,H,Sylmar,CA,True,attack,Not fleeing,False,-118.45299999999999,34.308,True,,,,,,,,,
+229,1443,Luis Gongora,2016-04-07,shot,knife,45.0,M,H,San Francisco,CA,False,other,Not fleeing,False,-122.416,37.762,True,CA,81294,87,13.2,48.5,6.1,0.5,33.3,15.1
+230,1444,Dazion Flenaugh,2016-04-08,shot,knife,40.0,M,B,Sacramento,CA,True,other,Foot,False,-121.44,38.482,True,CA,50739,83.4,22,45,14.6,1.1,18.3,26.9
+231,1449,Lonnie Ball,2016-04-10,shot,gun,39.0,M,W,Modesto,CA,False,other,Car,False,-120.962,37.649,True,CA,48577,81.2,20.5,65,4.2,1.2,6.7,35.5
+232,1452,Arturo Yobani-Torrez Valdez,2016-04-10,shot,knife,28.0,M,H,Los Angeles,CA,False,attack,Not fleeing,False,-118.226,34.049,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+233,1459,Rodney Watts,2016-04-13,shot,undetermined,35.0,M,B,Stockton,CA,False,attack,Not fleeing,False,-121.295,38.024,True,CA,44797,74.9,25.3,37,12.2,1.1,21.5,40.3
+234,1465,Clemente Najera,2016-04-15,shot,baseball bat,38.0,M,H,Lake Elsinore,CA,False,other,Not fleeing,False,-117.333,33.669000000000004,True,CA,61248,76.9,14.6,60,5.3,0.9,5.8,48.4
+235,1508,Marion Habana,2016-04-30,shot,knife,28.0,M,A,Los Angeles,CA,False,other,Not fleeing,True,-118.47200000000001,34.228,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+236,1510,Raymond Hopper,2016-05-03,shot,knife,59.0,M,W,Visalia,CA,False,other,Not fleeing,False,-119.264,36.343,True,CA,52157,82.7,21.3,64.5,2.1,1.4,5.4,46
+237,1512,Matthew Tucker,2016-05-04,shot,knife,18.0,M,,Temecula,CA,False,other,Not fleeing,False,-117.09,33.478,True,CA,79925,91.4,7,70.8,4.1,1.1,9.8,24.7
+238,1522,Lionel Gibson,2016-05-08,shot,toy weapon,21.0,M,B,Long Beach,CA,False,other,Not fleeing,False,-118.191,33.795,True,CA,52783,79.4,20.6,46.1,13.5,0.7,12.9,40.8
+239,1533,Thongsoune Vilaysane,2016-05-11,shot,,33.0,M,A,San Diego,CA,False,other,Car,True,-117.056,32.705,True,CA,66116,87.3,15.4,58.9,6.7,0.6,15.9,28.8
+240,1539,Robert Mark Diaz,2016-05-13,shot,gun,28.0,M,H,Boyle Heights,CA,False,attack,Not fleeing,True,-118.20200000000001,34.025999999999996,True,,,,,,,,,
+241,1544,Luke Sanders,2016-05-17,shot,ax,36.0,M,W,Siskiyou County,CA,True,other,Not fleeing,False,-121.48,41.961000000000006,True,,,,,,,,,
+242,1548,Jessica Nelson-Williams,2016-05-19,shot,unarmed,29.0,F,B,San Francisco,CA,False,other,Car,False,-122.431,37.732,True,CA,81294,87,13.2,48.5,6.1,0.5,33.3,15.1
+243,1549,Jaime Ide,2016-05-19,shot,knife,35.0,M,H,Citrus Heights,CA,False,other,Not fleeing,True,-121.27600000000001,38.674,True,CA,50047,89.9,15.4,80.3,3.3,0.9,3.3,16.5
+244,1572,Fernando Castro,2016-05-26,shot,gun,19.0,M,H,Solvang,CA,False,attack,Car,False,,,True,CA,67484,92.8,11.1,82.5,0.7,1.1,1.4,29.2
+245,1592,Daniel Jonathan Shaham,2016-06-04,shot,undetermined,31.0,M,W,Yreka,CA,False,attack,Not fleeing,False,-122.634,41.735,True,CA,28333,84.4,34.3,83.6,0.7,6.3,1.2,9.7
+246,1599,Omar Villagomez,2016-06-07,shot,vehicle,21.0,M,H,Turlock,CA,False,other,Not fleeing,False,-120.874,37.493,True,CA,51401,81.2,17.5,69.8,1.7,0.9,5.6,36.4
+247,1838,Keith Bursey,2016-06-10,shot,gun,31.0,M,B,Los Angeles,CA,False,attack,Not fleeing,False,-118.333,33.989000000000004,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+248,1616,Jesus Duran,2016-06-11,shot,spear,31.0,M,H,Maywood,CA,False,other,Not fleeing,False,-118.193,33.994,True,CA,35582,41.2,30.1,52,0.6,0.8,0.3,97.4
+249,1625,Fernando Geovanni Llanez,2016-06-14,shot,undetermined,22.0,M,H,Chula Vista,CA,False,attack,Not fleeing,False,-116.961,32.662,True,CA,65185,80.9,12.5,53.7,4.6,0.8,14.4,58.2
+250,1634,Sergey Makarenko,2016-06-18,shot,,17.0,M,W,Carmichael,CA,False,other,Car,False,-121.333,38.634,True,CA,54322,93.4,16.6,80.6,4.8,0.9,4.3,11.7
+251,1653,Dylan Noble,2016-06-25,shot,unarmed,19.0,M,W,Fresno,CA,True,other,Car,True,-119.67299999999999,36.779,True,CA,41531,75.2,29.8,49.6,8.3,1.7,12.6,46.9
+252,1670,Barry Prak,2016-06-28,shot,knife,27.0,M,A,Long Beach,CA,False,other,Foot,False,-117.78299999999999,33.542,True,CA,52783,79.4,20.6,46.1,13.5,0.7,12.9,40.8
+253,1691,Pedro Villanueva,2016-07-03,shot,,19.0,M,H,Fullerton,CA,False,other,Car,False,-117.97399999999999,33.87,True,CA,65974,86.6,16.8,53.9,2.3,0.6,22.8,34.4
+254,1681,Anthony Nunez,2016-07-04,shot,gun,18.0,M,H,San Jose,CA,True,other,Not fleeing,False,-121.807,37.368,True,CA,84647,82.7,11.3,42.8,3.2,0.9,32,33.2
+255,1693,Sam Newby,2016-07-05,shot,undetermined,49.0,M,W,Temecula,CA,False,other,Car,False,-117.141,33.512,True,CA,79925,91.4,7,70.8,4.1,1.1,9.8,24.7
+256,1697,Vinson Lee Ramos,2016-07-07,shot,knife,37.0,M,H,Bell,CA,False,other,Not fleeing,False,-118.18799999999999,33.971,True,CA,37269,47.4,27.7,53.8,0.9,0.9,0.7,93.1
+257,1698,Adam Smith,2016-07-07,shot,,33.0,M,W,Clovis,CA,False,other,Car,False,-119.70299999999999,36.825,True,CA,62666,88.9,13.8,70.9,2.7,1.4,10.7,25.6
+258,1703,Joseph Mann,2016-07-11,shot,knife,50.0,M,B,Sacramento,CA,True,other,Not fleeing,True,-121.461,38.605,True,CA,50739,83.4,22,45,14.6,1.1,18.3,26.9
+259,1719,Cody Wayne Jarrett,2016-07-16,shot and Tasered,gun,26.0,M,W,San Bernardino,CA,False,attack,Other,False,-117.287,34.135999999999996,True,CA,37047,68.2,33.4,45.6,15,1.3,4,60
+260,1722,Javier Garcia Gaona,2016-07-20,shot,knife,31.0,M,H,Santa Maria,CA,True,other,Not fleeing,False,-120.43799999999999,34.935,True,CA,50433,58.7,21.2,56.2,1.7,1.8,5.1,70.4
+261,1727,Bernard Wells,2016-07-23,shot,gun,31.0,M,B,Chino,CA,False,attack,Foot,False,-117.689,34.033,True,CA,72872,77.7,11.6,56.4,6.2,1,10.5,53.8
+262,1729,Robert Lee Lourenco,2016-07-24,shot,hatchet and gun,36.0,M,W,Winchester,CA,True,attack,Not fleeing,False,-117.04799999999999,33.729,True,CA,58103,73.6,14.1,62.2,1.5,0.7,1.8,48.7
+263,1732,Richard Risher,2016-07-25,shot,gun,18.0,M,B,Los Angeles,CA,False,attack,Foot,False,-118.249,33.935,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+264,1740,Saddam Trejeda-Campos,2016-07-27,shot,knife,24.0,M,H,San Bernardino,CA,True,other,Not fleeing,False,-117.314,34.132,True,CA,37047,68.2,33.4,45.6,15,1.3,4,60
+265,1741,Jeffrey Smith,2016-07-28,shot,undetermined,47.0,M,B,La Quinta,CA,False,other,Car,False,-116.26899999999999,33.696999999999996,True,CA,71091,89.6,9.6,78.7,1.9,0.6,3.1,30.3
+266,1744,Donnell Thompson,2016-07-28,shot,unarmed,27.0,M,B,Compton,CA,False,attack,Other,False,-118.24600000000001,33.91,True,CA,43507,60.1,26.6,25.9,32.9,0.7,0.3,65
+267,1745,Omar Gonzalez,2016-07-28,shot,undetermined,36.0,M,H,City Terrace,CA,False,other,Car,True,-118.193,34.053000000000004,True,,,,,,,,,
+268,2148,Richard Swihart,2016-08-01,shot,undetermined,32.0,M,W,Santa Ana,CA,True,attack,Not fleeing,False,-118.316,34.111,True,CA,52253,54.8,22.1,45.9,1.5,1,10.5,78.2
+269,1760,William Bowers,2016-08-02,shot,undetermined,51.0,M,W,Castaic,CA,False,other,Foot,False,-118.618,34.491,True,CA,104427,91.9,6.8,71.6,3.3,0.6,11.4,24.8
+270,1769,David Michael Moya,2016-08-05,shot,crossbow,31.0,M,,Santee,CA,True,attack,Not fleeing,False,-116.98200000000001,32.866,True,CA,76104,92.9,7.8,82.5,2,0.8,3.8,16.3
+271,1771,Michael McClurg,2016-08-08,shot,gun,56.0,M,W,Citrus Heights,CA,False,attack,Not fleeing,False,-121.302,38.696999999999996,True,CA,50047,89.9,15.4,80.3,3.3,0.9,3.3,16.5
+272,1776,Jesse James Romero,2016-08-09,shot,gun,14.0,M,H,Los Angeles,CA,False,attack,Foot,True,-118.215,34.038000000000004,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+273,1785,Sergio Daniel Weick,2016-08-11,shot,knife,33.0,M,H,Vista,CA,False,undetermined,Other,False,-117.258,33.196,True,CA,50601,76.9,17.8,63.5,3.3,1.2,4.2,48.4
+274,1832,Eric Ortega Soto,2016-08-13,shot,,36.0,M,H,Hayward,CA,False,other,Car,False,-122.08,37.635999999999996,True,CA,65096,80.1,13.4,34.2,11.9,1,22,40.7
+275,1791,Colby Friday,2016-08-16,shot,gun,30.0,M,B,Stockton,CA,False,other,Foot,True,-121.25200000000001,37.986999999999995,True,CA,44797,74.9,25.3,37,12.2,1.1,21.5,40.3
+276,1795,Kenney Watkins,2016-08-16,shot,gun,18.0,M,B,Los Angeles,CA,False,other,Foot,False,-118.281,33.945,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+277,1794,Francisco Villarreal,2016-08-18,shot,gun,37.0,M,H,Bakersfield,CA,False,attack,Car,False,-118.98299999999999,35.35,True,CA,57095,79.6,19.8,56.8,8.2,1.5,6.2,45.5
+278,1797,Chad Irwin,2016-08-18,shot,knife,40.0,M,W,Antelope,CA,False,other,Not fleeing,False,-121.32,38.713,True,CA,63607,91.2,13,63.8,8.8,0.9,13.3,14.5
+279,1801,Trenton Lohman,2016-08-18,shot,gun,38.0,M,W,Poway,CA,False,attack,Car,False,-117.02799999999999,32.955999999999996,True,CA,95815,93,6,76.9,1.6,0.6,10.2,15.7
+280,1831,David Fulton,2016-08-18,shot,gun,59.0,M,W,McKinneyville,CA,True,attack,Not fleeing,False,-99.902,31.969,True,,,,,,,,,
+281,1799,Marcelo Luna,2016-08-19,shot,bayonet,47.0,M,H,East Hollywood,CA,True,undetermined,Not fleeing,False,-118.306,34.097,True,,,,,,,,,
+282,1803,Pedro Montanez,2016-08-20,shot,knife,71.0,M,H,Indio,CA,False,other,Not fleeing,True,-116.21600000000001,33.726,True,CA,50525,73.7,19.5,61.5,2.4,1,2.2,67.8
+283,1816,Donta Taylor,2016-08-25,shot,gun,31.0,M,B,Compton,CA,False,attack,Foot,False,-118.24,33.899,True,CA,43507,60.1,26.6,25.9,32.9,0.7,0.3,65
+284,2144,David Coborubio,2016-08-25,shot,undetermined,32.0,M,H,Compton,CA,False,undetermined,Not fleeing,False,,,True,CA,43507,60.1,26.6,25.9,32.9,0.7,0.3,65
+285,1824,Michael Peacor,2016-08-29,shot and Tasered,knife,56.0,M,W,San Bernardino,CA,False,attack,Not fleeing,False,-117.306,34.129,True,CA,37047,68.2,33.4,45.6,15,1.3,4,60
+286,1847,Joshua Quintero,2016-09-01,shot,gun,23.0,M,H,Florence,CA,False,other,Foot,False,-118.243,33.963,True,,,,,,,,,
+287,1848,,2016-09-01,shot and Tasered,pipe,,M,H,Huntington Park,CA,False,other,Not fleeing,False,-118.225,33.991,True,CA,34887,41.4,29.6,51.2,0.8,1.3,0.7,97.1
+288,1852,Jose Romero,2016-09-04,shot,knife,,M,H,Long Beach,CA,True,other,Not fleeing,False,-118.155,33.787,True,CA,52783,79.4,20.6,46.1,13.5,0.7,12.9,40.8
+289,1873,Jose Torres,2016-09-08,shot,toy weapon,38.0,M,H,Delhi,CA,False,attack,Not fleeing,False,-120.781,37.422,True,CA,49716,55.5,17.3,52.6,1.1,1.5,3.8,71.7
+290,1880,Eugene Craig,2016-09-12,shot,gun,86.0,M,,Saratoga,CA,False,other,Not fleeing,False,-122.009,37.292,True,CA,169189,98.2,3.6,53.9,0.3,0.1,41.4,3.5
+291,1882,Christian Vargas,2016-09-12,shot,unarmed,25.0,M,H,Colton,CA,False,other,Car,False,-117.311,34.071999999999996,True,CA,41565,70.1,22.1,43.4,9.7,1.3,5,71
+292,1890,Robert Duh,2016-09-17,shot,hatchet,42.0,M,W,Beaumont,CA,False,other,Not fleeing,False,-116.949,33.929,True,CA,64830,86.8,11.8,62.8,6.2,1.5,7.7,40.3
+293,1909,Jesse Ataway,2016-09-23,shot,unarmed,41.0,M,W,Fair Oaks,CA,False,attack,Foot,False,-121.23,38.665,True,CA,73115,94.3,11.9,85.7,2.4,0.8,4.2,9.6
+294,1918,Alfred Olango,2016-09-27,shot,unarmed,38.0,M,B,El Cajon,CA,True,attack,Not fleeing,True,-116.95200000000001,32.808,True,CA,45925,80.4,24.2,69.3,6.3,0.8,3.6,28.2
+295,1925,Carnell Snell,2016-10-01,shot,gun,18.0,M,B,Los Angeles,CA,False,undetermined,Foot,True,-118.307,33.939,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+296,1922,Daniel Perez,2016-10-02,shot,toy weapon,16.0,M,H,Los Angeles,CA,True,attack,Not fleeing,True,-118.25,34.0,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+297,1956,Kim Jackson,2016-10-08,shot,knife,53.0,F,W,Modesto,CA,False,attack,Not fleeing,False,-120.96799999999999,37.665,True,CA,48577,81.2,20.5,65,4.2,1.2,6.7,35.5
+298,1950,Maurico Barron,2016-10-10,shot,unarmed,27.0,M,H,Irvine,CA,True,other,Not fleeing,False,-117.795,33.684,True,CA,92278,96.3,12.3,50.5,1.8,0.2,39.2,9.2
+299,1958,Dominick Musulman,2016-10-11,shot,knife,30.0,M,W,Concord,CA,False,other,Not fleeing,False,-122.02799999999999,37.972,True,CA,68318,87.1,13.3,64.5,3.6,0.7,11.1,30.6
+300,1970,Nicholas McWherter,2016-10-14,shot,gun,26.0,M,W,San Francisco,CA,True,attack,Not fleeing,False,-122.485,37.739000000000004,True,CA,81294,87,13.2,48.5,6.1,0.5,33.3,15.1
+301,1967,Sean Arlt,2016-10-16,shot and Tasered,metal rake,32.0,M,W,Santa Cruz,CA,True,attack,Not fleeing,False,-122.046,36.954,True,CA,62164,92.8,23.8,74.5,1.8,0.7,7.7,19.4
+302,1993,Brandon Millard,2016-10-25,shot,knife,37.0,M,W,Lincoln,CA,True,other,Not fleeing,False,-121.29299999999999,38.889,True,CA,72399,93,9.1,79.6,1.5,0.9,6.2,17.7
+303,2001,Jason King,2016-10-28,shot,gun,38.0,M,B,Sacramento,CA,True,attack,Not fleeing,False,-121.355,38.659,True,CA,50739,83.4,22,45,14.6,1.1,18.3,26.9
+304,2006,Michelle Lee Shirley,2016-10-31,shot,vehicle,39.0,F,B,Torrance,CA,True,attack,Car,False,-118.316,33.819,True,CA,79549,93.5,7,51.1,2.7,0.4,34.5,16.1
+305,2007,Jose Armando Cueva,2016-10-31,shot,knife,55.0,M,H,Chatsworth,CA,False,attack,Not fleeing,False,-118.569,34.241,True,,,,,,,,,
+306,2015,Abraham Ortiz,2016-11-04,shot,unarmed,26.0,M,H,Palm Springs,CA,False,other,Not fleeing,False,-116.546,33.818000000000005,True,CA,44075,87.5,18.9,75.7,4.4,1,4.4,25.3
+307,2014,David Contreras,2016-11-06,shot and Tasered,unarmed,33.0,M,H,Santa Ana,CA,False,attack,Not fleeing,False,-117.90299999999999,33.727,True,CA,52253,54.8,22.1,45.9,1.5,1,10.5,78.2
+308,2033,Carlos Mendez,2016-11-08,shot,gun,45.0,M,H,Azusa,CA,False,attack,Not fleeing,False,-117.913,34.128,True,CA,53135,77.7,17.6,57.6,3.2,1.2,8.7,67.6
+309,2040,Juan Carlos Fernandez,2016-11-13,shot,gun,22.0,M,H,San Diego,CA,False,attack,Not fleeing,True,-117.10600000000001,32.75,True,CA,66116,87.3,15.4,58.9,6.7,0.6,15.9,28.8
+310,2047,Michael Cookson,2016-11-15,shot,knife,48.0,M,,Temecula,CA,False,other,Not fleeing,False,-117.163,33.527,True,CA,79925,91.4,7,70.8,4.1,1.1,9.8,24.7
+311,2050,Jose George Anthony Franco,2016-11-16,shot,machete,37.0,M,H,Whittier,CA,False,other,Not fleeing,False,-118.03299999999999,33.975,True,CA,66457,83.3,12.5,64.6,1.3,1.3,3.8,65.7
+312,2051,Edmund Leighty,2016-11-16,shot,gun,56.0,M,W,Redding,CA,False,other,Not fleeing,False,-122.353,40.571,True,CA,43341,90.6,18.8,85.8,1.2,2.3,3.4,8.7
+313,2053,Adalid Flores,2016-11-19,shot,,29.0,M,H,Anaheim,CA,False,attack,Foot,True,-117.90700000000001,33.852,True,CA,60752,75.8,16.5,52.7,2.8,0.8,14.8,52.8
+314,2054,Luke Smith,2016-11-19,shot and Tasered,knife,15.0,M,A,Watsonville,CA,False,other,Foot,True,-121.791,36.971,True,CA,46018,56.3,19.7,43.7,0.7,1.2,3.3,81.4
+315,2064,Michael Giles,2016-11-21,shot,knife,27.0,M,W,Lompoc,CA,True,other,Foot,False,-120.458,34.654,True,CA,44866,74.7,21.3,61.2,5.7,1.8,3.8,50.8
+316,2065,Mark Daniel Sly,2016-11-22,shot,gun,45.0,M,H,La Mirada,CA,False,attack,Not fleeing,False,-117.977,33.909,True,CA,79330,88.8,7.5,60.7,2.3,0.8,17.8,39.7
+317,2085,Pablo Renato Cartagena,2016-11-28,shot,gun,23.0,M,H,Los Angeles,CA,False,undetermined,Foot,False,-118.266,34.023,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+318,2114,Francisco Serna,2016-12-12,shot,unarmed,73.0,M,H,Bakersfield,CA,False,other,Not fleeing,False,-119.09,35.301,True,CA,57095,79.6,19.8,56.8,8.2,1.5,6.2,45.5
+319,2130,Robert James Hess,2016-12-15,shot and Tasered,gun,60.0,M,W,Hacienda Heights,CA,False,attack,Not fleeing,False,-117.976,33.979,True,CA,78039,85.8,7.9,40.5,1.4,0.6,37.1,45.5
+320,2134,Fidel Barrios,2016-12-17,shot,gun,33.0,M,H,Los Angeles,CA,False,other,Not fleeing,False,-118.163,34.022,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+321,2133,Ryan Joseph,2016-12-18,shot,undetermined,20.0,M,B,Los Angeles,CA,False,undetermined,Foot,False,-118.309,33.985,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+322,2139,Nick Hamilton,2016-12-20,shot,gun,31.0,M,,Hemet,CA,False,other,Other,False,-116.954,33.731,True,CA,33989,79.5,26,67.7,6.4,1.6,3,35.8
+323,2141,,2016-12-20,shot,knife,,M,,Brawley,CA,True,other,Not fleeing,False,-115.535,32.983000000000004,True,CA,37637,70.4,25.2,54.4,2,1,1.4,81.5
+324,2154,,2016-12-21,shot,knife,,M,,Stockton,CA,False,undetermined,Not fleeing,False,-121.265,37.974000000000004,True,CA,44797,74.9,25.3,37,12.2,1.1,21.5,40.3
+325,2157,Anthony Lovell Eddington,2016-12-21,shot,gun,24.0,M,B,Coalinga,CA,False,attack,Not fleeing,False,-120.37100000000001,36.145,True,CA,51860,73,23.2,57.8,4.1,1.3,3,53.5
+326,2168,,2016-12-23,shot,,,M,,El Monte,CA,False,other,Car,False,-118.035,34.075,True,CA,38085,57.8,24.9,38.8,0.8,1,25.1,69
+327,2166,Zhonghua Li,2016-12-24,shot,scissors,48.0,M,A,Pico Rivera,CA,True,attack,Not fleeing,False,-118.064,34.018,True,CA,55752,68.2,13.7,59.4,1,1.4,2.6,91.2
+328,2169,Dustin Kirk,2016-12-27,shot,gun,35.0,M,,Grass Valley,CA,False,attack,Not fleeing,False,-121.01799999999999,39.183,True,CA,33700,88.7,28.4,89.4,0.4,1.6,1.5,10.4
+329,2191,Ruben Randolph,2017-01-04,shot,gun,51.0,M,B,Pomona,CA,False,attack,Foot,False,-117.73700000000001,34.069,True,CA,49186,67.5,22.1,48,7.3,1.2,8.5,70.5
+330,2194,Luis Vargas,2017-01-05,shot,gun,20.0,M,H,Dinuba,CA,False,attack,Not fleeing,False,-119.395,36.555,True,CA,36860,58.6,28.6,52,0.7,0.9,2.1,84.4
+331,2207,Michael Rogers,2017-01-10,shot,knife,32.0,M,W,Los Angeles,CA,False,other,Not fleeing,False,-118.26299999999999,34.042,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+332,2210,Hafez Abousamra,2017-01-11,shot,gun,41.0,M,O,Lake Elsinore,CA,False,attack,Other,False,-117.28299999999999,33.681999999999995,True,CA,61248,76.9,14.6,60,5.3,0.9,5.8,48.4
+333,2216,Eric David Anderson,2017-01-15,shot,gun,48.0,M,W,Azusa,CA,False,attack,Not fleeing,False,-117.90899999999999,34.154,True,CA,53135,77.7,17.6,57.6,3.2,1.2,8.7,67.6
+334,2217,Sinuon Pream,2017-01-15,shot and Tasered,knife,37.0,F,A,Long Beach,CA,True,other,Not fleeing,False,-118.12100000000001,33.775,True,CA,52783,79.4,20.6,46.1,13.5,0.7,12.9,40.8
+335,2229,Dominic Hodges,2017-01-17,shot,gun,39.0,M,H,Twentynine Palms,CA,False,attack,Not fleeing,False,-116.081,34.135,True,CA,41582,89.9,17.9,71.6,8.2,1.3,3.9,20.8
+336,2232,Daniel Darnell Stroughter,2017-01-18,shot,hatchet,50.0,M,W,Los Angeles,CA,False,other,Car,False,-118.26100000000001,34.03,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+337,2225,Marlon Joel Rodas-Sanchez,2017-01-18,shot and Tasered,knife,16.0,M,H,Salinas,CA,False,other,Not fleeing,True,-121.635,36.679,True,CA,49840,59.5,20.2,45.8,2,1.3,6.3,75
+338,2238,Jorge Victor,2017-01-22,shot,gun,33.0,M,H,Carson,CA,False,other,Not fleeing,False,-118.219,33.828,True,CA,72421,79.6,10.9,23.8,23.8,0.6,25.6,38.6
+339,2235,Angel Ramos,2017-01-23,shot,knife,21.0,M,H,Vallejo,CA,False,attack,Not fleeing,True,-122.258,38.113,True,CA,57028,87.4,18.3,32.8,22.1,0.7,24.9,22.6
+340,2246,Josue Gallardo,2017-01-24,shot,gun,34.0,M,H,Atascadero,CA,False,other,Not fleeing,False,-120.639,35.446999999999996,True,CA,66607,92.6,11,86.4,2.1,1,2.4,15.6
+341,2255,Antonio Arturo Perez Garcia,2017-01-24,shot,gun,27.0,M,H,Bakersfield,CA,False,attack,Other,False,-118.98899999999999,35.381,True,CA,57095,79.6,19.8,56.8,8.2,1.5,6.2,45.5
+342,2272,Eduardo Hernandez,2017-01-27,shot,gun,25.0,M,H,Alhambra,CA,True,attack,Not fleeing,True,-118.155,34.095,True,CA,53582,80.7,15.8,28.3,1.5,0.6,52.9,34.4
+343,2275,Steve Salgado,2017-01-29,shot,unarmed,18.0,M,H,Santa Ana,CA,False,other,Foot,False,-117.87100000000001,33.742,True,CA,52253,54.8,22.1,45.9,1.5,1,10.5,78.2
+344,2276,Refugio Alvarez,2017-01-30,shot and Tasered,gun and knife,45.0,M,H,Fresno,CA,True,attack,Not fleeing,False,-119.76799999999999,36.773,True,CA,41531,75.2,29.8,49.6,8.3,1.7,12.6,46.9
+345,2277,Spencer Herckt,2017-01-30,shot and Tasered,beer bottle,42.0,M,W,Modesto,CA,False,other,Not fleeing,False,-120.977,37.693000000000005,True,CA,48577,81.2,20.5,65,4.2,1.2,6.7,35.5
+346,2278,,2017-01-31,shot and Tasered,knife,,M,B,Hollywood,CA,True,attack,Not fleeing,False,-118.329,34.098,True,,,,,,,,,
+347,2301,Michael Russo,2017-02-01,shot,,31.0,M,B,Highland,CA,False,attack,Car,False,-117.226,34.135999999999996,True,CA,53851,75,20.7,52.4,11.1,1,7.4,48.1
+348,2281,Jose Gonzales Lera,2017-02-03,shot,gun,27.0,M,H,Olympic Valley,CA,False,attack,Car,False,-120.20200000000001,39.2,True,,,,,,,,,
+349,2283,Nana Adomako,2017-02-05,shot,unarmed,45.0,M,B,Fremont,CA,True,attack,Not fleeing,False,-121.994,37.541,True,CA,105355,92.3,6.1,32.8,3.3,0.5,50.6,14.8
+350,2287,Gerardo Vasquez,2017-02-06,shot and Tasered,knife,52.0,M,H,Santa Monica,CA,True,attack,Foot,False,-118.455,34.027,True,CA,76580,95.3,11.3,77.6,3.9,0.4,9,13.1
+351,2333,Bryan Devin Carreno,2017-02-12,shot,knife,26.0,M,H,Santa Barbara,CA,True,other,Foot,False,-119.75200000000001,34.449,True,CA,66107,84.1,13.9,75.1,1.6,1,3.5,38
+352,2345,Mauro Garnica,2017-02-15,shot,unknown weapon,55.0,M,H,Newman,CA,False,attack,Not fleeing,False,-121.01299999999999,37.32,True,CA,50225,76,19.8,66.6,2.3,1,1.9,61.6
+353,2350,Jimmy Briggs,2017-02-16,shot,gun,21.0,M,B,Gardena,CA,False,attack,Foot,False,-118.29700000000001,33.903,True,CA,47674,81.8,15,24.6,24.4,0.6,26.2,37.7
+354,2710,Jonathon  Daniel Simmons,2017-02-16,shot,gun,22.0,M,W,Douglas City,CA,False,other,Not fleeing,False,,,True,CA,31776,94.1,40.8,89.6,0,3.1,1.1,6.6
+355,2364,Jesse Enjaian,2017-02-17,shot,gun,32.0,M,W,Oakland,CA,False,attack,Not fleeing,False,-122.154,37.755,True,CA,54618,80.4,20.4,34.5,28,0.8,16.8,25.4
+356,2383,Lorenzo Antoine Cruz,2017-02-25,shot,toy weapon,23.0,M,B,Rocklin,CA,True,attack,Foot,False,-121.258,38.827,True,CA,80177,95.8,8.6,82.6,1.5,0.7,7.2,11.5
+357,2380,Evin Sanna Olsen,2017-02-26,shot,vehicle,46.0,F,W,Ripon,CA,False,other,Car,False,-121.115,37.739000000000004,True,CA,80734,90.6,9.8,79.7,1.5,0.9,4.2,22.2
+358,2396,Isidro Bazan Jr,2017-03-02,shot,baseball bat,34.0,M,H,San Marcos,CA,False,other,Not fleeing,False,-117.14299999999999,33.135,True,CA,57822,81.4,16,63.5,2.3,0.7,9,36.6
+359,2403,Dave Phoenix,2017-03-03,shot,toy weapon,25.0,M,N,Lemoore,CA,False,attack,Not fleeing,False,-119.76299999999999,36.232,True,CA,49623,84.6,15.6,56.8,6.4,1.4,8.2,40
+360,2404,Edward Manning,2017-03-04,shot,metal object,26.0,M,W,Cabazon,CA,False,other,Foot,False,-116.814,33.926,True,CA,35833,74.1,30.7,69.1,5.3,3.6,1.5,44.8
+361,2402,Alejandro Valencia Mendez,2017-03-04,shot and Tasered,pipe,70.0,M,H,Los Angeles,CA,False,other,Not fleeing,False,-118.257,34.041,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+362,2406,Dennis Todd Rogers,2017-03-07,shot and Tasered,sharp object,41.0,M,B,Ladera Heights,CA,True,other,Not fleeing,False,-118.365,33.986999999999995,True,CA,102281,97.2,6.8,15.1,73.7,0.3,3.6,5.5
+363,2408,,2017-03-08,shot,knife,,M,,Riverside,CA,False,other,Not fleeing,False,-117.331,33.891999999999996,True,CA,57196,78.5,18.8,56.5,7,1.1,7.4,49
+364,2411,Steven Schiltz,2017-03-09,shot,baseball bat and bottle,29.0,M,W,Huntington Beach,CA,True,other,Not fleeing,False,-118.00299999999999,33.701,True,CA,83252,92.4,9.4,76.7,1,0.5,11.1,17.1
+365,2410,Jesus Alberto Geney,2017-03-09,shot and Tasered,knife,24.0,M,H,Santa Clara,CA,True,other,,False,-121.963,37.361999999999995,True,CA,98914,91.9,8.4,45,2.7,0.5,37.7,19.4
+366,2415,Damon Seitz,2017-03-10,shot,gun,40.0,M,W,Escondido,CA,True,attack,Not fleeing,False,-117.03399999999999,33.145,True,CA,50899,73.6,18.7,60.4,2.5,1,6.1,48.9
+367,2412,Michael Anthony Perez,2017-03-12,shot and Tasered,knife,33.0,M,H,Orange,CA,True,other,Not fleeing,False,-117.853,33.809,True,CA,78513,84.2,13.2,67.1,1.6,0.7,11.3,38.1
+368,2417,Noel Aaron Russell,2017-03-13,shot,knife,23.0,M,W,Napa,CA,True,other,Not fleeing,False,-122.275,38.285,True,CA,68038,80.9,9.5,75.1,0.6,0.8,2.3,37.6
+369,2426,"Elena ""Ebbie"" Mondragon",2017-03-14,shot,unarmed,16.0,F,H,Hayward,CA,False,other,,False,-122.065,37.661,True,CA,65096,80.1,13.4,34.2,11.9,1,22,40.7
+370,2440,Desmond Phillips,2017-03-17,shot and Tasered,knife,25.0,M,B,Chico,CA,True,other,Not fleeing,False,-121.845,39.725,True,CA,42342,92,24.9,80.8,2.1,1.4,4.2,15.4
+371,2445,,2017-03-19,shot,knife,,M,,Desert Hot Springs,CA,False,attack,Not fleeing,False,-116.443,33.925,True,CA,33027,67.7,34.9,58,8.2,1.4,2.6,52.6
+372,2456,Austin Tyler Macon,2017-03-24,shot,gun,18.0,M,W,Cottonwood,CA,False,attack,Not fleeing,False,-122.281,40.328,True,CA,39085,79,34.4,85.8,0.1,3,3.3,10.6
+373,2454,Fred Barragan,2017-03-25,shot,gun,35.0,M,H,Los Angeles,CA,False,other,Foot,False,-118.211,34.044000000000004,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+374,2455,Paul Parienlla,2017-03-26,shot,gun,53.0,M,W,Anderson,CA,False,attack,Not fleeing,False,-122.29,40.45,True,CA,32536,85,24.6,83.3,0.7,4.3,2.6,10.8
+375,2479,Rogelio Vidal Landa,2017-04-04,shot,unarmed,47.0,M,H,Bakersfield,CA,False,other,Foot,False,-119.005,35.275999999999996,True,CA,57095,79.6,19.8,56.8,8.2,1.5,6.2,45.5
+376,2481,Stephen Connard Ferry,2017-04-04,shot,gun,65.0,M,W,Napa,CA,False,attack,Car,False,-122.316,38.311,True,CA,68038,80.9,9.5,75.1,0.6,0.8,2.3,37.6
+377,2490,Jose Gonzales Rendon,2017-04-09,shot,knife,36.0,M,H,Santa Paula,CA,False,attack,Not fleeing,False,-119.071,34.349000000000004,True,CA,52824,64.3,18,63,0.5,1.6,0.7,79.5
+378,2491,William Baker,2017-04-09,shot,gun,36.0,M,,Ontario,CA,False,other,Not fleeing,False,-117.611,34.078,True,CA,54114,70.6,18.1,51,6.4,1,5.2,69
+379,2496,Zelalem Eshetu Ewnetu,2017-04-12,shot,gun,28.0,M,B,Los Angeles,CA,False,other,Not fleeing,False,-118.24700000000001,33.954,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+380,2509,David Airth,2017-04-15,shot,knife,56.0,M,W,Newport Beach,CA,False,other,Not fleeing,False,-117.948,33.626,True,CA,113071,97.7,7.1,87.3,0.7,0.3,7,7.2
+381,2520,Isaiah Murrietta-Golding,2017-04-15,shot,unarmed,16.0,M,H,Fresno,CA,False,other,Foot,True,-119.772,36.801,True,CA,41531,75.2,29.8,49.6,8.3,1.7,12.6,46.9
+382,2521,Joseph Sin,2017-04-22,shot,hatchet and gun,43.0,M,A,Yuba City,CA,False,attack,Foot,False,-121.634,39.13,True,CA,50649,78.3,18.5,57.6,2.5,1.4,17.2,28.4
+383,2532,Juan Manuel Avilla,2017-04-25,shot,,20.0,M,H,Bellflower,CA,False,other,Car,False,-118.118,33.91,True,CA,48823,77.6,17.9,42.2,14,1,11.6,52.3
+384,2547,Luis Fernando Pacheco,2017-04-28,shot,gun,25.0,M,H,San Mateo,CA,False,attack,Not fleeing,False,-123.98899999999999,41.364,True,CA,90208,88,7.6,57.8,2.4,0.5,18.9,26.6
+385,2544,Peter Raymond Selis,2017-04-30,shot,gun,49.0,M,W,University City,CA,False,attack,Not fleeing,False,-117.20299999999999,32.872,True,,,,,,,,,
+386,2552,,2017-05-03,shot,knife,,M,,San Jose,CA,True,attack,Not fleeing,False,-121.804,37.355,True,CA,84647,82.7,11.3,42.8,3.2,0.9,32,33.2
+387,2553,Mirza Tatlic,2017-05-03,shot,gun,24.0,M,W,San Jose,CA,True,attack,Not fleeing,False,-121.89399999999999,37.302,True,CA,84647,82.7,11.3,42.8,3.2,0.9,32,33.2
+388,2556,Nicholas Flusche,2017-05-03,shot,knife,26.0,M,W,San Francisco,CA,False,attack,Not fleeing,True,-122.40799999999999,37.784,True,CA,81294,87,13.2,48.5,6.1,0.5,33.3,15.1
+389,2557,Jacob Peterson,2017-05-06,shot,toy weapon,15.0,M,W,San Diego,CA,True,attack,Not fleeing,True,-117.226,32.957,True,CA,66116,87.3,15.4,58.9,6.7,0.6,15.9,28.8
+390,2567,Mikel Laney McIntyre,2017-05-08,shot,rock,32.0,M,B,Rancho Cordova,CA,True,attack,Foot,False,-121.287,38.59,True,CA,52530,89.3,17.2,60.4,10.1,1,12.1,19.7
+391,2568,Anthony David Soderberg,2017-05-08,shot,gun,29.0,M,W,Los Angeles,CA,False,attack,Not fleeing,False,-118.305,34.275,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+392,2572,Jeroen Peter Koornwinder,2017-05-10,shot and Tasered,,50.0,M,W,Barona Indian Reservation,CA,False,other,Car,False,-116.84,32.955999999999996,True,,,,,,,,,
+393,2584,,2017-05-15,shot,undetermined,,M,,Long Beach,CA,False,attack,Other,False,-118.165,33.874,True,CA,52783,79.4,20.6,46.1,13.5,0.7,12.9,40.8
+394,2585,Emmanuel Ibarra,2017-05-15,shot,knife,34.0,M,H,Del Mar,CA,True,attack,Foot,False,-117.26899999999999,32.977,True,CA,107013,98.8,3.5,94,0.2,0.2,2.8,4.2
+395,2588,Edwin Fuentes,2017-05-16,shot,gun,24.0,M,H,Tustin,CA,True,attack,Not fleeing,False,-117.84200000000001,33.742,True,CA,71897,83.5,13.6,52.6,2.3,0.6,20.3,39.7
+396,2599,Shannon Edward Estill,2017-05-20,shot,toy weapon,58.0,M,W,Pleasanton,CA,True,attack,Not fleeing,True,-121.85,37.663000000000004,True,CA,124759,95.2,4.4,67,1.7,0.3,23.2,10.3
+397,2603,John Eno,2017-05-23,shot,gun,59.0,M,W,San Francisco,CA,False,other,Not fleeing,False,-122.46700000000001,37.647,True,CA,81294,87,13.2,48.5,6.1,0.5,33.3,15.1
+398,2606,,2017-05-24,shot,gun,,M,H,Los Angeles,CA,False,attack,Not fleeing,False,-118.23299999999999,34.049,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+399,2611,Francis de la Cruz,2017-05-28,shot and Tasered,ax,35.0,M,,San Jose,CA,True,other,Not fleeing,False,-121.88799999999999,37.339,True,CA,84647,82.7,11.3,42.8,3.2,0.9,32,33.2
+400,2609,Joseph Godinez,2017-05-29,shot,,20.0,M,H,Vacaville,CA,False,attack,Car,True,-121.956,38.368,True,CA,74001,88.4,10.7,66.3,10.3,0.9,6.1,22.9
+401,2620,James Gleason,2017-05-31,shot,,24.0,M,W,Hesperia,CA,False,attack,,False,-117.37100000000001,34.427,True,CA,44874,77.2,24.8,61.1,5.8,1.2,2.1,48.9
+402,2636,Bruce Dawley,2017-06-04,shot,gun,66.0,M,W,Campo,CA,True,attack,Not fleeing,False,-116.512,32.68,True,CA,57521,75.8,26.8,77.6,4.2,3.4,1.2,29.6
+403,2639,Salvadro Alfredo Pablo Lopez,2017-06-07,shot,gun,21.0,M,H,Fresno,CA,False,attack,,True,-119.809,36.786,True,CA,41531,75.2,29.8,49.6,8.3,1.7,12.6,46.9
+404,2646,Michele Rice,2017-06-08,shot,gun,33.0,F,W,Long Beach,CA,False,attack,Not fleeing,False,-118.09899999999999,33.81,True,CA,52783,79.4,20.6,46.1,13.5,0.7,12.9,40.8
+405,2647,Oscar Junior,2017-06-08,shot,gun,45.0,M,H,Bakersfield,CA,False,attack,Not fleeing,False,-117.681,35.615,True,CA,57095,79.6,19.8,56.8,8.2,1.5,6.2,45.5
+406,2656,Johnny Platas,2017-06-12,shot and Tasered,knife,45.0,M,H,Selma,CA,False,other,Not fleeing,False,-119.615,36.584,True,CA,42948,62,24.3,55.4,1.2,2.1,4.6,77.6
+407,2670,Hector Cisneros Soria,2017-06-16,shot,gun,30.0,M,H,Rialto,CA,False,other,Not fleeing,True,-117.352,34.095,True,CA,50971,67.4,19.7,44,16.4,1.1,2.3,67.6
+408,2676,Sergio Valdovinos,2017-06-16,shot,machete,32.0,M,H,Madera,CA,True,other,Not fleeing,False,-120.05799999999999,36.978,True,CA,40457,58.2,27.6,49.9,3.4,3.1,2.2,76.7
+409,2678,Nathan Banks,2017-06-16,shot,gun,37.0,M,W,Antioch,CA,False,other,Foot,False,-121.824,38.003,True,CA,64329,86.9,15.4,48.9,17.3,0.9,10.5,31.7
+410,2673,Samantha Aguilar,2017-06-17,shot,vehicle,28.0,F,H,Montebello,CA,False,other,Not fleeing,False,-118.12799999999999,33.98,True,CA,45875,71.7,14,53.8,0.9,1,11,79.3
+411,2684,David Pacas,2017-06-20,shot,toy weapon,36.0,M,H,South Gate,CA,False,attack,Other,False,-118.205,33.963,True,CA,43552,52.4,20,50.5,0.9,0.9,0.8,94.8
+412,2691,Armando Garcia-Muro,2017-06-22,shot,unarmed,17.0,M,H,Palmdale,CA,False,other,Not fleeing,False,-118.11200000000001,34.582,True,CA,52392,74.2,21.3,49,14.8,0.9,4.3,54.4
+413,2693,Santino Trevino,2017-06-23,shot,gun,20.0,M,H,Hollywood Hills,CA,False,attack,Not fleeing,False,-118.346,34.105,True,,,,,,,,,
+414,2716,,2017-06-28,shot,gun,,M,,Los Angeles,CA,True,attack,Not fleeing,True,-118.26299999999999,34.059,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+415,2720,Marco Cardoza,2017-06-29,shot,toy weapon,41.0,M,H,Burbank,CA,False,attack,Not fleeing,False,-118.322,34.19,True,CA,66076,88.7,11,72.7,2.5,0.5,11.6,24.5
+416,2720,Marco Cardoza,2017-06-29,shot,toy weapon,41.0,M,H,Burbank,CA,False,attack,Not fleeing,False,-118.322,34.19,True,CA,65472,85,12.1,60.8,2.7,1.3,7.7,50.9
+417,2927,Zepp Crouchet,2017-07-04,shot,gun,42.0,M,B,Antioch,CA,False,other,Car,False,-121.788,38.009,True,CA,64329,86.9,15.4,48.9,17.3,0.9,10.5,31.7
+418,2748,Jonathan Coronel,2017-07-05,shot,unarmed,24.0,M,H,Vista,CA,False,undetermined,Foot,False,-117.25299999999999,33.2,True,CA,50601,76.9,17.8,63.5,3.3,1.2,4.2,48.4
+419,2773,Keith Alan Eustace,2017-07-12,shot,blunt object,58.0,M,W,Grover Beach,CA,False,other,Not fleeing,False,-120.619,35.124,True,CA,54228,85.9,13.8,75.7,1.1,1.4,4.1,29.2
+420,2778,Gerber Dieguez,2017-07-15,shot,gun,29.0,M,H,Los Angeles,CA,False,undetermined,Foot,False,-118.428,34.259,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+421,2780,Vaughn Shaw,2017-07-15,shot,gun,23.0,M,B,Moreno Valley,CA,True,other,Not fleeing,False,-117.273,33.936,True,CA,54590,75.2,19.3,41.9,18,0.9,6.1,54.4
+422,2789,Nolan Cornett,2017-07-19,shot,gun,24.0,M,W,Fair Oaks,CA,False,attack,Not fleeing,False,-121.264,38.65,True,CA,73115,94.3,11.9,85.7,2.4,0.8,4.2,9.6
+423,2794,Yahir Breito,2017-07-21,shot,knife,22.0,M,H,Santa Ana,CA,False,other,Not fleeing,False,-117.876,33.769,True,CA,52253,54.8,22.1,45.9,1.5,1,10.5,78.2
+424,2800,Kyle Scott Rushing,2017-07-23,shot,knife,34.0,M,W,Chico,CA,False,attack,Not fleeing,True,-121.837,39.728,True,CA,42342,92,24.9,80.8,2.1,1.4,4.2,15.4
+425,2809,Sergio Velasco-Martinez,2017-07-27,shot,blunt object,25.0,M,H,Avenal,CA,False,attack,Not fleeing,False,-120.131,36.013000000000005,True,CA,32432,48.8,36.4,39,10.5,1.2,0.7,71.8
+426,2812,Alejandro Alvarado,2017-07-27,shot,knife,35.0,M,H,Chowchilla,CA,False,attack,Not fleeing,False,-120.258,37.119,True,CA,34559,68.3,32.1,61.6,12.6,2,2.1,37.8
+427,2816,Jerauld Phillip Hammond II,2017-07-27,shot,gun,46.0,M,W,Los Angeles,CA,False,other,Not fleeing,False,-118.333,34.102,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+428,2929,Michael Fitzgerald,2017-07-27,shot,gun,26.0,M,W,Grand Terrace,CA,False,attack,Not fleeing,False,-117.31700000000001,34.021,True,CA,63871,89.3,9.9,65.7,5.6,1,6.5,39.1
+429,2930,Jashod Arthur Carter,2017-07-29,shot,gun,29.0,M,B,Norco,CA,False,attack,Car,False,-117.571,33.902,True,CA,88051,82.5,7,76.3,7,0.9,3.1,31.1
+430,2824,Norberto Nieblas Reyes,2017-07-31,shot and Tasered,gun,39.0,M,H,Los Banos,CA,True,attack,Not fleeing,False,-120.82,37.053000000000004,True,CA,44292,66.8,26.2,58,3.8,1.4,3.2,64.9
+431,2827,Franklin Oden,2017-08-01,shot,gun,39.0,M,W,Visalia,CA,False,attack,Foot,False,,,True,CA,52157,82.7,21.3,64.5,2.1,1.4,5.4,46
+432,2832,Mark Anthony Sanchez,2017-08-01,shot,gun,33.0,M,H,Yuba City,CA,False,attack,Not fleeing,False,-121.26299999999999,39.361999999999995,True,CA,50649,78.3,18.5,57.6,2.5,1.4,17.2,28.4
+433,2833,Jeffrey Barboa,2017-08-02,shot,machete,45.0,M,H,Richmond,CA,False,attack,Car,False,-122.324,37.988,True,CA,55102,77.1,17.5,31.4,26.6,0.6,13.5,39.5
+434,2837,,2017-08-04,shot,gun,47.0,M,B,San Diego,CA,False,other,Not fleeing,False,-117.163,32.726,True,CA,66116,87.3,15.4,58.9,6.7,0.6,15.9,28.8
+435,2844,Pablo Garcia,2017-08-05,shot and Tasered,knife,35.0,M,H,Santa Rosa,CA,True,attack,Not fleeing,True,-122.742,38.459,True,CA,61050,85.7,12.6,71,2.4,1.7,5.2,28.6
+436,2856,Eric Bogart,2017-08-10,shot,gun,49.0,M,W,Los Angeles,CA,False,attack,Not fleeing,False,-118.50200000000001,34.062,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+437,2872,Kenneth Lewis,2017-08-16,shot,gun,34.0,M,B,Los Angeles,CA,False,undetermined,Foot,False,-118.25299999999999,33.929,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+438,2873,James Midkiff,2017-08-16,shot,gun,54.0,M,W,Livermore,CA,True,attack,Not fleeing,False,-121.79,37.698,True,CA,100992,91.5,5.7,74.6,2.1,0.6,8.4,20.9
+439,2878,,2017-08-20,shot,undetermined,,M,,Madera,CA,False,other,Foot,False,-119.794,36.923,True,CA,40457,58.2,27.6,49.9,3.4,3.1,2.2,76.7
+440,2891,Robert Earl Adams,2017-08-22,shot,knife,30.0,M,W,Orcutt,CA,False,other,Foot,False,-120.42200000000001,34.895,True,CA,72597,92,6.1,81.9,1.4,1.2,3.9,23.8
+441,2893,Konstantin Morozov,2017-08-22,shot,gun,48.0,M,W,Los Angeles,CA,False,other,Not fleeing,False,-118.527,34.171,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+442,2988,Mark Aaron Jensen,2017-08-22,shot,gun,56.0,M,W,Durham,CA,True,attack,Not fleeing,False,-121.77799999999999,39.646,True,CA,70374,97.5,17.2,92.2,0.3,1,0.6,11.1
+443,2896,Isaias Raziel Ochoa,2017-08-24,shot,gun,19.0,M,H,Lemon Grove,CA,False,attack,Foot,False,-117.016,32.725,True,CA,55404,81.4,15.1,51.6,13.8,0.9,6.4,41.2
+444,2918,Thomas Daniel Littlecloud,2017-08-30,shot,gun,32.0,M,N,Sacramento,CA,False,attack,Car,False,-121.383,38.611,True,CA,50739,83.4,22,45,14.6,1.1,18.3,26.9
+445,2912,Issac Cervantes,2017-08-31,shot,gun,22.0,M,H,Bakersfield,CA,False,attack,Not fleeing,False,-119.021,35.311,True,CA,57095,79.6,19.8,56.8,8.2,1.5,6.2,45.5
+446,2917,,2017-09-02,shot,gun,,M,,Beaumont,CA,False,attack,Not fleeing,False,-116.95700000000001,33.921,True,CA,64830,86.8,11.8,62.8,6.2,1.5,7.7,40.3
+447,2932,Timothy Elam,2017-09-06,shot,unarmed,42.0,M,W,Los Angeles,CA,False,attack,Not fleeing,False,-118.24700000000001,34.05,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+448,2944,Eric Dwan Arnold,2017-09-07,shot,gun,41.0,M,B,Sacramento,CA,False,attack,Car,False,-121.47,38.528,True,CA,50739,83.4,22,45,14.6,1.1,18.3,26.9
+449,2940,Ervin Eugene Sweat Jr.,2017-09-09,shot,gun,26.0,M,B,Arcata,CA,False,attack,Not fleeing,False,-124.087,40.869,True,CA,29435,91.9,41.3,81.8,2,2.3,2.6,11.6
+450,2947,Vincent Edward Hernandez Jr,2017-09-11,shot,toy weapon,39.0,M,H,Bassett,CA,False,attack,Not fleeing,False,-117.977,34.063,True,,,,,,,,,
+451,2957,Jacob Dominguez,2017-09-15,shot,unarmed,32.0,M,H,San Jose,CA,False,other,Car,False,-121.84200000000001,37.39,True,CA,84647,82.7,11.3,42.8,3.2,0.9,32,33.2
+452,2958,Eric Alvarez,2017-09-17,shot and Tasered,knife,40.0,M,H,Los Angeles,CA,False,other,Not fleeing,False,-118.213,34.029,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+453,2967,David Scott,2017-09-19,shot,knife,27.0,M,W,Chula Vista,CA,True,attack,Not fleeing,False,-117.045,32.616,True,CA,65185,80.9,12.5,53.7,4.6,0.8,14.4,58.2
+454,2971,Alexander Ochoa,2017-09-22,shot,gun and knife,26.0,M,H,Oceanside,CA,False,attack,Not fleeing,False,-117.29799999999999,33.179,True,CA,57703,85.7,14.1,65.2,4.7,0.8,6.6,35.9
+455,2977,Dillan Tabares,2017-09-22,shot,gun,27.0,M,O,Huntington Beach,CA,True,attack,Not fleeing,False,-118.024,33.73,True,CA,83252,92.4,9.4,76.7,1,0.5,11.1,17.1
+456,2975,Damien Murray,2017-09-24,shot,gun,39.0,M,B,San Francisco,CA,False,other,Not fleeing,True,-122.413,37.796,True,CA,81294,87,13.2,48.5,6.1,0.5,33.3,15.1
+457,2987,Demilo Trayuon Hodge,2017-09-27,shot,gun,45.0,M,B,Emeryville,CA,False,attack,Car,False,-122.29700000000001,37.84,True,CA,77806,96.9,11.9,44.5,17.5,0.4,27.5,9.2
+458,3204,Matthew Jonathan Luis Hurtado,2017-10-06,shot,,28.0,M,H,Duarte,CA,False,undetermined,,False,-117.93799999999999,34.143,True,CA,62089,82.2,15.5,51.9,7.4,0.8,15.8,47.8
+459,3006,Albert Garcia,2017-10-08,shot,knife,58.0,M,H,San Fernando,CA,False,other,Not fleeing,False,-118.443,34.287,True,CA,55170,58.5,18.9,51,0.9,1.3,1,92.5
+460,3035,Michael David Lopez,2017-10-14,shot,undetermined,44.0,M,H,Torrance,CA,False,other,Car,False,-118.338,33.823,True,CA,79549,93.5,7,51.1,2.7,0.4,34.5,16.1
+461,3038,Eddie Sanders,2017-10-14,shot,gun,25.0,M,,Olivehurst,CA,False,other,Not fleeing,False,-121.536,39.077,True,CA,44065,69.6,18.8,62.5,2.4,2.9,5.7,36.6
+462,3042,Ezekiel Juan Duran,2017-10-16,shot,gun,18.0,M,H,Atwater,CA,False,attack,Not fleeing,False,-120.583,37.356,True,CA,41414,72.5,26.2,65.4,4.3,1.3,5,52.6
+463,3053,Victor Gonzalez,2017-10-21,shot,hammer,44.0,M,H,Cloverdale,CA,False,other,Not fleeing,False,-123.016,38.799,True,CA,63917,82.4,6.7,74.9,0.6,1.8,1.1,32.8
+464,3055,Nicholas Pimentel,2017-10-22,shot,unarmed,27.0,M,H,Ceres,CA,False,other,Car,False,-121.012,37.601,True,CA,47858,67.9,17.9,57.7,2.6,1.3,6.8,56
+465,3062,Matthew David Palaita,2017-10-23,shot,gun,35.0,M,H,Lodi,CA,False,attack,Not fleeing,False,-121.27600000000001,38.146,True,CA,49316,80.4,17.4,68.7,0.8,0.9,6.9,36.4
+466,3081,Jesus Birelas-Contreras,2017-10-31,shot,knife,25.0,M,H,Sunnyvale,CA,False,attack,Not fleeing,False,-122.01700000000001,37.397,True,CA,105401,91.4,7.5,43,2,0.5,40.9,18.9
+467,3082,Luvelle Kennon,2017-10-31,shot,undetermined,27.0,M,B,Riverside,CA,False,other,Not fleeing,False,-117.34299999999999,33.938,True,CA,57196,78.5,18.8,56.5,7,1.1,7.4,49
+468,3090,Wallace Jory,2017-11-02,shot,pitchfork,56.0,M,W,Sacramento,CA,True,attack,Not fleeing,False,-121.45,38.632,True,CA,50739,83.4,22,45,14.6,1.1,18.3,26.9
+469,3103,Augustus Joshua Crawford,2017-11-04,shot,gun,20.0,M,B,Bakersfield,CA,False,undetermined,Foot,False,-119.021,35.325,True,CA,57095,79.6,19.8,56.8,8.2,1.5,6.2,45.5
+470,3112,Jeffrey Todd Sprowl,2017-11-06,shot,gun,48.0,M,W,Barstow,CA,False,attack,Car,False,-117.021,34.897,True,CA,39632,79.8,33.7,52.3,14.6,2.1,3.2,42.8
+471,3137,Kevin J. Neal,2017-11-14,shot,gun,44.0,M,W,Rancho Tehama Reserve,CA,True,undetermined,,False,-122.458,40.001,True,CA,27039,72.6,43.2,79.5,1.4,3.5,1.4,14.4
+472,3140,Keian Jones,2017-11-14,shot,knife,51.0,M,,Stockton,CA,False,other,Car,False,-121.30799999999999,38.029,True,CA,44797,74.9,25.3,37,12.2,1.1,21.5,40.3
+473,3142,Oscar Anaya,2017-11-15,shot,gun,22.0,M,H,Van Nuys,CA,False,attack,Car,False,-118.45700000000001,34.201,True,,,,,,,,,
+474,3147,Geronimo Vicente Santos,2017-11-19,shot,gun,34.0,M,,Lompoc,CA,False,attack,,False,-120.449,34.65,True,CA,44866,74.7,21.3,61.2,5.7,1.8,3.8,50.8
+475,3156,Johnny Castro,2017-11-26,shot,gun,43.0,M,H,Lemoore,CA,False,attack,Car,False,-119.79,36.286,True,CA,49623,84.6,15.6,56.8,6.4,1.4,8.2,40
+476,3158,Daniel Navarro,2017-11-26,shot,knife,22.0,M,H,Covina,CA,False,undetermined,Not fleeing,False,-117.86399999999999,34.093,True,CA,64813,86,10.9,58.5,4.2,1.1,11.9,52.4
+477,3165,Christian Chavez,2017-11-27,shot,gun,40.0,M,H,South Gate,CA,True,attack,Not fleeing,False,-118.223,33.951,True,CA,43552,52.4,20,50.5,0.9,0.9,0.8,94.8
+478,3175,Juan Andres Barillas,2017-11-30,shot,gun,37.0,M,H,North Hollywood,CA,False,other,Car,False,-118.40700000000001,34.198,True,,,,,,,,,
+479,3176,Keita O'Neil,2017-12-01,shot,unarmed,42.0,M,B,San Francisco,CA,False,other,Car,True,-122.38799999999999,37.719,True,CA,81294,87,13.2,48.5,6.1,0.5,33.3,15.1
+480,3177,Mario Guevara,2017-12-02,shot,knife,37.0,M,H,Colton,CA,True,other,Not fleeing,False,-117.36,34.078,True,CA,41565,70.1,22.1,43.4,9.7,1.3,5,71
+481,3193,Vernchoy Saechao,2017-12-08,shot,gun,22.0,M,A,Redding,CA,False,attack,Not fleeing,False,-122.32600000000001,40.567,True,CA,43341,90.6,18.8,85.8,1.2,2.3,3.4,8.7
+482,3192,Kyle Zahacefski,2017-12-10,shot,knife,24.0,M,W,Point Loma,CA,False,other,,False,-117.24799999999999,32.731,True,,,,,,,,,
+483,3195,Frank Lopez,2017-12-10,shot and Tasered,knife,48.0,M,,Artesia,CA,False,attack,Not fleeing,False,-118.072,33.861,True,CA,60749,76.9,12.4,39,3.6,0.6,37.1,35.8
+484,3228,,2017-12-20,shot,gun,,M,,Oceanside,CA,False,undetermined,Foot,False,-117.295,33.192,True,CA,57703,85.7,14.1,65.2,4.7,0.8,6.6,35.9
+485,3234,Jesse Murillo,2017-12-23,shot,metal object,32.0,M,,Los Angeles,CA,False,other,Foot,False,-118.589,34.217,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+486,3242,Robert Miller,2017-12-26,shot,gun,40.0,M,,Tulare,CA,False,attack,Car,False,-119.32700000000001,36.2,True,CA,46659,71.7,21.7,61.3,3.9,1.2,2.2,57.5
+487,3245,Robo Raikoglo,2017-12-26,shot,gun,30.0,M,W,Desert Hot Springs,CA,False,attack,Car,False,-116.48100000000001,33.951,True,CA,33027,67.7,34.9,58,8.2,1.4,2.6,52.6
+488,3255,Marco Antonio Carlos,2017-12-30,shot,gun,31.0,M,H,Redwood City,CA,False,attack,Not fleeing,False,-122.226,37.486999999999995,True,CA,84934,84.6,9.4,60.2,2.4,0.7,10.7,38.8
+489,3260,Oscar Sandoval,2017-12-30,shot,gun,39.0,M,,Los Angeles,CA,False,other,Not fleeing,False,-118.56700000000001,34.196,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+490,3261,Ernie Macias,2017-12-31,shot,,32.0,M,,Delano,CA,False,other,Car,False,-119.241,35.787,True,CA,35933,55,30.3,36.4,7.9,0.9,12.7,71.5
+491,3286,Shaleem Tindle,2018-01-03,shot,gun,28.0,M,B,Oakland,CA,False,attack,Not fleeing,False,-122.296,37.806,True,CA,54618,80.4,20.4,34.5,28,0.8,16.8,25.4
+492,3293,Andy Vo,2018-01-05,shot,gun,35.0,M,A,Long Beach,CA,False,other,Not fleeing,False,-118.14299999999999,33.803000000000004,True,CA,52783,79.4,20.6,46.1,13.5,0.7,12.9,40.8
+493,3270,Alejandro Valdez,2018-01-07,shot,knife,27.0,M,H,Santa Maria,CA,True,other,Not fleeing,False,-120.431,34.955,True,CA,50433,58.7,21.2,56.2,1.7,1.8,5.1,70.4
+494,3299,Primitivo Macias-Rodriguez,2018-01-08,shot,gun,46.0,M,H,Los Angeles,CA,False,other,,False,-118.274,33.975,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+495,3300,Thompson Nguyen,2018-01-09,shot,ax,27.0,M,A,San Jose,CA,True,other,Not fleeing,True,-121.745,37.22,True,CA,84647,82.7,11.3,42.8,3.2,0.9,32,33.2
+496,3301,Shalun Dique Smith,2018-01-10,shot,vehicle,21.0,M,B,Palmdale,CA,False,other,Car,False,-118.04299999999999,34.565,True,CA,52392,74.2,21.3,49,14.8,0.9,4.3,54.4
+497,3313,Terry Amons,2018-01-12,shot,gun,43.0,M,B,Pittsburg,CA,False,other,Not fleeing,False,-121.89399999999999,38.005,True,CA,60777,79.5,17.9,36.5,17.7,0.8,15.6,42.4
+498,3311,Christian Escobedo,2018-01-14,shot,gun,22.0,M,H,El Sereno,CA,False,other,Not fleeing,False,-118.195,34.084,True,,,,,,,,,
+499,3341,Scott Senior,2018-01-22,shot,unknown weapon,38.0,M,,Crescent City,CA,False,attack,,False,-124.20100000000001,41.778,True,CA,27622,66.1,28.7,66.1,11.9,4.8,4.4,30.6
+500,3382,Anthony Jacob Weber,2018-02-04,shot,gun,16.0,M,B,Los Angeles,CA,False,other,Foot,False,-118.296,33.939,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+501,3384,Jason Richard Sienze,2018-02-05,shot,gun,35.0,M,W,Nice,CA,False,other,Not fleeing,False,-122.85700000000001,39.124,True,CA,28813,81,27,80.1,2.4,5.8,1.5,14.1
+502,3388,Paul Mono,2018-02-06,shot,gun,65.0,M,,Laguna Woods,CA,False,attack,Not fleeing,False,-117.70700000000001,33.598,True,CA,38674,95.7,10.3,87.3,0.7,0.1,10,4
+503,3389,Cesar Bautista,2018-02-06,shot,,37.0,M,H,Los Angeles,CA,False,other,Car,False,-118.15899999999999,34.033,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+504,3392,Lloyd Harris,2018-02-08,shot,BB gun,40.0,M,W,Antioch,CA,False,other,Not fleeing,False,-121.805,37.967,True,CA,64329,86.9,15.4,48.9,17.3,0.9,10.5,31.7
+505,3405,Ronnell Foster,2018-02-13,shot,unarmed,33.0,M,B,Vallejo,CA,False,attack,Foot,False,-122.258,38.104,True,CA,57028,87.4,18.3,32.8,22.1,0.7,24.9,22.6
+506,4250,Dawn Elika Center,2018-02-13,shot,gun,48.0,F,W,Willits,CA,False,other,Car,False,,,True,CA,30678,84.3,30.7,79,0.7,4.4,1.4,20.6
+507,3445,,2018-02-25,shot,gun,,M,H,Los Angeles,CA,False,attack,Not fleeing,False,-118.316,33.945,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+508,3443,Orbel Nazarians,2018-02-26,shot and Tasered,machete,22.0,M,W,Los Angeles,CA,True,other,Not fleeing,True,-118.45700000000001,34.235,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+509,3459,Erick Eduardo Mora Martinez,2018-03-02,shot,vehicle,31.0,M,H,Santa Ana,CA,False,attack,Not fleeing,False,-117.85,33.708,True,CA,52253,54.8,22.1,45.9,1.5,1,10.5,78.2
+510,3478,Jesus Delgado-Duarte,2018-03-06,shot,gun,19.0,M,H,San Francisco,CA,False,attack,Not fleeing,False,-122.41799999999999,37.759,True,CA,81294,87,13.2,48.5,6.1,0.5,33.3,15.1
+511,3479,Donald McFarlane,2018-03-07,shot,gun,53.0,M,W,Long Beach,CA,False,attack,Not fleeing,False,-118.195,33.766999999999996,True,CA,52783,79.4,20.6,46.1,13.5,0.7,12.9,40.8
+512,4254,,2018-03-08,shot,undetermined,,M,,Jurupa Valley,CA,False,undetermined,,False,-117.5,34.0,True,,,,,,,,,
+513,3491,Orion Godbout,2018-03-10,shot,gun,45.0,M,H,Fontana,CA,False,attack,Not fleeing,False,-117.445,34.119,True,CA,64824,72.5,16.1,47.4,10,1,6.6,66.8
+514,3486,Joshua Pawlik,2018-03-11,shot,gun,32.0,M,W,Oakland,CA,True,attack,Not fleeing,False,-122.274,37.830999999999996,True,CA,54618,80.4,20.4,34.5,28,0.8,16.8,25.4
+515,3503,Jontell Reedom,2018-03-12,shot and Tasered,baton,27.0,M,B,Tulare,CA,True,attack,Foot,False,-119.337,36.217,True,CA,46659,71.7,21.7,61.3,3.9,1.2,2.2,57.5
+516,3504,Osbaldo Jimenez Ramirez,2018-03-17,shot,gun,50.0,M,H,Valley View,CA,False,other,Car,False,-116.973,33.22,True,,,,,,,,,
+517,3506,Stephon Clark,2018-03-18,shot,unarmed,23.0,M,B,Sacramento,CA,False,other,Foot,True,-121.475,38.486999999999995,True,CA,50739,83.4,22,45,14.6,1.1,18.3,26.9
+518,3509,Manuel Borrego,2018-03-18,shot,knife,40.0,M,H,South El Monte,CA,False,other,Foot,False,-118.04700000000001,34.033,True,CA,40938,49.9,20.5,50.4,0.5,1.2,11,84.9
+519,3534,Jehad Eid,2018-03-21,shot,gun,21.0,M,A,San Francisco,CA,False,attack,Not fleeing,False,-122.44,37.716,True,CA,81294,87,13.2,48.5,6.1,0.5,33.3,15.1
+520,3568,Timothy Breckenridge,2018-03-30,shot,toy weapon,42.0,M,W,Atwater,CA,False,other,Not fleeing,False,-120.626,37.353,True,CA,41414,72.5,26.2,65.4,4.3,1.3,5,52.6
+521,3586,Diante Yarber,2018-04-05,shot,vehicle,26.0,M,B,Barstow,CA,False,attack,Not fleeing,False,-116.994,34.885,True,CA,39632,79.8,33.7,52.3,14.6,2.1,3.2,42.8
+522,3587,Nathaniel Prasad,2018-04-05,shot,gun,18.0,M,A,Fremont,CA,False,attack,Foot,False,-122.024,37.568000000000005,True,CA,105355,92.3,6.1,32.8,3.3,0.5,50.6,14.8
+523,3588,Jonathan Erick Alexander,2018-04-06,shot,gun,26.0,M,,Marysville,CA,False,attack,Car,False,,,True,CA,34566,81.4,28.6,71,4.3,2.5,4.1,24.2
+524,3592,Larry Siordia,2018-04-07,shot,gun,33.0,M,W,Oroville,CA,False,attack,Not fleeing,False,-121.56700000000001,39.506,True,CA,36462,83.6,23.8,75.2,2.9,3.7,8,12.5
+525,3593,Carlos Roman Urias,2018-04-08,shot,toy weapon,24.0,M,H,Cathedral City,CA,False,attack,Not fleeing,False,-116.465,33.805,True,CA,39872,75.3,23.1,63.5,2.6,1.1,5,58.8
+526,3599,Daniel Joseph Carver,2018-04-09,shot,gun,29.0,M,W,Reseda,CA,False,other,Foot,True,-118.56200000000001,34.189,True,,,,,,,,,
+527,3602,Grechario Mack,2018-04-10,shot,knife,30.0,M,B,Baldwin Hills,CA,True,other,Foot,False,-118.339,34.01,True,,,,,,,,,
+528,3606,Kenneth Ross,2018-04-11,shot,gun,25.0,M,B,Gardena,CA,False,attack,Not fleeing,False,-118.318,33.916,True,CA,47674,81.8,15,24.6,24.4,0.6,26.2,37.7
+529,4263,Petrica Peter Muntean,2018-04-14,shot,toy weapon,24.0,M,W,Anaheim,CA,True,attack,Not fleeing,True,-117.934,33.852,True,CA,60752,75.8,16.5,52.7,2.8,0.8,14.8,52.8
+530,3634,Lockwood Adrian Gibson,2018-04-20,shot,vehicle,49.0,M,W,Foresthill,CA,True,other,Car,False,-121.054,38.923,True,CA,24755,83,31.9,92.4,0.5,2,0.4,6.5
+531,3648,Myra Lisa Micalizio,2018-04-26,shot,vehicle,56.0,F,W,Palermo,CA,False,attack,Car,True,-121.551,39.446999999999996,True,CA,39366,71.6,24.3,72.5,0.7,4.1,4.6,23.8
+532,3653,Nolberto Hernandez Leon,2018-04-28,shot,gun,26.0,M,H,Elk Grove,CA,False,attack,Not fleeing,False,-121.48299999999999,38.426,True,CA,79487,90.5,10.4,46.1,11.2,0.6,26.3,18
+533,3651,,2018-04-29,shot,unknown weapon,42.0,M,W,Redlands,CA,False,other,Not fleeing,False,-117.21,34.048,True,CA,65212,90.4,14.3,69,5.2,0.9,7.6,30.3
+534,3664,Anthony Trujillo,2018-05-03,shot,machete,26.0,M,H,Orosi,CA,True,attack,Not fleeing,False,-119.296,36.548,True,CA,34724,44.1,26.6,44,0.7,0.6,9.2,86.7
+535,3707,Ray Wyatt,2018-05-21,shot,gun,58.0,M,W,Joshua Tree,CA,True,attack,Foot,False,-116.37,34.121,True,CA,36870,88.6,24,83.3,3.2,1.1,1.4,17.6
+536,3712,Raul Rivera,2018-05-27,shot,knife,42.0,M,H,San Diego,CA,True,other,Not fleeing,True,-117.084,32.564,True,CA,66116,87.3,15.4,58.9,6.7,0.6,15.9,28.8
+537,3724,Armando Osuna,2018-05-29,shot,metal pipe,51.0,M,H,Riverbank,CA,False,attack,Not fleeing,False,-120.94,37.74,True,CA,60017,75.8,12.1,65.9,2.1,1.2,3.4,52.1
+538,3721,Bryan Rodriguez,2018-05-30,shot,pick-axe,29.0,M,H,Los Angeles,CA,False,attack,Foot,True,-118.43,34.268,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+539,3725,Katherine Brazeau,2018-05-31,shot,knife,46.0,F,W,Fullerton,CA,True,other,Not fleeing,False,-117.898,33.874,True,CA,65974,86.6,16.8,53.9,2.3,0.6,22.8,34.4
+540,3732,,2018-06-01,shot,knife,,M,W,Torrance,CA,False,other,Not fleeing,False,-118.352,33.85,True,CA,79549,93.5,7,51.1,2.7,0.4,34.5,16.1
+541,3729,,2018-06-03,shot,ax,,M,,Mecca,CA,False,other,Not fleeing,False,-116.079,33.569,True,CA,26047,28.8,43.1,31.3,0.5,0.5,0.2,98.7
+542,3741,Rudy Molina,2018-06-03,shot,gun,34.0,M,H,Jurupa Valley,CA,False,attack,Car,False,-117.48200000000001,34.013000000000005,True,,,,,,,,,
+543,3765,Nicolas Moncada,2018-06-11,shot,knife,29.0,M,H,Whittier,CA,False,other,Car,False,-118.024,33.982,True,CA,66457,83.3,12.5,64.6,1.3,1.3,3.8,65.7
+544,3784,,2018-06-16,shot,knife,30.0,M,,Van Nuys,CA,True,attack,Not fleeing,False,-118.444,34.187,True,,,,,,,,,
+545,3844,,2018-06-22,shot,toy weapon,,M,,Inglewood,CA,True,attack,Not fleeing,False,-118.355,33.963,True,CA,42044,72.5,22.4,23.3,43.9,0.7,1.4,50.6
+546,3800,,2018-06-23,shot,gun,,M,,San Diego,CA,False,attack,Not fleeing,False,-117.169,32.722,True,CA,66116,87.3,15.4,58.9,6.7,0.6,15.9,28.8
+547,3813,Rodney Lee Hunter,2018-06-29,shot,unknown weapon,27.0,M,B,Pomona,CA,False,undetermined,Car,False,-117.81200000000001,34.046,True,CA,49186,67.5,22.1,48,7.3,1.2,8.5,70.5
+548,3814,,2018-07-01,shot,metal object,,M,,Santa Ana,CA,False,undetermined,Not fleeing,False,-117.874,33.748000000000005,True,CA,52253,54.8,22.1,45.9,1.5,1,10.5,78.2
+549,3834,Abraham Noe Flores,2018-07-04,shot,gun,34.0,M,H,Red Bluff,CA,True,attack,Not fleeing,False,-122.221,40.156,True,CA,31239,85.3,24,80.7,0.9,3.1,1.3,21.6
+550,3972,John James Corrigan,2018-07-05,shot,toy weapon,38.0,M,W,Calaveras County,CA,True,attack,Not fleeing,False,-120.613,38.19,True,,,,,,,,,
+551,3829,,2018-07-08,shot,gun,,M,,Westminster,CA,False,other,Other,False,-118.021,33.744,True,CA,53455,76.4,17.8,35.7,0.9,0.4,47.5,23.6
+552,3853,Salome Ramirez,2018-07-11,shot,toy weapon,34.0,M,H,Los Banos,CA,False,other,Not fleeing,False,-120.845,37.062,True,CA,44292,66.8,26.2,58,3.8,1.4,3.2,64.9
+553,3871,Carmen Pizarro,2018-07-19,shot,gun,22.0,M,H,Pico Rivera,CA,False,other,Other,False,-118.09,33.969,True,CA,55752,68.2,13.7,59.4,1,1.4,2.6,91.2
+554,3877,Ruben Maya,2018-07-20,shot,toy weapon,37.0,M,H,Fresno,CA,False,attack,Not fleeing,False,-119.829,36.755,True,CA,41531,75.2,29.8,49.6,8.3,1.7,12.6,46.9
+555,3946,Arthur Levario,2018-07-20,shot,gun,45.0,M,H,Riverside,CA,False,attack,Car,False,-117.439,33.946,True,CA,57196,78.5,18.8,56.5,7,1.1,7.4,49
+556,3895,Melyda Marciela Corado,2018-07-21,shot,unarmed,27.0,F,H,Los Angeles,CA,False,other,Foot,True,-118.272,34.107,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+557,3947,Eliuth Penaloza Nava,2018-07-21,shot,toy weapon,50.0,M,H,Anaheim,CA,True,other,Foot,False,-117.925,33.828,True,CA,60752,75.8,16.5,52.7,2.8,0.8,14.8,52.8
+558,3957,Juan Garcia,2018-07-22,shot,unknown weapon,38.0,M,H,Riverside,CA,False,other,Not fleeing,False,-117.325,33.983000000000004,True,CA,57196,78.5,18.8,56.5,7,1.1,7.4,49
+559,3958,Juan Ramon Ramos,2018-07-22,shot,box cutter,32.0,M,H,Highland,CA,False,attack,Foot,False,-117.22200000000001,34.123000000000005,True,CA,53851,75,20.7,52.4,11.1,1,7.4,48.1
+560,3901,Sergio Acosta,2018-07-26,shot,toy weapon,24.0,M,H,Redondo Beach,CA,False,undetermined,Not fleeing,False,-118.366,33.878,True,CA,105145,95.8,4.7,74.6,2.8,0.4,12,15.2
+561,4031,Richard Mendoza,2018-07-27,shot,gun,32.0,M,H,Los Angeles,CA,False,attack,Not fleeing,True,-118.462,34.21,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+562,3914,Kevin Rhinehart,2018-08-05,shot,gun,58.0,M,,Hesperia,CA,False,other,Not fleeing,False,-117.351,34.421,True,CA,44874,77.2,24.8,61.1,5.8,1.2,2.1,48.9
+563,3932,Daniel Valdez,2018-08-07,shot,gun,70.0,M,H,Los Angeles,CA,False,other,,False,-118.257,34.009,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+564,3936,Vaughn Denham,2018-08-08,shot,chain,48.0,M,B,San Diego,CA,False,attack,Not fleeing,False,-117.10799999999999,32.694,True,CA,66116,87.3,15.4,58.9,6.7,0.6,15.9,28.8
+565,3955,Anthony Daniel Vargas,2018-08-12,shot,gun,21.0,M,H,Los Angeles,CA,False,attack,Foot,False,-118.162,34.044000000000004,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+566,3967,,2018-08-14,shot,gun and knife,,M,H,Fresno,CA,True,attack,Not fleeing,True,-119.736,36.739000000000004,True,CA,41531,75.2,29.8,49.6,8.3,1.7,12.6,46.9
+567,3977,Spencer Mendez,2018-08-18,shot,gun,15.0,M,H,Ceres,CA,False,other,Other,True,-120.801,37.58,True,CA,47858,67.9,17.9,57.7,2.6,1.3,6.8,56
+568,3984,Michael Harrison,2018-08-18,shot,knife,30.0,M,W,Los Angeles,CA,False,other,Not fleeing,False,-118.40100000000001,34.015,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+569,3978,Christopher Alexander Okamoto,2018-08-19,shot,toy weapon,21.0,M,B,Bakersfield,CA,False,other,Not fleeing,False,-119.053,35.329,True,CA,57095,79.6,19.8,56.8,8.2,1.5,6.2,45.5
+570,3992,Felipe Perez Casas,2018-08-24,shot,knife,41.0,M,H,Bakersfield,CA,False,other,,False,-119.088,35.445,True,CA,57095,79.6,19.8,56.8,8.2,1.5,6.2,45.5
+571,4004,Eric Jay Hames,2018-08-27,shot,knife,34.0,M,W,Redding,CA,True,other,Not fleeing,False,-122.353,40.571,True,CA,43341,90.6,18.8,85.8,1.2,2.3,3.4,8.7
+572,4002,Tyler Hodge,2018-08-28,shot,gun,18.0,M,W,Redlands,CA,True,attack,Not fleeing,False,-117.116,34.023,True,CA,65212,90.4,14.3,69,5.2,0.9,7.6,30.3
+573,4006,Vanessa Marquez,2018-08-30,shot,toy weapon,49.0,F,H,Pasadena,CA,True,other,Not fleeing,True,-118.15299999999999,34.114000000000004,True,CA,72402,87.4,15.3,55.8,10.7,0.6,14.3,33.7
+574,4017,Darell Richards,2018-09-06,shot,toy weapon,19.0,M,B,Sacramento,CA,False,attack,Foot,False,-121.492,38.562,True,CA,50739,83.4,22,45,14.6,1.1,18.3,26.9
+575,4054,Ivan Pena,2018-09-24,shot,gun,42.0,M,H,East Los Angeles,CA,False,attack,Not fleeing,False,-118.18700000000001,34.048,True,CA,38766,46.7,27.2,50.5,0.6,1.2,0.9,97.1
+576,4074,LaJuana Philips,2018-10-02,shot,vehicle,36.0,F,B,Victorville,CA,False,attack,Not fleeing,False,-117.307,34.522,True,CA,45894,78.3,26,48.5,16.8,1.4,4,47.8
+577,4077,Nicholas Salisbury,2018-10-07,shot,toy weapon,36.0,M,W,Auburn,CA,True,attack,Not fleeing,False,-121.10700000000001,38.938,True,CA,53984,93.1,12.8,89,0.8,1,1.8,10
+578,4087,Michael Johnson,2018-10-10,shot,knife,26.0,M,,Thousand Oaks,CA,True,other,Not fleeing,True,,,True,CA,100946,92.4,6.2,80.3,1.3,0.4,8.7,16.8
+579,4084,,2018-10-11,shot,gun,,M,,Huntington Beach,CA,False,other,Car,False,-118.00299999999999,33.667,True,CA,83252,92.4,9.4,76.7,1,0.5,11.1,17.1
+580,4091,Umberto Sanchez Ramoz,2018-10-14,shot,knife,17.0,M,H,Woodville,CA,True,attack,Not fleeing,False,-119.197,36.093,True,CA,32917,27.2,51.8,77.3,0.1,1.8,0.3,88.8
+581,4162,Salvador Morales,2018-10-23,shot,gun,37.0,M,H,Pittsburg,CA,False,attack,Car,True,-121.88799999999999,38.029,True,CA,60777,79.5,17.9,36.5,17.7,0.8,15.6,42.4
+582,4134,Albert Ramon Dorsey,2018-10-29,shot,Taser,30.0,M,B,Hollywood,CA,False,other,Not fleeing,True,-118.32700000000001,34.098,True,,,,,,,,,
+583,4136,Billy Jo Johnson,2018-10-29,shot,gun,34.0,M,W,South Lake Tahoe,CA,False,attack,Car,False,,,True,CA,39793,84.6,18.5,73.5,0.9,1.1,5.5,31.1
+584,4150,Laudemer Arboleda,2018-11-03,shot,vehicle,33.0,M,B,Danville,CA,True,other,Not fleeing,True,-121.999,37.823,True,CA,140809,97.9,4.1,83.1,0.9,0.2,10.5,6.8
+585,4165,Delson Silva,2018-11-07,shot,gun,68.0,M,,Corona,CA,False,attack,Not fleeing,False,-117.51700000000001,33.899,True,CA,74149,84.8,11.7,59.7,5.9,0.8,9.9,43.6
+586,4231,"Jesus ""Chuy"" Guzman",2018-11-08,shot,gun,34.0,M,H,Charleston View,CA,False,attack,Foot,False,,,True,,,,,,,,,
+587,4232,,2018-11-11,shot,gun,,M,H,Hemet,CA,False,attack,Foot,False,,,True,CA,33989,79.5,26,67.7,6.4,1.6,3,35.8
+588,4181,Danny Ayala,2018-11-12,shot,knife,,M,H,Alpine,CA,False,other,Not fleeing,True,-116.757,32.836,True,CA,77883,90.3,8.8,87.3,1.2,1.6,2.2,14.6
+589,4178,Marty West,2018-11-12,shot and Tasered,knife,63.0,M,W,Fresno,CA,True,attack,Not fleeing,True,-119.78,36.861999999999995,True,CA,41531,75.2,29.8,49.6,8.3,1.7,12.6,46.9
+590,4187,Agustin Gonsalez,2018-11-15,shot,straight edge razor,29.0,M,H,Hayward,CA,True,other,Not fleeing,False,-122.07799999999999,37.663000000000004,True,CA,65096,80.1,13.4,34.2,11.9,1,22,40.7
+591,4190,GD Hendrix,2018-11-15,shot,metal pipe,48.0,M,W,Paradise,CA,True,other,Car,False,-121.56,39.65,True,CA,44923,91.2,16,92,0.4,1.1,1.3,7
+592,4190,GD Hendrix,2018-11-15,shot,metal pipe,48.0,M,W,Paradise,CA,True,other,Car,False,-121.56,39.65,True,CA,49861,99.3,6.5,85,0,1.3,3.9,9.2
+593,4184,,2018-11-18,shot,gun,,M,,Los Angeles,CA,False,attack,Not fleeing,False,-118.245,33.951,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+594,4214,Martin Lopez,2018-11-21,shot,knife,24.0,M,H,Bell Gardens,CA,False,attack,Not fleeing,False,-118.16,33.974000000000004,True,CA,37882,44.3,28.1,49.5,0.9,1.1,0.6,95.7
+595,4270,David Alejandro Molina,2018-12-05,shot,gun,27.0,M,H,Napa,CA,True,attack,Foot,False,-122.285,38.31,True,CA,68038,80.9,9.5,75.1,0.6,0.8,2.3,37.6
+596,4276,Paul Ridgeway,2018-12-05,shot,gun,41.0,M,W,Martinez,CA,False,attack,Foot,False,-122.098,38.009,True,CA,87959,93.3,6.1,77.1,3.6,0.7,8,14.7
+597,4277,Benjamin David Larson,2018-12-06,shot,gun,42.0,M,W,Redding,CA,False,attack,Car,False,-122.31200000000001,40.508,True,CA,43341,90.6,18.8,85.8,1.2,2.3,3.4,8.7
+598,4283,Christopher Deandre Mitchell,2018-12-09,shot,gun,23.0,M,B,Torrance,CA,False,undetermined,Not fleeing,False,-118.311,33.83,True,CA,79549,93.5,7,51.1,2.7,0.4,34.5,16.1
+599,4290,Kyle Hart,2018-12-10,shot,knife,33.0,M,W,Redwood City,CA,True,other,Not fleeing,False,-122.229,37.478,True,CA,84934,84.6,9.4,60.2,2.4,0.7,10.7,38.8
+600,4308,Edgar Espinoza,2018-12-15,shot,knife,35.0,M,H,Hanford,CA,False,attack,Not fleeing,False,-119.59100000000001,36.299,True,CA,53986,80.8,20.5,62.5,4.9,1.3,4.3,47.1
+601,4303,,2018-12-17,shot,gun,,M,W,Natomas,CA,False,other,Not fleeing,False,,,True,,,,,,,,,
+602,4319,,2018-12-20,shot,gun,,M,,Lake Elsinore,CA,False,attack,Car,False,-117.333,33.685,True,CA,61248,76.9,14.6,60,5.3,0.9,5.8,48.4
+603,4330,Jose Lemus,2018-12-21,shot,gun,57.0,M,H,Azusa,CA,False,attack,Not fleeing,False,-117.934,34.12,True,CA,53135,77.7,17.6,57.6,3.2,1.2,8.7,67.6
+604,4324,Jennifer Vasquez,2018-12-25,shot,vehicle,24.0,F,H,San Jose,CA,False,attack,Car,False,-121.92299999999999,37.311,True,CA,84647,82.7,11.3,42.8,3.2,0.9,32,33.2
+605,4340,,2018-12-31,shot,knife,18.0,M,,Van Nuys,CA,False,other,Not fleeing,True,-118.429,34.194,True,,,,,,,,,
+606,4349,Abiel Innis De Joel Rios,2019-01-03,shot,gun,33.0,M,H,Visalia,CA,True,attack,Not fleeing,False,-119.291,36.341,True,CA,52157,82.7,21.3,64.5,2.1,1.4,5.4,46
+607,4355,Oliver Hernandez,2019-01-05,shot,ax,29.0,M,H,Fresno,CA,False,other,Not fleeing,False,-119.759,36.812,True,CA,41531,75.2,29.8,49.6,8.3,1.7,12.6,46.9
+608,4357,Adolfo Gonzalez,2019-01-05,shot,gun,28.0,M,H,Lemon Grove,CA,False,other,Not fleeing,False,-117.03299999999999,32.746,True,CA,55404,81.4,15.1,51.6,13.8,0.9,6.4,41.2
+609,4361,Shaun Kennedy,2019-01-05,shot,gun,55.0,M,W,Santa Clara,CA,False,attack,Not fleeing,False,,,True,CA,98914,91.9,8.4,45,2.7,0.5,37.7,19.4
+610,4358,,2019-01-06,shot,knife,,M,,Glen Valley,CA,False,other,Not fleeing,False,-117.31700000000001,33.869,True,,,,,,,,,
+611,4375,Dimas Diaz,2019-01-13,shot,unarmed,38.0,M,H,Calabasas,CA,False,other,Car,False,-118.665,34.15,True,CA,106050,97,7.9,83.9,1.6,0.2,8.6,6.4
+612,4376,Roberto Tapia,2019-01-13,shot,gun,28.0,M,H,Cathedral City,CA,False,attack,Not fleeing,False,-116.458,33.823,True,CA,39872,75.3,23.1,63.5,2.6,1.1,5,58.8
+613,4370,Jahmal Derrick Stewart,2019-01-14,shot,gun,45.0,M,B,Linda,CA,False,attack,Not fleeing,False,-121.554,39.128,True,CA,36836,73.1,32.6,56.1,4.1,2,13,32.5
+614,4517,Nathaniel Holland,2019-01-14,shot,knife,38.0,M,B,Vacaville,CA,False,attack,Foot,False,-121.98,38.354,True,CA,74001,88.4,10.7,66.3,10.3,0.9,6.1,22.9
+615,4383,Stanley Stepanski III,2019-01-15,shot,gun,48.0,M,W,Roseville,CA,False,attack,Car,False,,,True,CA,75867,94.5,8.8,79.3,2,0.7,8.4,14.6
+616,4428,Richard Moulton,2019-01-28,shot,gun,52.0,M,,Butte County,CA,False,attack,Car,False,-121.85799999999999,39.464,True,,,,,,,,,
+617,4430,Carl Thayer,2019-01-28,shot and Tasered,knife,45.0,M,W,Tehama County,CA,False,other,Other,False,-122.204,40.308,True,,,,,,,,,
+618,4481,Isaiah Thomas,2019-02-02,shot,knife,40.0,M,B,Stockton,CA,False,attack,Not fleeing,False,-121.354,38.013000000000005,True,CA,44797,74.9,25.3,37,12.2,1.1,21.5,40.3
+619,4448,Michael Robert Novak,2019-02-07,shot,knife,58.0,M,W,Madera,CA,True,attack,Not fleeing,True,-120.07799999999999,36.975,True,CA,40457,58.2,27.6,49.9,3.4,3.1,2.2,76.7
+620,4450,Nolan Hurtzig,2019-02-07,shot,undetermined,29.0,M,W,Banning,CA,False,undetermined,,False,-116.866,33.938,True,CA,40405,80,21.2,64.7,7.3,2.2,5.2,41.1
+621,4451,Aaron Allen Przekop,2019-02-08,shot,unarmed,25.0,M,W,Bakersfield,CA,False,other,Not fleeing,False,-119.257,35.292,True,CA,57095,79.6,19.8,56.8,8.2,1.5,6.2,45.5
+622,4441,Willie Bo McCoy,2019-02-09,shot,gun,21.0,M,B,Vallejo,CA,False,other,Not fleeing,True,-122.22200000000001,38.134,True,CA,57028,87.4,18.3,32.8,22.1,0.7,24.9,22.6
+623,4461,Phayvanh Inthavong,2019-02-11,shot,gun,32.0,M,A,Redding,CA,False,attack,Foot,False,-122.346,40.543,True,CA,43341,90.6,18.8,85.8,1.2,2.3,3.4,8.7
+624,4464,Johnny Mathis,2019-02-12,shot,gun,46.0,M,W,Fresno,CA,False,attack,Not fleeing,False,-120.51700000000001,37.299,True,CA,41531,75.2,29.8,49.6,8.3,1.7,12.6,46.9
+625,4462,Wilfredo Hernandez,2019-02-14,shot,knife,47.0,M,H,Los Angeles,CA,False,other,Not fleeing,False,-118.259,34.049,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+626,4477,Mark Morasky,2019-02-14,shot,gun,,M,W,San Jose,CA,False,attack,Car,False,-121.928,37.385999999999996,True,CA,84647,82.7,11.3,42.8,3.2,0.9,32,33.2
+627,4467,Javier Hernandez Morales,2019-02-17,shot,gun,48.0,M,H,Napa Valley,CA,False,attack,Not fleeing,True,-122.346,38.274,True,,,,,,,,,
+628,4487,Daniel David Messmer,2019-02-23,shot,gun,24.0,M,W,Victorville,CA,True,attack,Not fleeing,False,-117.273,34.471,True,CA,45894,78.3,26,48.5,16.8,1.4,4,47.8
+629,4536,Brenda Rodriguez Mendoza,2019-03-01,shot,gun,20.0,F,H,Salinas,CA,False,other,,False,-121.62100000000001,36.683,True,CA,49840,59.5,20.2,45.8,2,1.3,6.3,75
+630,4534,Stephen Kaylor,2019-03-04,shot,gun,63.0,M,W,Rancho Mirage,CA,True,attack,,False,-116.40100000000001,33.763000000000005,True,CA,66086,95.5,11,88.7,1.5,0.5,3.8,11.4
+631,4567,Stephanie Areanda Quiroz,2019-03-05,shot,unarmed,21.0,F,H,Bakersfield,CA,False,other,Car,False,-118.95,35.354,True,CA,57095,79.6,19.8,56.8,8.2,1.5,6.2,45.5
+632,4552,Brandon Robertson,2019-03-10,shot,gun,34.0,M,N,Redding,CA,False,attack,Foot,False,-122.351,40.565,True,CA,43341,90.6,18.8,85.8,1.2,2.3,3.4,8.7
+633,4555,Sokhom Hon,2019-03-10,shot,unknown weapon,31.0,M,A,San Bernardino,CA,True,attack,Not fleeing,False,-117.28200000000001,34.106,True,CA,37047,68.2,33.4,45.6,15,1.3,4,60
+634,4563,Charles Ballard,2019-03-13,shot,vehicle,41.0,M,B,Ashland,CA,False,attack,Car,True,,,True,CA,45621,76.6,18.4,30.6,19.5,1.1,18.4,42.8
+635,4577,Timothy John Beckwith,2019-03-16,shot,gun,49.0,M,W,Palmdale,CA,False,attack,Not fleeing,False,-118.05799999999999,34.563,True,CA,52392,74.2,21.3,49,14.8,0.9,4.3,54.4
+636,4585,Daishawn Brown,2019-03-21,shot,gun,19.0,M,B,Modesto,CA,False,undetermined,Car,False,-121.022,37.664,True,CA,48577,81.2,20.5,65,4.2,1.2,6.7,35.5
+637,4671,Brian Leslie Statler,2019-03-27,shot,sword,30.0,M,B,Inglewood,CA,False,other,Not fleeing,False,-118.352,33.96,True,CA,42044,72.5,22.4,23.3,43.9,0.7,1.4,50.6
+638,4615,Donnell James Lang,2019-04-02,shot,unarmed,48.0,M,W,Redding,CA,True,attack,Not fleeing,False,-122.335,40.595,True,CA,43341,90.6,18.8,85.8,1.2,2.3,3.4,8.7
+639,4614,Alfonso Cervantes,2019-04-03,shot,gun,50.0,M,H,San Diego,CA,True,attack,Not fleeing,True,-117.04700000000001,32.551,True,CA,66116,87.3,15.4,58.9,6.7,0.6,15.9,28.8
+640,4625,Daniel Robert Ramirez,2019-04-04,shot,gun,30.0,M,H,Anaheim,CA,False,other,Not fleeing,False,-117.97399999999999,33.838,True,CA,60752,75.8,16.5,52.7,2.8,0.8,14.8,52.8
+641,4658,Anthony Santana,2019-04-10,shot,gun,21.0,M,H,Indio,CA,False,other,Not fleeing,False,-116.23700000000001,33.713,True,CA,50525,73.7,19.5,61.5,2.4,1,2.2,67.8
+642,4663,Luc Ciel,2019-04-12,shot,knife,54.0,M,A,Richmond,CA,False,attack,Not fleeing,False,-122.331,37.945,True,CA,55102,77.1,17.5,31.4,26.6,0.6,13.5,39.5
+643,4639,William Crawford,2019-04-14,shot,gun,47.0,M,W,Los Angeles,CA,False,undetermined,Foot,False,-118.259,34.049,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+644,4635,Henry Lane,2019-04-14,shot and Tasered,walking stick,42.0,M,N,Red Bluff,CA,True,other,Foot,False,-122.23299999999999,40.176,True,CA,31239,85.3,24,80.7,0.9,3.1,1.3,21.6
+645,4646,Michael Allen Felch,2019-04-18,shot,gun,30.0,M,W,Fremont,CA,False,attack,Not fleeing,True,-121.976,37.554,True,CA,105355,92.3,6.1,32.8,3.3,0.5,50.6,14.8
+646,4649,David Flores Ramos,2019-04-22,shot,gun,32.0,M,H,Los Angeles,CA,False,attack,,True,,,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+647,5414,Blayne Erwin Morris,2019-04-25,shot,gun,23.0,M,,Lemoore,CA,False,attack,Car,False,-119.78299999999999,36.301,True,CA,49623,84.6,15.6,56.8,6.4,1.4,8.2,40
+648,4687,,2019-04-30,shot,gun,,M,H,Los Angeles,CA,False,attack,Foot,False,-118.23899999999999,33.931999999999995,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+649,4691,,2019-04-30,shot,knife,,M,,Perris,CA,False,other,Not fleeing,False,-117.195,33.805,True,CA,49325,63.6,25.3,42.3,12.1,0.9,3.6,71.8
+650,4705,,2019-05-04,shot,vehicle,,M,,San Jose,CA,False,attack,Car,True,-121.825,37.351,True,CA,84647,82.7,11.3,42.8,3.2,0.9,32,33.2
+651,5416,Saoun Pol,2019-05-04,shot,baseball bat,35.0,M,A,Stockton,CA,False,attack,Not fleeing,False,-121.3,38.029,True,CA,44797,74.9,25.3,37,12.2,1.1,21.5,40.3
+652,4735,Francisco Anthony Alcaraz,2019-05-07,shot,gun,32.0,M,H,Goleta,CA,False,attack,Not fleeing,False,-119.79,34.44,True,CA,80438,89.5,8.6,69.7,1.6,0.9,9.1,32.9
+653,4701,Eddie Herrera,2019-05-09,shot,gun,49.0,M,H,Montebello,CA,False,attack,Not fleeing,False,-118.355,34.084,True,CA,45875,71.7,14,53.8,0.9,1,11,79.3
+654,4718,Malik Ali Gresham,2019-05-13,shot,knife,36.0,M,B,Gardena,CA,False,attack,Not fleeing,True,-118.305,33.902,True,CA,47674,81.8,15,24.6,24.4,0.6,26.2,37.7
+655,5007,Daniel Warren,2019-05-17,shot,gun,36.0,M,B,Pasadena,CA,False,attack,Not fleeing,True,-118.155,34.172,True,CA,72402,87.4,15.3,55.8,10.7,0.6,14.3,33.7
+656,4731,Andrew Giovanni Meza,2019-05-18,shot,knife,20.0,M,H,Garden Grove,CA,True,attack,Not fleeing,False,-117.92200000000001,33.794000000000004,True,CA,58449,73.7,17.6,39.9,1.3,0.6,37.1,36.9
+657,4727,Esteban Martinez,2019-05-19,shot,unknown weapon,59.0,M,H,Huron,CA,False,attack,Not fleeing,False,-120.103,36.2,True,CA,27049,27,35.8,34.1,1,1.1,0.6,96.6
+658,4741,Juan Antonio Sillas,2019-05-21,shot,hammer,21.0,M,H,Los Angeles,CA,False,other,,False,-118.198,33.93,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+659,4754,Araceli Arias,2019-05-30,shot,gun,,F,,Ontario,CA,True,other,Not fleeing,True,-117.655,34.043,True,CA,54114,70.6,18.1,51,6.4,1,5.2,69
+660,4751,Nikolai Landry,2019-06-01,shot,gun,27.0,M,W,Anderson,CA,False,other,Not fleeing,False,-122.29799999999999,40.438,True,CA,32536,85,24.6,83.3,0.7,4.3,2.6,10.8
+661,4748,Miles Hall,2019-06-02,shot,crowbar,23.0,M,B,Walnut Creek,CA,True,attack,Not fleeing,True,-122.06200000000001,37.885999999999996,True,CA,82120,97.3,5.9,78.7,1.6,0.2,12.5,8.6
+662,4761,Travis James Eckstein,2019-06-03,shot,gun,23.0,M,W,San Ysidro,CA,True,attack,Car,False,-117.04700000000001,32.556,True,,,,,,,,,
+663,4776,Matthew Freeseha,2019-06-05,shot,gun,39.0,M,W,Escalon,CA,False,attack,Not fleeing,False,-120.99700000000001,37.797,True,CA,52125,88.3,15,81.6,0.4,1.1,1.3,27
+664,4773,Ryan Twyman,2019-06-06,shot,unarmed,24.0,M,B,Los Angeles,CA,False,other,Car,False,-118.27,33.913000000000004,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+665,4774,Jose De Santiago Media,2019-06-06,shot,sharp object,41.0,M,H,Los Angeles,CA,False,other,Not fleeing,True,-118.26299999999999,34.121,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+666,4775,Edtwon Stamps,2019-06-06,shot,gun,27.0,M,B,Los Angeles,CA,False,other,Not fleeing,False,-118.2,33.931999999999995,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+667,4805,Jose Jesus Astorga,2019-06-06,shot,gun,,M,H,Modesto,CA,False,attack,Not fleeing,False,-120.992,37.608000000000004,True,CA,48577,81.2,20.5,65,4.2,1.2,6.7,35.5
+668,4829,Jose Salvador Meza,2019-06-06,shot,gun,35.0,M,H,San Gabriel,CA,False,attack,Not fleeing,False,-118.098,34.073,True,CA,51579,78.1,13.8,25.4,1,0.6,60.7,25.7
+669,4772,Krystal Arvizu,2019-06-08,shot,ax,33.0,F,H,Fresno,CA,True,attack,Not fleeing,True,-119.805,36.733000000000004,True,CA,41531,75.2,29.8,49.6,8.3,1.7,12.6,46.9
+670,4833,Ysidro Osornio-Velasquez,2019-06-09,shot,gun,32.0,M,H,Menifee,CA,False,attack,Car,False,-117.154,33.650999999999996,True,CA,55985,85.9,12.1,71.5,5,0.8,4.9,33
+671,5447,,2019-06-11,shot,toy weapon,56.0,M,,San Leandro,CA,True,other,Not fleeing,False,-122.179,37.725,True,CA,62761,82.4,10.6,37.6,12.3,0.8,29.7,27.4
+672,5448,Thomas Ray Berry,2019-06-11,shot,gun,52.0,M,,Riverside,CA,False,attack,Not fleeing,False,-117.444,33.864000000000004,True,CA,57196,78.5,18.8,56.5,7,1.1,7.4,49
+673,4783,,2019-06-14,shot,undetermined,,M,,Delano,CA,False,undetermined,Foot,False,-119.266,35.79,True,CA,35933,55,30.3,36.4,7.9,0.9,12.7,71.5
+674,4806,Kevin Anthony Alaniz,2019-06-22,shot,gun,26.0,M,H,Big Sur,CA,False,attack,,False,-121.777,36.243,True,,,,,,,,,
+675,4820,Paul David Rea,2019-06-27,shot,unarmed,18.0,M,H,Los Angeles,CA,False,other,Not fleeing,False,-118.14399999999999,34.03,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+676,4822,Erik Sandoval,2019-06-27,shot,gun,41.0,M,H,Yucca Valley,CA,False,attack,Not fleeing,False,-116.405,34.168,True,CA,40030,85.5,21,83.5,3.2,1.1,2.3,17.8
+677,4979,Li Xi Wang,2019-07-03,shot,unarmed,49.0,M,A,Chino,CA,False,other,Not fleeing,True,-117.656,34.021,True,CA,72872,77.7,11.6,56.4,6.2,1,10.5,53.8
+678,4848,Hannah Williams,2019-07-05,shot,toy weapon,17.0,F,W,Anaheim,CA,True,attack,Not fleeing,True,-117.913,33.854,True,CA,60752,75.8,16.5,52.7,2.8,0.8,14.8,52.8
+679,4849,Joshua Ortiz,2019-07-05,shot,unarmed,21.0,M,W,Oak View,CA,False,attack,Not fleeing,False,-119.3,34.4,True,CA,71792,84.8,8.5,79.4,0.3,1.5,0.8,29.9
+680,4858,Anthony James Gonzales,2019-07-09,shot,undetermined,36.0,M,H,Bakersfield,CA,False,undetermined,Not fleeing,False,-118.98100000000001,35.4,True,CA,57095,79.6,19.8,56.8,8.2,1.5,6.2,45.5
+681,4862,Grayson Schuessler,2019-07-09,shot,gun,26.0,M,W,Citrus Heights,CA,False,attack,,False,-121.266,38.678000000000004,True,CA,50047,89.9,15.4,80.3,3.3,0.9,3.3,16.5
+682,4859,Jason Harris,2019-07-09,shot and Tasered,knife,36.0,M,,Rancho Mirage,CA,True,attack,Not fleeing,True,-116.411,33.816,True,CA,66086,95.5,11,88.7,1.5,0.5,3.8,11.4
+683,4861,Darrell Allen,2019-07-10,shot,knife,32.0,M,B,Adelanto,CA,False,attack,Foot,False,-117.425,34.58,True,CA,33298,67.5,40.3,43.8,20.5,1.3,1.9,58.3
+684,4884,Jose Javier Gonzalez,2019-07-16,shot,knife,52.0,M,H,Chino Hills,CA,False,attack,Not fleeing,False,-117.715,33.983000000000004,True,CA,96914,93.2,6.5,50.8,4.6,0.5,30.3,29.1
+685,4875,Stephen Murray,2019-07-17,shot,toy weapon,52.0,M,B,Modesto,CA,False,attack,Not fleeing,True,-121.01,37.633,True,CA,48577,81.2,20.5,65,4.2,1.2,6.7,35.5
+686,4917,Jamaal Simpson,2019-08-01,shot,gun,21.0,M,B,Los Angeles,CA,False,attack,Foot,False,-118.331,33.975,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+687,4916,Marvin Alexis Urbina,2019-08-05,shot,vehicle,19.0,M,H,Bakersfield,CA,False,other,Car,False,-118.881,34.993,True,CA,57095,79.6,19.8,56.8,8.2,1.5,6.2,45.5
+688,4932,,2019-08-09,shot,knife,,M,,Beaumont,CA,False,attack,Not fleeing,False,-116.969,33.929,True,CA,64830,86.8,11.8,62.8,6.2,1.5,7.7,40.3
+689,4945,Aaron Luther,2019-08-12,shot,gun,49.0,M,W,Riverside,CA,False,attack,Not fleeing,False,-117.29799999999999,33.931,True,CA,57196,78.5,18.8,56.5,7,1.1,7.4,49
+690,4960,Roberto Rene Gabriel,2019-08-18,shot,gun,33.0,M,H,Los Angeles,CA,False,attack,Foot,True,-118.175,34.071999999999996,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+691,4968,Carlos Torres,2019-08-19,shot,gun,39.0,M,H,Los Angeles,CA,False,attack,Foot,False,-118.41799999999999,34.236,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+692,4970,,2019-08-19,shot,vehicle,,M,,Fullerton,CA,False,attack,Car,True,-117.96799999999999,33.876,True,CA,65974,86.6,16.8,53.9,2.3,0.6,22.8,34.4
+693,4982,,2019-08-21,shot,undetermined,50.0,M,H,Stanton,CA,False,undetermined,,False,-117.99,33.81,True,CA,46801,68,21.8,44.5,2.2,1.1,23.1,50.8
+694,4973,,2019-08-22,shot,undetermined,,M,,Westminster,CA,False,other,Car,False,-117.955,33.745,True,CA,53455,76.4,17.8,35.7,0.9,0.4,47.5,23.6
+695,4977,Dennis Carolino,2019-08-24,shot,shovel,52.0,M,H,El Cerrito,CA,True,attack,Not fleeing,True,-117.073,32.758,True,CA,88737,93.8,9,53.3,7.7,0.5,27.3,11.1
+696,4977,Dennis Carolino,2019-08-24,shot,shovel,52.0,M,H,El Cerrito,CA,True,attack,Not fleeing,True,-117.073,32.758,True,CA,60625,76.6,6.6,69.5,1.8,1.1,1.9,52.1
+697,4987,Bobby Ray Moore,2019-08-27,shot,gun,67.0,M,,Stockton,CA,False,attack,Not fleeing,False,-121.26100000000001,37.98,True,CA,44797,74.9,25.3,37,12.2,1.1,21.5,40.3
+698,5010,Kenneth Lawson,2019-09-04,shot,knife,62.0,M,,Victorville,CA,True,other,Not fleeing,False,-117.32700000000001,34.538000000000004,True,CA,45894,78.3,26,48.5,16.8,1.4,4,47.8
+699,5018,Vondarrow Dewayne Fisher,2019-09-06,shot,gun,42.0,M,B,Glendora,CA,False,other,Foot,False,-117.87700000000001,34.129,True,CA,75148,90.2,9.4,75.1,1.9,0.7,8,30.7
+700,5030,Alvaro Duran Venegas,2019-09-12,shot,piece of wood,35.0,M,H,Santa Clarita,CA,False,attack,Not fleeing,False,-118.575,34.439,True,CA,83554,89,9.3,70.9,3.2,0.6,8.5,29.5
+701,5044,Jordan Michael Griffin,2019-09-19,shot,pellet gun,18.0,M,B,Long Beach,CA,False,attack,Not fleeing,False,-118.134,33.784,True,CA,52783,79.4,20.6,46.1,13.5,0.7,12.9,40.8
+702,5046,Raymond Hernandez,2019-09-23,shot,gun,63.0,M,H,Los Angeles,CA,False,other,,False,-118.279,33.782,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+703,5055,,2019-09-26,shot,vehicle,,M,,La Habra,CA,False,attack,Car,False,-117.93299999999999,33.931999999999995,True,CA,63037,81.5,13.2,58.3,1.7,0.9,9.4,57.2
+704,5071,Anthony Watkins,2019-09-30,shot,gun and car,36.0,M,W,Yucca Valley,CA,False,attack,Car,False,-116.432,34.121,True,CA,40030,85.5,21,83.5,3.2,1.1,2.3,17.8
+705,5076,,2019-10-06,shot,Airsoft pistol,55.0,M,,Herald,CA,False,other,Not fleeing,False,-121.17200000000001,38.303000000000004,True,CA,111058,89.3,15.4,78.9,1.7,1.1,5.4,21.5
+706,5078,Antonio Vasquez,2019-10-06,shot,knife,37.0,M,H,Los Angeles,CA,True,other,Not fleeing,False,-118.073,33.969,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+707,5088,Maurice Holley,2019-10-06,shot,gun,55.0,M,B,Sacramento,CA,False,other,Not fleeing,True,-121.17200000000001,38.303000000000004,True,CA,50739,83.4,22,45,14.6,1.1,18.3,26.9
+708,5084,Michael Uccello,2019-10-10,shot,vehicle,48.0,M,W,Los Angeles,CA,False,other,Car,False,-118.148,34.711999999999996,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+709,5094,Sawandi Asad Toussaint,2019-10-12,shot,gun,21.0,M,B,El Monte,CA,False,attack,Foot,False,-118.042,34.071999999999996,True,CA,38085,57.8,24.9,38.8,0.8,1,25.1,69
+710,5105,Cameron Ely,2019-10-15,shot,unarmed,30.0,M,W,Hope Ranch,CA,False,other,Not fleeing,False,-119.758,34.411,True,,,,,,,,,
+711,5108,Lazzeri James Frazier,2019-10-16,shot,gun,21.0,M,B,Sherman Oaks,CA,False,other,Not fleeing,False,-118.45700000000001,34.172,True,,,,,,,,,
+712,5215,Dominador Araquel Rabot,2019-10-22,shot,sharp object,55.0,M,,Carson,CA,False,other,Not fleeing,False,-118.255,33.808,True,CA,72421,79.6,10.9,23.8,23.8,0.6,25.6,38.6
+713,5141,Delfon Kinney,2019-10-23,shot,gun,44.0,M,B,Long Beach,CA,False,attack,Not fleeing,True,-118.171,33.875,True,CA,52783,79.4,20.6,46.1,13.5,0.7,12.9,40.8
+714,5133,,2019-10-26,shot,baseball bat,,M,,Imperial County,CA,False,other,Foot,False,-115.57,32.927,True,,,,,,,,,
+715,5130,Earnest Easterling,2019-10-27,shot,gun,25.0,M,B,Carmichael,CA,False,attack,Not fleeing,False,-121.33,38.622,True,CA,54322,93.4,16.6,80.6,4.8,0.9,4.3,11.7
+716,5144,Arturo Moreno,2019-10-27,shot and Tasered,crowbar,42.0,M,H,Porterville,CA,True,attack,Not fleeing,False,-118.999,36.062,True,CA,38456,66.9,30.9,58.8,1.2,1.9,4.7,61.9
+717,5149,Wilmer Spikes,2019-10-30,shot,knife,67.0,M,,San Jose,CA,False,other,Not fleeing,False,-121.795,37.236999999999995,True,CA,84647,82.7,11.3,42.8,3.2,0.9,32,33.2
+718,5162,Billy Kongphouthakhoun,2019-10-30,shot,gun,,M,A,Fresno,CA,False,other,Not fleeing,False,-119.786,36.605,True,CA,41531,75.2,29.8,49.6,8.3,1.7,12.6,46.9
+719,5163,Ricardo Myers,2019-10-30,shot,ax,62.0,M,W,Lancaster,CA,False,other,Not fleeing,False,-118.07600000000001,34.668,True,CA,47225,81.4,23.5,49.6,20.5,1,4.3,38
+720,5161,Francis Calonge,2019-10-31,shot,toy weapon,33.0,M,W,San Jose,CA,True,attack,Not fleeing,True,-121.85,37.365,True,CA,84647,82.7,11.3,42.8,3.2,0.9,32,33.2
+721,5186,Andrew Roberts,2019-11-09,shot,gun,29.0,M,,San Jose,CA,False,other,Not fleeing,False,-121.874,37.256,True,CA,84647,82.7,11.3,42.8,3.2,0.9,32,33.2
+722,5203,Omar Enrique Garcia,2019-11-13,shot,sword,37.0,M,H,Los Angeles,CA,False,other,Foot,False,-118.244,34.052,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+723,5188,,2019-11-16,shot,unknown weapon,,M,,Lake Elsinore,CA,False,other,Not fleeing,False,-117.389,33.695,True,CA,61248,76.9,14.6,60,5.3,0.9,5.8,48.4
+724,5199,Alex Flores,2019-11-19,shot,knife,34.0,M,H,Los Angeles,CA,False,other,,False,-118.256,34.016999999999996,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+725,5202,Jacob Cato,2019-11-19,shot,gun,34.0,M,W,San Bernardino,CA,False,attack,Not fleeing,False,-116.382,34.135,True,CA,37047,68.2,33.4,45.6,15,1.3,4,60
+726,5263,Jessica Ann Beedles,2019-11-20,shot,gun,42.0,F,W,Los Angeles,CA,False,other,Not fleeing,False,-118.665,34.18,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+727,5223,Nathaniel Pinnock,2019-11-25,shot,vehicle and machete,22.0,M,B,Los Angeles,CA,False,attack,Foot,True,-118.338,34.098,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+728,5236,Raymond Lee,2019-11-29,shot,toy weapon,54.0,M,W,Modesto,CA,False,attack,,True,-121.027,37.664,True,CA,48577,81.2,20.5,65,4.2,1.2,6.7,35.5
+729,5232,Donald James Eversen,2019-12-01,shot,knife,60.0,M,W,Concord,CA,True,attack,Not fleeing,True,-122.039,37.942,True,CA,68318,87.1,13.3,64.5,3.6,0.7,11.1,30.6
+730,5246,Dai Phuoc Nguyen,2019-12-02,shot,knife,38.0,M,A,Los Angeles,CA,False,other,,False,-118.056,34.065,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+731,5390,Chad James Green,2019-12-05,shot,gun,41.0,M,W,San Bernardino,CA,False,other,Foot,False,-117.28,34.068000000000005,True,CA,37047,68.2,33.4,45.6,15,1.3,4,60
+732,5266,Mauro Carrillo,2019-12-10,shot,baseball bat,42.0,M,H,Hesperia,CA,False,attack,Not fleeing,False,-117.336,34.442,True,CA,44874,77.2,24.8,61.1,5.8,1.2,2.1,48.9
+733,5282,Taveonte Art Emmanuel,2019-12-12,shot,gun,34.0,M,B,Anaheim,CA,False,other,Not fleeing,True,-117.90299999999999,33.838,True,CA,60752,75.8,16.5,52.7,2.8,0.8,14.8,52.8
+734,5283,Erik Lee,2019-12-12,shot and Tasered,knife,43.0,M,,Orange,CA,True,other,Not fleeing,True,-117.78,33.824,True,CA,78513,84.2,13.2,67.1,1.6,0.7,11.3,38.1
+735,5292,Jorge Serrano,2019-12-16,shot,gun,25.0,M,H,Los Angeles,CA,False,attack,Foot,False,-118.19200000000001,34.032,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+736,5296,Bernie Rascon,2019-12-16,shot,undetermined,28.0,M,H,San Bernardino,CA,False,undetermined,Car,False,-117.334,34.162,True,CA,37047,68.2,33.4,45.6,15,1.3,4,60
+737,5295,Christopher Gray,2019-12-19,shot,knife,29.0,M,W,Davis,CA,True,attack,Not fleeing,True,-121.75200000000001,38.571999999999996,True,CA,56463,96.1,28.8,64.9,2.3,0.5,21.9,12.5
+738,5302,Jesse Adams,2019-12-22,shot,gun,34.0,M,,Redding,CA,False,attack,Not fleeing,False,-122.387,40.577,True,CA,43341,90.6,18.8,85.8,1.2,2.3,3.4,8.7
+739,5319,Heriberto Rodriguez,2019-12-28,shot,unknown weapon,27.0,M,H,Bakersfield,CA,False,attack,Not fleeing,False,-118.985,35.395,True,CA,57095,79.6,19.8,56.8,8.2,1.5,6.2,45.5
+740,5400,Craig Ellis See,2019-12-28,shot,knife,34.0,M,W,Clearlake Oaks,CA,False,attack,Foot,False,-122.665,39.028,True,CA,27552,84.2,31.4,87.1,2.3,1.9,1.4,8.1
+741,5318,Manuel Gonzales Verdugo,2019-12-29,shot,knife,,M,H,El Centro,CA,False,other,Not fleeing,False,-115.57,32.793,True,CA,40517,69.4,25.2,59.6,2.5,1.3,2.3,81.6
+742,5342,Gabriel Strickland,2020-01-01,shot and Tasered,toy weapon,25.0,M,W,Grass Valley,CA,True,attack,Not fleeing,False,-121.061,39.219,True,CA,33700,88.7,28.4,89.4,0.4,1.6,1.5,10.4
+743,5350,Troy Sullenger,2020-01-02,shot,gun,41.0,M,W,Murrieta,CA,False,attack,Car,True,-117.23200000000001,33.582,True,CA,74610,92.2,8.4,69.7,5.4,0.7,9.2,25.9
+744,5498,Madison Adams,2020-01-08,shot,gun,27.0,M,,Nipton,CA,True,attack,Car,False,,,True,,,,,,,,,
+745,5365,Juan Ayon-Ruiz,2020-01-10,shot,vehicle,24.0,M,H,Muscoy,CA,False,attack,Car,False,-117.351,34.150999999999996,True,CA,36108,44.9,33.5,41.9,4.3,1.2,0.9,82.9
+746,5367,Victor Valencia,2020-01-12,shot,toy weapon,31.0,M,H,Los Angeles,CA,True,attack,,False,-118.414,34.008,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+747,5389,Miguel Mercado Segura,2020-01-20,shot,gun,31.0,M,H,Fountain Valley,CA,False,other,Foot,False,-117.95,33.714,True,CA,82367,90.2,8.1,56.5,0.9,0.4,33.3,13.1
+748,5428,Toby Diller,2020-01-24,shot,gun,31.0,M,H,Oak Park,CA,False,attack,Foot,True,-117.08,32.736,True,CA,120696,98.5,5.5,83.1,1,0.2,11.3,6
+749,5563,Dominique Antwon Anderson,2020-02-04,shot,machete,26.0,M,B,Home Garden,CA,True,attack,Not fleeing,False,-119.635,36.299,True,CA,32411,54.6,32.2,37,12.5,3.6,2.8,67.5
+750,5564,Thomas Barbosa,2020-02-04,shot,knife,41.0,M,W,Ono,CA,True,other,Car,False,-122.57,40.484,True,,,,,,,,,
+751,5547,Christopher Gutierrez,2020-02-14,shot,knife,,M,H,Rialto,CA,False,other,Not fleeing,False,-117.369,34.124,True,CA,50971,67.4,19.7,44,16.4,1.1,2.3,67.6
+752,5533,Kerry Michael Bounsom,2020-02-16,shot,gun,33.0,M,B,Long Beach,CA,False,attack,Foot,False,-118.181,33.793,True,CA,52783,79.4,20.6,46.1,13.5,0.7,12.9,40.8
+753,5542,Alex Francisco Vazquez,2020-02-19,shot,gun,38.0,M,H,Red Bluff,CA,False,attack,Not fleeing,False,-122.236,40.154,True,CA,31239,85.3,24,80.7,0.9,3.1,1.3,21.6
+754,5602,,2020-02-25,shot,undetermined,,M,,Brea,CA,False,undetermined,,False,-117.848,33.924,True,CA,83717,92.1,7.1,67.1,1.4,0.5,18.2,25
+755,5604,,2020-02-26,shot,unarmed,,M,,Garden Grove,CA,False,attack,,True,-117.92,33.766999999999996,True,CA,58449,73.7,17.6,39.9,1.3,0.6,37.1,36.9
+756,5581,Raymundo Aaron Ceja,2020-03-01,shot,gun,30.0,M,H,Santa Clarita,CA,False,other,Not fleeing,False,-118.551,34.416,True,CA,83554,89,9.3,70.9,3.2,0.6,8.5,29.5
+757,5582,,2020-03-01,shot,gun,,M,,Santa Ana,CA,False,other,,False,-117.898,33.734,True,CA,52253,54.8,22.1,45.9,1.5,1,10.5,78.2
+758,5657,Kenneth Mullins,2020-03-06,shot,unarmed,32.0,M,W,Edison,CA,False,attack,Not fleeing,False,-119.81299999999999,36.713,True,,,,,,,,,
+759,5614,Desiree Nicole Garza,2020-03-08,shot,knife,29.0,F,H,Torrance,CA,False,other,Not fleeing,False,-118.335,33.866,True,CA,79549,93.5,7,51.1,2.7,0.4,34.5,16.1
+760,5622,Jennifer Taylor,2020-03-09,shot,gun,29.0,F,W,Dinuba,CA,True,attack,Not fleeing,False,-119.37700000000001,36.548,True,CA,36860,58.6,28.6,52,0.7,0.9,2.1,84.4
+761,5659,Pablo Elias,2020-03-10,shot,unarmed,44.0,M,H,Bell Gardens,CA,True,undetermined,,False,-118.165,33.963,True,CA,37882,44.3,28.1,49.5,0.9,1.1,0.6,95.7
+762,5632,Rory Edwin Murray,2020-03-14,shot,gun,30.0,M,,Lodi,CA,False,attack,Car,False,-121.258,38.134,True,CA,49316,80.4,17.4,68.7,0.8,0.9,6.9,36.4
+763,5625,Catherine Gomez,2020-03-15,shot,knife,25.0,F,H,Long Beach,CA,False,attack,Not fleeing,False,-118.161,33.765,True,CA,52783,79.4,20.6,46.1,13.5,0.7,12.9,40.8
+764,5644,Israel Lucas,2020-03-21,shot,baton,30.0,M,,Mojave,CA,False,attack,Not fleeing,False,-118.17,35.047,True,CA,36250,72.6,31.1,56.2,15.1,1.3,1.3,37.6
+765,5641,Gerald Johnson,2020-03-22,shot,toy weapon,55.0,M,B,Sacramento,CA,False,attack,Not fleeing,True,-121.494,38.582,True,CA,50739,83.4,22,45,14.6,1.1,18.3,26.9
+766,5683,Charles Edward Marsh,2020-03-23,shot,gun,50.0,M,W,Mojave,CA,False,attack,Not fleeing,False,-118.186,35.05,True,CA,36250,72.6,31.1,56.2,15.1,1.3,1.3,37.6
+767,5700,Anthony Eduardo Pacheco,2020-03-31,shot,sword,37.0,M,H,Pomona,CA,False,other,Not fleeing,False,-117.73700000000001,34.061,True,CA,49186,67.5,22.1,48,7.3,1.2,8.5,70.5
+768,5743,Justin Silvernale,2020-04-12,shot,knife,35.0,M,W,Daly City,CA,True,other,Car,False,,,True,CA,74449,85.4,9.7,23.6,3.6,0.4,55.6,23.7
+769,5746,Javier Vidal,2020-04-13,shot,gun,36.0,M,H,Lamont,CA,False,attack,Car,False,,,True,CA,33351,42.2,37.4,44.2,0.9,1.5,0.5,94.5
+770,5670,Juan Ayon-Barraza,2020-04-16,shot,gun and car,24.0,M,H,Richmond,CA,False,attack,Car,True,,,True,CA,55102,77.1,17.5,31.4,26.6,0.6,13.5,39.5
+771,5671,Steven Taylor,2020-04-18,shot,baseball bat,33.0,M,B,San Leandro,CA,True,other,Not fleeing,False,-122.13,37.689,True,CA,62761,82.4,10.6,37.6,12.3,0.8,29.7,27.4
+772,5763,Daniel Hernandez,2020-04-22,shot,knife,38.0,M,H,Los Angeles,CA,False,other,Not fleeing,False,-118.264,34.016999999999996,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+773,5753,Brandan Reid Nylander,2020-04-24,shot,gun,24.0,M,W,Napa,CA,False,other,Car,False,-122.26899999999999,38.242,True,CA,68038,80.9,9.5,75.1,0.6,0.8,2.3,37.6
+774,5785,Artemio Mondragon Alfaro,2020-04-29,shot,vehicle,29.0,M,W,Madera County,CA,False,attack,Other,False,-120.18700000000001,36.836999999999996,True,,,,,,,,,
+775,5782,Daniel Hernandez Bravo,2020-04-30,shot,gun,28.0,M,H,Los Angeles,CA,False,other,Car,False,-118.26299999999999,34.025,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+776,5777,Nicholas Bils,2020-05-01,shot,unarmed,36.0,M,W,San Diego,CA,True,other,Foot,False,-117.165,32.717,True,CA,66116,87.3,15.4,58.9,6.7,0.6,15.9,28.8
+777,5773,Armando Salvatierra,2020-05-03,shot,knife,26.0,M,H,San Jose,CA,False,attack,Not fleeing,True,-121.902,37.336,True,CA,84647,82.7,11.3,42.8,3.2,0.9,32,33.2
+778,5813,Mark Anthony Jones,2020-05-04,shot,knife,36.0,M,H,Monterey Park,CA,False,other,Not fleeing,False,-118.13,34.033,True,CA,54097,78.7,17.3,19.4,0.4,0.4,66.9,26.9
+779,5808,Sandra Lee Harmon,2020-05-05,shot,gun,56.0,F,W,Half Moon Bay,CA,True,attack,Not fleeing,False,-122.43,37.458,True,CA,103255,83.8,3.7,75.8,0.7,0.6,4.3,31.5
+780,5800,Ruben Escarrega,2020-05-07,shot,knife,31.0,M,H,Long Beach,CA,False,other,Not fleeing,False,-118.182,33.814,True,CA,52783,79.4,20.6,46.1,13.5,0.7,12.9,40.8
+781,5887,Daniel Gomez,2020-05-07,shot,knife,21.0,M,H,Wasco,CA,False,attack,Not fleeing,False,-119.335,35.584,True,CA,39580,51.1,32.7,49.2,7.6,1.1,0.7,76.7
+782,5801,Lloyd Nelson,2020-05-08,shot,gun,47.0,M,A,Pasadena,CA,False,other,Car,False,-118.113,34.150999999999996,True,CA,72402,87.4,15.3,55.8,10.7,0.6,14.3,33.7
+783,5795,David Urrea,2020-05-10,shot,knife,50.0,M,W,Joshua Tree,CA,False,other,Car,False,-116.213,34.141999999999996,True,CA,36870,88.6,24,83.3,3.2,1.1,1.4,17.6
+784,5793,,2020-05-11,shot,hammer,,M,,Laguna Niguel,CA,False,undetermined,,False,-117.68700000000001,33.519,True,CA,95536,95.5,6.6,80.4,1.2,0.3,8.7,13.9
+785,5834,Anthony Ysaac,2020-05-14,shot,gun,26.0,M,H,Los Angeles,CA,False,other,Not fleeing,True,-118.289,33.921,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+786,5830,Thuc Pham,2020-05-15,shot,gun,42.0,M,A,San Leandro,CA,False,attack,Not fleeing,False,-122.101,37.693000000000005,True,CA,62761,82.4,10.6,37.6,12.3,0.8,29.7,27.4
+787,5923,Stoney Ramirez,2020-05-20,shot,vehicle,23.0,M,,Hayward,CA,False,attack,Car,True,-122.06200000000001,37.684,True,CA,65096,80.1,13.4,34.2,11.9,1,22,40.7
+788,5884,Reymar Gagarin,2020-05-25,shot,toy weapon,35.0,M,A,Modesto,CA,True,attack,Not fleeing,True,-121.001,37.664,True,CA,48577,81.2,20.5,65,4.2,1.2,6.7,35.5
+789,5854,Richard Councilman,2020-05-26,shot,toy weapon,,M,,Jamestown,CA,True,other,Not fleeing,False,-120.42200000000001,37.95,True,CA,35268,93.9,19.6,85.9,0.6,2.8,0.8,14.9
+790,5882,Robert Avitia,2020-05-26,shot,gun,18.0,M,H,Los Angeles,CA,False,attack,Foot,False,-118.294,33.937,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+791,5856,Rommel Mendoza,2020-05-27,shot,sword,50.0,M,H,Los Angeles,CA,False,attack,,False,-118.37700000000001,34.187,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+792,5858,Hector Hernandez,2020-05-27,shot,knife,31.0,M,H,Fullerton,CA,False,attack,Not fleeing,True,-117.975,33.865,True,CA,65974,86.6,16.8,53.9,2.3,0.6,22.8,34.4
+793,5845,,2020-05-29,shot,toy weapon,,M,W,Lancaster,CA,False,attack,,False,-118.162,34.675,True,CA,47225,81.4,23.5,49.6,20.5,1,4.3,38
+794,5848,,2020-05-29,shot,gun,32.0,M,A,San Diego,CA,False,attack,,False,-117.09200000000001,32.75,True,CA,66116,87.3,15.4,58.9,6.7,0.6,15.9,28.8
+795,6591,Robert Melton Colvin,2020-05-29,shot,toy weapon,39.0,M,W,Lancaster,CA,False,attack,Not fleeing,False,-118.162,34.675,True,CA,47225,81.4,23.5,49.6,20.5,1,4.3,38
+796,5869,Robert James Lyon,2020-06-02,shot,gun,65.0,M,W,Cottonwood,CA,False,other,Not fleeing,False,-122.22,40.396,True,CA,39085,79,34.4,85.8,0.1,3,3.3,10.6
+797,5896,Sean Monterrosa,2020-06-02,shot,hammer,22.0,M,H,Vallejo,CA,False,other,Not fleeing,True,-122.257,38.104,True,CA,57028,87.4,18.3,32.8,22.1,0.7,24.9,22.6
+798,5900,Erik Salgado,2020-06-06,shot,vehicle,22.0,M,H,Oakland,CA,False,attack,Not fleeing,False,-122.167,37.748000000000005,True,CA,54618,80.4,20.4,34.5,28,0.8,16.8,25.4
+799,5908,Jarrid Hurst,2020-06-07,shot,knife,35.0,M,W,Industry,CA,True,other,Not fleeing,False,-117.93,34.004,True,CA,51835,90.7,2.4,58.9,0.5,0,8.2,52.5
+800,5914,Mason James Lira,2020-06-11,shot,gun,26.0,M,W,Paso Robles,CA,True,attack,Foot,False,,,True,,,,,,,,,
+801,5915,Michael Thomas,2020-06-11,shot,undetermined,62.0,M,B,Lancaster,CA,False,undetermined,Not fleeing,False,,,True,CA,47225,81.4,23.5,49.6,20.5,1,4.3,38
+802,5922,Anthony Angel Armenta,2020-06-13,shot,toy weapon,21.0,M,H,San Bernardino,CA,False,attack,Not fleeing,False,-117.25,34.117,True,CA,37047,68.2,33.4,45.6,15,1.3,4,60
+803,6590,Tony Rocha Lugo,2020-06-13,shot,gun,26.0,M,H,Palmdale,CA,False,other,Foot,False,-118.09200000000001,34.579,True,CA,52392,74.2,21.3,49,14.8,0.9,4.3,54.4
+804,5928,Terron Jammal Boone,2020-06-17,shot,gun,31.0,M,B,Rosamond,CA,False,attack,Not fleeing,False,-118.15799999999999,34.871,True,CA,58265,79.9,18.7,62.2,8.1,1.2,3.6,34.3
+805,5933,Andres Guardado,2020-06-18,shot,gun,18.0,M,H,Gardena,CA,False,other,Foot,False,-118.304,33.89,True,CA,47674,81.8,15,24.6,24.4,0.6,26.2,37.7
+806,5939,Brandeis Codde,2020-06-21,shot and Tasered,knife,19.0,M,W,Milpitas,CA,False,attack,Not fleeing,True,-121.87700000000001,37.441,True,CA,100242,86.6,8.2,20.5,2.9,0.5,62.2,16.8
+807,5944,Aaron Solorio Granados,2020-06-22,shot,gun,33.0,M,H,Palm Desert,CA,False,other,Not fleeing,False,-116.355,33.746,True,CA,52892,91.3,10.8,82.5,1.8,0.5,3.4,22.8
+808,5942,,2020-06-24,shot,gun,,F,A,Lake Forest,CA,False,other,Not fleeing,False,-117.699,33.631,True,CA,91254,91.9,7.4,70.3,1.7,0.5,13.1,24.6
+809,6072,Skyleur Young,2020-06-24,shot,gun,31.0,M,B,San Bernardino,CA,False,attack,Car,False,-117.749,34.075,True,CA,37047,68.2,33.4,45.6,15,1.3,4,60
+810,5963,Leonardo Hurtado Ibarra,2020-06-27,shot,gun,25.0,M,H,San Diego,CA,False,attack,Foot,True,-117.15899999999999,32.718,True,CA,66116,87.3,15.4,58.9,6.7,0.6,15.9,28.8
+811,6065,Louis Wesley Lane,2020-06-27,shot,gun,31.0,M,W,Red Bluff,CA,False,attack,Not fleeing,False,-122.191,40.108000000000004,True,CA,31239,85.3,24,80.7,0.9,3.1,1.3,21.6
+812,6074,Nick Costales,2020-06-29,shot,gun,34.0,M,H,Pomona,CA,True,attack,Car,False,,,True,CA,49186,67.5,22.1,48,7.3,1.2,8.5,70.5
+813,5968,Matthew Dixon,2020-07-05,shot,gun,34.0,M,W,Chino,CA,False,attack,Foot,False,-117.73100000000001,34.023,True,CA,72872,77.7,11.6,56.4,6.2,1,10.5,53.8
+814,5967,Carlos Baires,2020-07-07,shot,vehicle,36.0,M,H,Fresno,CA,False,attack,Not fleeing,False,-119.77600000000001,36.736,True,CA,41531,75.2,29.8,49.6,8.3,1.7,12.6,46.9
+815,5987,Richard Lewis Price,2020-07-09,shot,toy weapon,49.0,M,B,San Diego,CA,True,attack,Not fleeing,True,-117.094,32.756,True,CA,66116,87.3,15.4,58.9,6.7,0.6,15.9,28.8
+816,5993,Antwane Burrise,2020-07-15,shot,vehicle,39.0,M,B,Stockton,CA,False,attack,Not fleeing,False,-121.374,38.048,True,CA,44797,74.9,25.3,37,12.2,1.1,21.5,40.3
+817,6002,David Angulo,2020-07-20,shot,gun,33.0,M,H,Chula Vista,CA,False,attack,Other,False,-116.98299999999999,32.646,True,CA,65185,80.9,12.5,53.7,4.6,0.8,14.4,58.2
+818,6004,Southern Jeremy,2020-07-21,shot,gun,22.0,M,B,Sacramento,CA,False,attack,Not fleeing,True,-121.41799999999999,38.549,True,CA,50739,83.4,22,45,14.6,1.1,18.3,26.9
+819,6017,John Karl Sieger,2020-07-23,shot,gun,51.0,M,W,Eureka,CA,True,attack,Not fleeing,True,-124.16799999999999,40.783,True,CA,37094,86.5,24.5,79.3,1.9,3.7,4.2,11.6
+820,6015,Chester Jenkins,2020-07-24,shot,toy weapon,61.0,M,B,Stockton,CA,False,attack,Not fleeing,True,-121.228,37.999,True,CA,44797,74.9,25.3,37,12.2,1.1,21.5,40.3
+821,6083,Gary Hardy,2020-07-30,shot,knife,41.0,M,,Chino,CA,False,other,Not fleeing,False,-117.686,34.029,True,CA,72872,77.7,11.6,56.4,6.2,1,10.5,53.8
+822,6091,Jesse Vanloozen,2020-08-03,shot,knife,34.0,M,W,Culver City,CA,False,other,Foot,False,-118.38799999999999,34.027,True,CA,81189,92.2,8.9,60.3,9.5,0.5,14.8,23.2
+823,6031,Vasquinho Bettencourt,2020-08-06,shot,gun,35.0,M,H,San Leandro,CA,False,attack,Other,False,-122.177,37.736,True,CA,62761,82.4,10.6,37.6,12.3,0.8,29.7,27.4
+824,6092,,2020-08-06,shot,metal pipe,44.0,M,,Ontario,CA,False,other,Other,False,-117.57600000000001,34.065,True,CA,54114,70.6,18.1,51,6.4,1,5.2,69
+825,6039,Jeffery Monroy,2020-08-07,shot,knife,33.0,M,H,Rancho Mirage,CA,False,attack,Not fleeing,False,,,True,CA,66086,95.5,11,88.7,1.5,0.5,3.8,11.4
+826,6589,Aleksandr Sergeyev Rusanovskiy,2020-08-12,shot,knife,31.0,M,W,Reseda,CA,False,other,Not fleeing,True,-118.536,34.187,True,,,,,,,,,
+827,6046,Anthony McClain,2020-08-15,shot,gun,32.0,M,B,Pasadena,CA,False,other,Foot,True,-118.149,34.171,True,CA,72402,87.4,15.3,55.8,10.7,0.6,14.3,33.7
+828,6043,Jose Manuel Castro,2020-08-16,shot,knife,27.0,M,H,Dos Palos,CA,False,other,Not fleeing,True,-120.618,36.983000000000004,True,CA,33608,63,37.4,68.2,3.4,1.3,0.7,62.1
+829,6045,,2020-08-16,shot,gun,30.0,M,,Hemet,CA,False,other,Car,False,-116.959,33.755,True,CA,33989,79.5,26,67.7,6.4,1.6,3,35.8
+830,6096,Everardo Gonzalez Santana,2020-08-17,shot,knife,65.0,M,H,Bakersfield,CA,False,other,Car,True,-119.009,35.354,True,CA,57095,79.6,19.8,56.8,8.2,1.5,6.2,45.5
+831,6097,Santos Anthony Villegas,2020-08-17,shot,gun,36.0,M,H,San Bernardino,CA,False,attack,Foot,False,-117.29899999999999,34.12,True,CA,37047,68.2,33.4,45.6,15,1.3,4,60
+832,6131,Jimmy Ferrer,2020-08-17,shot,pepper spray,35.0,M,W,Barstow,CA,False,attack,,False,-116.995,34.888000000000005,True,CA,39632,79.8,33.7,52.3,14.6,2.1,3.2,42.8
+833,6110,Scott Huffman,2020-08-21,shot,gun,42.0,M,W,Nipomo,CA,True,attack,Not fleeing,False,-120.485,35.037,True,CA,60348,84.7,12,73.5,1.1,1.2,2.5,39.8
+834,6107,Christopher Walker,2020-08-22,shot,gun,29.0,M,B,Rancho Cordova,CA,True,attack,Foot,False,-121.318,38.577,True,CA,52530,89.3,17.2,60.4,10.1,1,12.1,19.7
+835,6129,Mark Dawson,2020-08-25,shot,knife,39.0,M,,Rancho Cucamonga,CA,False,other,Not fleeing,False,-117.56,34.082,True,CA,77396,91,8.8,62,9.2,0.7,10.4,34.9
+836,6135,Jesse David Nava,2020-08-29,shot,knife,25.0,M,H,Anaheim,CA,False,other,,False,-117.87899999999999,33.84,True,CA,60752,75.8,16.5,52.7,2.8,0.8,14.8,52.8
+837,6119,Nikolas Frazier,2020-08-30,shot,Airsoft pistol,26.0,M,W,Clovis,CA,False,attack,Not fleeing,True,-119.696,36.84,True,CA,62666,88.9,13.8,70.9,2.7,1.4,10.7,25.6
+838,6134,Dijon Kizzee,2020-08-31,shot,gun,29.0,M,B,Los Angeles,CA,False,attack,Foot,False,-118.296,33.936,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+839,6147,Albert Wheeler,2020-09-01,shot,gun,50.0,M,W,Sacramento,CA,True,attack,Foot,True,-121.47399999999999,38.62,True,CA,50739,83.4,22,45,14.6,1.1,18.3,26.9
+840,6150,Fernando Napoles,2020-09-03,shot,gun,37.0,M,H,California City,CA,True,attack,Not fleeing,False,-117.98700000000001,35.312,True,CA,54245,79.5,22.8,65.1,15.2,0.9,2.6,38.1
+841,6143,Joshua Beedie,2020-09-04,shot,gun,38.0,M,W,Lucerne,CA,False,attack,Not fleeing,False,-116.83200000000001,34.438,True,CA,23059,75.4,39,84.2,2,3.4,0.8,12
+842,6165,"Samuel Herrera, Jr.",2020-09-10,shot,gun,41.0,M,H,Los Angeles,CA,False,attack,Not fleeing,False,-118.20299999999999,33.891999999999996,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+843,6159,Robert Coleman,2020-09-12,shot,gun,88.0,M,B,West Sacramento,CA,True,other,Not fleeing,True,-121.53399999999999,38.58,True,CA,52763,82.7,17.7,60.6,4.8,1.6,10.5,31.4
+844,6191,,2020-09-18,shot,unknown weapon,39.0,M,,Redlands,CA,False,attack,,False,-117.17399999999999,34.07,True,CA,65212,90.4,14.3,69,5.2,0.9,7.6,30.3
+845,6193,,2020-09-18,shot,undetermined,,M,A,Stanton,CA,False,undetermined,Car,False,-117.985,33.81,True,CA,46801,68,21.8,44.5,2.2,1.1,23.1,50.8
+846,6184,Kurt Andras Reinhold,2020-09-23,shot,unarmed,42.0,M,B,San Clemente,CA,True,attack,,False,-117.601,33.415,True,CA,98153,95.3,8,86,0.6,0.6,3.7,16.8
+847,6183,Christopher Michael Straub,2020-09-24,shot,gun,38.0,M,W,Templeton,CA,False,attack,Foot,False,-120.698,35.573,True,CA,66169,94.2,6.9,89,0.8,1,1.6,15.3
+848,6185,Randy Fedorchuk,2020-09-24,shot,gun,66.0,M,W,La Quinta,CA,True,attack,,True,-116.296,33.677,True,CA,71091,89.6,9.6,78.7,1.9,0.6,3.1,30.3
+849,6208,Mickel Erich Lewis,2020-10-02,shot,unarmed,39.0,M,B,Mojave,CA,False,other,Foot,False,-118.17399999999999,35.058,True,CA,36250,72.6,31.1,56.2,15.1,1.3,1.3,37.6
+850,6209,Jason Rodriguez,2020-10-02,shot and Tasered,knife,46.0,M,H,Fresno,CA,False,other,Foot,True,-119.723,36.729,True,CA,41531,75.2,29.8,49.6,8.3,1.7,12.6,46.9
+851,6206,Christopher Ulmer,2020-10-04,shot,unarmed,30.0,M,,Chula Vista,CA,False,attack,Car,False,-117.069,32.652,True,CA,65185,80.9,12.5,53.7,4.6,0.8,14.4,58.2
+852,6276,Austin Manzano,2020-10-04,shot,gun and knife,24.0,M,,Camarillo,CA,True,attack,Not fleeing,True,-119.071,34.224000000000004,True,CA,88152,92.2,6.4,75.1,1.9,0.6,10.2,22.9
+853,6221,Juan Adrian Garcia,2020-10-05,shot,unarmed,47.0,M,H,Napa,CA,False,other,Not fleeing,True,-122.271,38.258,True,CA,68038,80.9,9.5,75.1,0.6,0.8,2.3,37.6
+854,6213,Cesar Vargas,2020-10-10,shot,knife,21.0,M,H,San Francisco,CA,False,other,Car,True,-122.42,37.772,True,CA,81294,87,13.2,48.5,6.1,0.5,33.3,15.1
+855,6228,Jose Marcos Ramirez,2020-10-13,shot,knife,27.0,M,H,Bakersfield,CA,False,attack,Foot,True,-118.994,35.373000000000005,True,CA,57095,79.6,19.8,56.8,8.2,1.5,6.2,45.5
+856,6231,Kevin Carr,2020-10-14,shot,gun,23.0,M,B,South Los Angeles,CA,False,attack,Not fleeing,False,,,True,,,,,,,,,
+857,6240,Kevin Carr,2020-10-14,shot,gun,23.0,M,B,Los Angeles,CA,False,attack,,False,-118.28299999999999,33.935,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+858,6230,Steven Vest,2020-10-14,shot and Tasered,knife,30.0,M,W,Chico,CA,False,attack,Foot,False,,,True,CA,42342,92,24.9,80.8,2.1,1.4,4.2,15.4
+859,6370,Dana Mitchell Young,2020-10-15,shot,gun,47.0,M,B,Los Angeles,CA,False,other,Foot,False,-118.292,33.927,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+860,6238,Fred Williams,2020-10-16,shot,gun,25.0,M,B,Los Angeles,CA,False,attack,Foot,True,-118.265,33.923,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+861,6245,Gregory Putnik,2020-10-18,shot,gun,32.0,M,W,Fresno,CA,False,attack,Foot,False,-119.821,36.758,True,CA,41531,75.2,29.8,49.6,8.3,1.7,12.6,46.9
+862,6378,Jose Alfredo Casto-Gutierrez,2020-10-19,shot and Tasered,metal pole,39.0,M,H,San Diego,CA,True,attack,Not fleeing,True,-117.118,32.703,True,CA,66116,87.3,15.4,58.9,6.7,0.6,15.9,28.8
+863,6259,Mark Matthew Bender,2020-10-22,shot,gun,35.0,M,B,San Bernardino,CA,False,attack,Not fleeing,False,,,True,CA,37047,68.2,33.4,45.6,15,1.3,4,60
+864,6381,,2020-10-22,shot,gun,35.0,M,W,Barstow,CA,False,attack,Car,False,-117.01700000000001,34.885999999999996,True,CA,39632,79.8,33.7,52.3,14.6,2.1,3.2,42.8
+865,6383,,2020-10-23,shot,gun,,M,,Loma Linda,CA,False,attack,Car,False,,,True,CA,55895,90.3,17.6,47.8,8.7,0.4,28.3,22.2
+866,6389,David Angel Villalobos-Baldovinos,2020-10-23,shot,unarmed,30.0,M,H,San Ysidro,CA,False,attack,Not fleeing,False,-117.04700000000001,32.556,True,,,,,,,,,
+867,6388,Bruce Allan Shumaker,2020-10-26,shot,gun,64.0,M,,Citrus Heighs,CA,False,attack,Not fleeing,False,-121.262,38.719,True,,,,,,,,,
+868,6315,Justin Esqueda,2020-10-28,shot,gun,30.0,M,H,Bakersfield,CA,False,attack,Foot,False,-118.98,35.399,True,CA,57095,79.6,19.8,56.8,8.2,1.5,6.2,45.5
+869,6361,Nick Burgos,2020-11-01,shot,unknown weapon,38.0,M,H,West Carson,CA,True,attack,Not fleeing,False,-118.29299999999999,33.828,True,CA,64613,84.8,8.2,35.2,10.7,0.9,31,32.7
+870,6358,Jonathan Torres Ramirez,2020-11-03,shot,undetermined,20.0,M,H,Oakland,CA,False,undetermined,Other,False,-122.17299999999999,37.749,True,CA,54618,80.4,20.4,34.5,28,0.8,16.8,25.4
+871,6287,Michael Wright,2020-11-04,shot,knife,52.0,M,B,Sacramento,CA,False,attack,Not fleeing,False,-121.51899999999999,38.494,True,CA,50739,83.4,22,45,14.6,1.1,18.3,26.9
+872,6299,Javier P. Magana,2020-11-05,shot,gun,32.0,M,H,Ventura,CA,False,other,Car,False,-119.27,34.265,True,,,,,,,,,
+873,6355,David Viveros,2020-11-06,shot and Tasered,knife,26.0,M,H,Rialto,CA,False,attack,Not fleeing,False,-117.368,34.107,True,CA,50971,67.4,19.7,44,16.4,1.1,2.3,67.6
+874,6352,Saul Salgado,2020-11-09,shot,knife,18.0,M,H,Santa Fe Springs,CA,False,attack,Not fleeing,False,-118.073,33.942,True,CA,53168,76.8,12.6,58.6,2.3,1.4,4.2,81
+875,6304,Daniel David Reyes,2020-11-10,shot,knife,27.0,M,,Oildale,CA,False,other,Foot,True,-119.03399999999999,35.415,True,CA,35552,81.4,29.3,84,0.8,1.8,1,19.3
+876,6324,Augustine Bernardo Morales,2020-11-14,shot,gun,38.0,M,H,Sacramento,CA,False,attack,,True,-121.42399999999999,38.62,True,CA,50739,83.4,22,45,14.6,1.1,18.3,26.9
+877,6397,Dolores Hernandez,2020-12-02,shot,vehicle,62.0,F,H,Redding,CA,True,attack,Not fleeing,False,-122.348,40.586,True,CA,43341,90.6,18.8,85.8,1.2,2.3,3.4,8.7
+878,6400,Christian Juarez,2020-12-06,shot,vehicle,28.0,M,H,Rowland Heights,CA,False,attack,Car,False,-117.904,33.988,True,CA,59534,84.4,11.8,23.5,1.6,0.4,59.8,27
+879,6416,Jordan Zenka,2020-12-13,shot,knife,26.0,M,W,Sacramento,CA,True,other,Not fleeing,False,-121.53399999999999,38.641999999999996,True,CA,50739,83.4,22,45,14.6,1.1,18.3,26.9
+880,6448,,2020-12-18,shot,vehicle,65.0,M,,Lucerne Valley,CA,False,attack,Car,False,-116.95,34.443000000000005,True,CA,26429,86.5,22.9,77.6,2.9,1.8,1.5,24.9
+881,6438,Moises Arreola,2020-12-19,shot,gun,32.0,M,H,Los Angeles,CA,False,attack,Not fleeing,False,-118.353,33.942,True,CA,50205,75.5,22.1,49.8,9.6,0.7,11.3,48.5
+882,6450,,2020-12-20,shot,gun,,M,,Bakersfield,CA,True,attack,Foot,True,-119.03200000000001,35.275,True,CA,57095,79.6,19.8,56.8,8.2,1.5,6.2,45.5
+883,6461,Tara Rae Liubakka,2020-12-24,shot,knife,39.0,F,W,Redding,CA,True,other,Foot,False,-122.34200000000001,40.588,True,CA,43341,90.6,18.8,85.8,1.2,2.3,3.4,8.7
+884,6466,,2020-12-28,shot,gun and machete,33.0,M,,Hesperia,CA,False,other,Not fleeing,False,-117.32,34.424,True,CA,44874,77.2,24.8,61.1,5.8,1.2,2.1,48.9
+885,6471,Trevor Seever,2020-12-29,shot,unarmed,29.0,M,W,Modesto,CA,False,undetermined,,True,-121.04,37.653,True,CA,48577,81.2,20.5,65,4.2,1.2,6.7,35.5
+886,6592,Daniel Alvarado,2021-01-02,shot,gun,38.0,M,H,San Gabriel,CA,False,attack,Not fleeing,False,-118.09,34.076,True,CA,51579,78.1,13.8,25.4,1,0.6,60.7,25.7
+887,6488,Betty Francois,2021-01-09,shot,gun,91.0,F,W,Victorville,CA,False,attack,Not fleeing,False,-117.29299999999999,34.536,True,CA,45894,78.3,26,48.5,16.8,1.4,4,47.8
+888,6496,Allen Mirzayan,2021-01-10,shot,knife,48.0,M,W,Altadena,CA,False,attack,Not fleeing,False,-118.16,34.187,True,CA,86050,89.5,11,52.8,23.7,0.7,5.4,26.9
+889,6498,Joshua Van Machado,2021-01-13,shot,gun,43.0,M,W,Visalia,CA,False,attack,Not fleeing,False,-119.288,36.313,True,CA,52157,82.7,21.3,64.5,2.1,1.4,5.4,46
+890,6522,Kershawn Geyger,2021-01-15,shot,gun,24.0,M,B,Carmichael,CA,False,attack,Not fleeing,False,-121.324,38.648,True,CA,54322,93.4,16.6,80.6,4.8,0.9,4.3,11.7
+891,6528,Robert Stephen Calderon,2021-01-18,shot,gun,46.0,M,,Sacramento,CA,False,attack,Car,False,-121.42,38.589,True,CA,50739,83.4,22,45,14.6,1.1,18.3,26.9
+892,6533,Frank Gonzales,2021-01-20,shot,metal hand tool,38.0,M,H,Fresno,CA,False,attack,Not fleeing,True,-119.74799999999999,36.736,True,CA,41531,75.2,29.8,49.6,8.3,1.7,12.6,46.9
+893,6538,David Tovar,2021-01-21,shot,undetermined,27.0,M,H,San Jose,CA,False,other,,False,-121.83,37.379,True,CA,84647,82.7,11.3,42.8,3.2,0.9,32,33.2
+894,6545,Mark Meza,2021-01-26,shot,vehicle,61.0,M,,Vacaville,CA,False,attack,Car,False,-121.986,38.347,True,CA,74001,88.4,10.7,66.3,10.3,0.9,6.1,22.9
+895,6546,,2021-01-26,shot,gun,,M,,Homeland,CA,False,attack,,False,-117.47,33.926,True,CA,33457,61,26.6,62.4,2.2,1.4,0.8,52.1
+896,6557,Javiar Magdaleno,2021-01-29,shot,gun,60.0,M,H,La Quinta,CA,False,attack,Not fleeing,False,-116.26899999999999,33.7,True,CA,71091,89.6,9.6,78.7,1.9,0.6,3.1,30.3
+897,6555,Karl Walker,2021-01-31,shot,gun,29.0,M,B,Dixon,CA,False,attack,Not fleeing,False,-121.84100000000001,38.46,True,CA,72188,78.1,13.9,71,3.1,1,3.7,40.5
+898,6577,Ariella Sage Eloise Crawford,2021-02-04,shot and Tasered,knife,33.0,F,W,Alta Sierra,CA,True,attack,,False,-121.064,39.141,True,CA,61167,96.7,2.5,93.1,0.3,0.8,1.1,7.1
+899,6568,Anthony Loia,2021-02-06,shot,gun,26.0,M,,Long Beach,CA,False,attack,,True,-118.198,33.784,True,CA,52783,79.4,20.6,46.1,13.5,0.7,12.9,40.8
+900,6566,Brooke Leann Blair,2021-02-07,shot,toy weapon,27.0,F,,Redding,CA,False,other,,False,-122.381,40.575,True,CA,43341,90.6,18.8,85.8,1.2,2.3,3.4,8.7
+901,6614,,2021-02-15,shot,undetermined,,M,,El Monte,CA,False,attack,Foot,False,-118.01100000000001,34.064,True,CA,38085,57.8,24.9,38.8,0.8,1,25.1,69
+902,6615,Royce Robertson,2021-02-15,shot,gun,33.0,M,W,Indian Wells,CA,False,other,Car,False,-116.292,33.711999999999996,True,CA,93625,94.4,4.6,95.2,0.6,0.4,1.7,4.2
+903,6632,,2021-02-25,shot,undetermined,,M,,West Sacramento,CA,False,undetermined,,False,-121.54899999999999,38.589,True,CA,52763,82.7,17.7,60.6,4.8,1.6,10.5,31.4
