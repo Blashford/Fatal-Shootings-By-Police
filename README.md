@@ -8,3 +8,5 @@ With this dataset, we want to know what, if any, factors play into the risk of p
 
 ### Method
 In order to answer this question we will be utilizing Machine Learning with both supervised and unsupervised models to determine if these events can be predicted, and we will utilize both Python Pandas and Tableau in order to provide further analysis on the data.
+
+[Tableau Visualizations](https://public.tableau.com/profile/blake.ashford#!/vizhome/Project-3_16156616983590/Mapofshootings)
