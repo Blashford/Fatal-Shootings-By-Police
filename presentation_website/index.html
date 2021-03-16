@@ -5,14 +5,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Fatal Police Shootings in the U.S.</title>
-    <link rel="stylesheet" href="bootstrap.min (1).css">
+    <link rel="stylesheet" href="bootstrap.min (2).css">
     <script src="https://d3js.org/d3.v5.min.js"></script>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 </head>
 
 <body>
-    <nav class="navbar navbar-dark bg-primary">
-        <span class="navbar-brand mb-0 h1">Unsupervised Machine Learning Results</span>
+    <nav class="navbar navbar-dark bg-primary justify-content-center">
+        <span class="navbar-brand mb-0 h1">Fatal Police Shootings in the U.S. 2015-2020: Unsupervised Machine Learning Results</span>
     </nav>
     <br>
     <br>
@@ -22,7 +22,8 @@
                 <img src="img/city_demographics.png">
             </div>
             <div class="col-md-1"></div>
-            <div class="col-md-5" id="bar">
+            <div class="col-md-5">
+                <br>
                 <h2>City Demographics</h2>
                 <ul>
                     <li>Median Income</li>
@@ -38,7 +39,8 @@
                 <img src="img/city_full.png">
             </div>
             <div class="col-md-1"></div>
-            <div class="col-md-5" id="bar">
+            <div class="col-md-5">
+                <br>
                 <h2>Shooting Demographics</h2>
                 <p>City demographics & details on the shooting, such as:</p>
                 <ul>
@@ -54,7 +56,8 @@
                 <img src="img/people.png">
             </div>
             <div class="col-md-1"></div>
-            <div class="col-md-5" id="bar">
+            <div class="col-md-5">
+                <br>
                 <h2>Shooting Details</h2>
                 <p>Information surrounding the circumstances of the person who was killed.</p>
                 <ul>
@@ -75,13 +78,18 @@
                 <img src="img/people_scaled.png">
             </div>
             <div class="col-md-1"></div>
-            <div class="col-md-5" id="bar">
+            <div class="col-md-5">
+                <br>
                 <h2>Scaled Shooting Details</h2>
                 <p>Information surrounding the circumstances of the person who was killed, after scaling.</p>
                 <p>Silhouette Score: <i>0.171</i></p>
             </div>
         </div>
     </div>
+    <br>
+    <nav class="navbar navbar-dark bg-primary justify-content-center">
+        <h5 class="text-muted">Source: The Washington Post via Kaggle</h5>
+    </nav>
 
     <script src="plots.js"></script>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
