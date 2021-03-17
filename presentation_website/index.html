@@ -85,6 +85,71 @@
                 <p>Silhouette Score: <i>0.171</i></p>
             </div>
         </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-6">
+                <img src="img/race.png">
+            </div>
+            <div class="col-md-1"></div>
+            <div class="col-md-5">
+                <br>
+                <h2>Shootings by race</h2>
+                <p>White people make up about 45% of the fatal shootings in the dataset</p>
+                <p>White people also make up about 60% of the total population</p>
+            </div>
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-6">
+                <img src="img/threat_level.png">
+            </div>
+            <div class="col-md-1"></div>
+            <div class="col-md-5">
+                <br>
+                <h2>Threat Level</h2>
+                <p>There are three levels of threat in the dataset: attack, other, and undetermined</p>
+                <p>We broke it down to either a threat(attack) or not(other/undetermined)</p>
+            </div>
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-6">
+                <img src="img/logregcols.png">
+            </div>
+            <div class="col-md-1"></div>
+            <div class="col-md-5">
+                <br>
+                <h2>Logistic Regression round 1</h2>
+                <p>Columns used: Race, Armed, Threat Level, signs of mental illness, flee</p>
+                <p>Training Score: <i>0.679</i></p>
+                <p>Testing Score: <i>0.664</i></p>
+            </div>
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-6">
+                <img src="img/racelogregcols.png">
+            </div>
+            <div class="col-md-1"></div>
+            <div class="col-md-5">
+                <br>
+                <h2>Logistic Regression round 2</h2>
+                <p>Columns used: Race, Threat Level</p>
+                <p>Training Score: <i>0.646</i></p>
+                <p>Testing Score: <i>0.645</i></p>
+            </div>
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-12">
+                <br>
+                <h2>Logistic Regression round 3</h2>
+                <p>Using just the data that had body cam footage</p>
+                <p>Columns used: Race, Armed, Threat Level, signs of mental illness, flee</p>
+                <p>Training Score: <i>0.633</i></p>
+                <p>Testing Score: <i>0.577</i></p>
+            </div>
+        </div>
     </div>
     <br>
     <nav class="navbar navbar-dark bg-primary justify-content-center">
