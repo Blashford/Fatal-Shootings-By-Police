@@ -10,4 +10,5 @@ With this dataset, we want to know what, if any, factors play into the risk of p
 In order to answer this question we will be utilizing Machine Learning with both supervised and unsupervised models to determine if these events can be predicted, and we will utilize both Python Pandas and Tableau in order to provide further analysis on the data. Our analysis is captured in several different noteboks, but you can find summaries below (downloading the Tableau file is recommended).
 
 [Tableau Visualizations](https://public.tableau.com/profile/blake.ashford#!/vizhome/Project-3_16156616983590/Mapofshootings)
+
 [Machine Learning Summary](https://blashford.github.io/Project-3/presentation_website/index.html)
