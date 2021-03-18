@@ -7,6 +7,7 @@ We'll be using data gathered by The Washington Post on fatal police shootings be
 With this dataset, we want to know what, if any, factors play into the risk of police fatally shooting suspects. These factors include which state and city the shooting occured in, which we can break down into median household income, highschool education, percent below poverty, racial demographics for each city. We will also look at the individuals who lost their lives, their age, race, whether or not they were fleeing, if they were armed, and if they were exhibiting signs of mental illness.
 
 ### Method
-In order to answer this question we will be utilizing Machine Learning with both supervised and unsupervised models to determine if these events can be predicted, and we will utilize both Python Pandas and Tableau in order to provide further analysis on the data.
+In order to answer this question we will be utilizing Machine Learning with both supervised and unsupervised models to determine if these events can be predicted, and we will utilize both Python Pandas and Tableau in order to provide further analysis on the data. Our analysis is captured in several different noteboks, but you can find summaries below (downloading the Tableau file is recommended).
 
 [Tableau Visualizations](https://public.tableau.com/profile/blake.ashford#!/vizhome/Project-3_16156616983590/Mapofshootings)
+[Machine Learning Summary](https://blashford.github.io/Project-3/presentation_website/index.html)
